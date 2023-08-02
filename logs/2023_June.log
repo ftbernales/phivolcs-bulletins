@@ -1,0 +1,3 @@
+CRITICAL (2023-08-02 14:58:38,395): <class 'UnicodeEncodeError'>
+'charmap' codec can't encode character '\x91' in position 23: character maps to <undefined>
+['  File "C:\\Users\\AMH-L91\\documents\\projects\\phivolcs-bulletins\\phivolcs_bulletin.py", line 130, in <module>\n    df_phv = get_page(sys.argv[1])\n', '  File "C:\\Users\\AMH-L91\\documents\\projects\\phivolcs-bulletins\\phivolcs_bulletin.py", line 60, in get_page\n    location = location.encode(\'windows-1252\').decode(\'utf-8\')\n', '  File "C:\\Users\\AMH-L91\\anaconda3\\envs\\webparse\\lib\\encodings\\cp1252.py", line 12, in encode\n    return codecs.charmap_encode(input,errors,encoding_table)\n']

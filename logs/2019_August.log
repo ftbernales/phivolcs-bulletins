@@ -1,0 +1,21 @@
+WARNING (2023-08-02 09:55:54,680): Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001CF62605E40>, 'Connection to earthquake.phivolcs.dost.gov.ph timed out. (connect timeout=None)')': /2019_Earthquake_Information/August/2019_0831_1503_B2.html
+WARNING (2023-08-02 10:10:41,017): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/August/2019_0804_0612_B1F.pdf
+WARNING (2023-08-02 10:10:42,128): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/August/2019_0803_2345_B1F.pdf
+WARNING (2023-08-02 10:11:17,031): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/August/2019_0803_1043_B1F.pdf
+WARNING (2023-08-02 10:11:17,538): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/August/2019_0803_1029_B1F.pdf
+WARNING (2023-08-02 10:12:27,275): 
+Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/August/2019_0802_1818_B2_Aurora.html
+WARNING (2023-08-02 10:12:39,837): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/August/2019_0802_0219_B1F.pdf
+WARNING (2023-08-02 10:12:41,927): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/August/2019_0801_2340_B1F.pdf
+WARNING (2023-08-02 10:12:58,851): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/August/2019_0801_0723_B1F.pdf
+WARNING (2023-08-02 10:12:59,434): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/August/2019_0801_0717_B1F.pdf
+WARNING (2023-08-02 10:13:01,427): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/August/2019_0801_0016_B1F.pdf
