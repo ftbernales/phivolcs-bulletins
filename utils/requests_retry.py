@@ -1,7 +1,8 @@
-import requests, logging
+import logging
+from requests import Session
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
-from requests.exceptions import RetryError
+from requests.exceptions import RetryError, MissingSchema, HTTPError
 
 def requests_retry(url, verify_ssl=True):
     """
@@ -28,7 +29,11 @@ def requests_retry(url, verify_ssl=True):
     except RetryError:
         logging.warning(f'\nMax retries exceeded with url: {url}')
         return None
-
-    page_request.raise_for_status()
+    except MissingSchema as errmiss:
+        logging.critical(f'\nInvalid schema for {url}')
+        return None
+    except HTTPError as errh:
+        logging.critical(f'\n{errh.args[0]}')
+        return None
 
     return page_request
