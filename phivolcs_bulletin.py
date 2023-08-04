@@ -31,7 +31,7 @@ def get_page(page_url):
 
     page_request = requests_retry(page_url, verify_ssl=False)
 
-    soup = BeautifulSoup(page_request.text, 'html.parser')
+    soup = BeautifulSoup(page_request.text, 'html5lib')
     phivolcs_tables = soup.find_all('table', attrs={'class': 'MsoNormalTable'})
     # Get html table with most rows, which corresponds to the bulletin table
     table_list = [pd.read_html(str(tab), encoding='windows-1252', header=0,
@@ -54,7 +54,6 @@ def get_page(page_url):
     # Loop through entire dataframe
     for i, date_row in enumerate(tqdm(df_phivolcs.iloc[:,0], 
                                  desc='Reading event info: ')):
-
         # Fixing the char encoding
         location = normalize('NFC', df_phivolcs.at[i,'location'])
         location = location.encode('windows-1252').decode('utf-8')
