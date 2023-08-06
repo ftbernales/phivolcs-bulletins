@@ -11,7 +11,7 @@ from utils.exception_logging import exception_logging
 from pathlib import Path
 from tqdm import tqdm
 from time import sleep
-from unicodedata import normalize
+from charset_normalizer import detect
 import argparse
 
 disable_warnings(exceptions.InsecureRequestWarning)
@@ -30,11 +30,11 @@ def get_page(page_url):
     df_phivolcs = pd.DataFrame(columns=heads)
 
     page_request = requests_retry(page_url, verify_ssl=False)
-
-    soup = BeautifulSoup(page_request.text, 'html5lib')
+    soup = BeautifulSoup(page_request.content, 'html5lib', 
+                         from_encoding=detect(page_request.content)['encoding'])
     phivolcs_tables = soup.find_all('table', attrs={'class': 'MsoNormalTable'})
     # Get html table with most rows, which corresponds to the bulletin table
-    table_list = [pd.read_html(str(tab), encoding='windows-1252', header=0,
+    table_list = [pd.read_html(str(tab), header=0,
                             extract_links='all')[0] for tab in phivolcs_tables]
     table_list_lengths = [len(df.index) for df in table_list]
     df_phivolcs = table_list[table_list_lengths.index(max(table_list_lengths))]
@@ -55,8 +55,7 @@ def get_page(page_url):
     for i, date_row in enumerate(tqdm(df_phivolcs.iloc[:,0], 
                                  desc='Reading event info: ')):
         # Fixing the char encoding
-        location = normalize('NFC', df_phivolcs.at[i,'location'])
-        location = location.encode('windows-1252').decode('utf-8')
+        location = df_phivolcs.at[i,'location']
         location = location.replace('  ', ' ')
         df_phivolcs.at[i,'location'] = location
         # get each links in tuple of Date column
