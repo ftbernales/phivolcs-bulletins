@@ -3,6 +3,7 @@ from requests import Session
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
 from requests.exceptions import RetryError, MissingSchema, HTTPError
+from fake_useragent import UserAgent
 
 def requests_retry(url, verify_ssl=True):
     """
@@ -24,7 +25,8 @@ def requests_retry(url, verify_ssl=True):
     s.mount('https://', HTTPAdapter(max_retries=retries))
 
     try:
-        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"}
+        ua = UserAgent()
+        headers = {"User-Agent": ua.random}
         page_request = s.get(url, verify=verify_ssl, headers=headers, timeout=9)
         page_request.raise_for_status()
     except RetryError:
