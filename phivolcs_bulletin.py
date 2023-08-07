@@ -67,7 +67,7 @@ def get_page(page_url):
                 'unspecified'
             # Converting datetime values (w/o sec part) from local time to UTC
             df_phivolcs.at[i,'datetime'] = _convert_pst_to_utc(
-                date_row[0])
+                date_row[0].replace(u'\ufeff', '')) # clear BOM
         else:
             df_phivolcs.at[i,'event_type'] = df_event_info.at[1,'Origin']
             df_phivolcs.at[i,'mag_type'] = \
