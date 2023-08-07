@@ -1,38 +1,40 @@
-WARNING (2023-08-01 04:14:26,210): 
+WARNING (2023-08-07 23:51:14,304): 
 Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/December/2019_1231_0108_B2.jpg
-WARNING (2023-08-01 04:17:14,223): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/December/2019_1221_1905_B1.html
-WARNING (2023-08-01 04:18:09,801): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/December/2019_1220_1939_B2.html
-WARNING (2023-08-01 04:18:58,006): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/December/2019_1220_1923_B2.html
-WARNING (2023-08-01 04:19:59,344): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/December/2019_1220_1441_B1_SurigaoDelSur.html
-WARNING (2023-08-01 04:20:47,221): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/December/2019_1220_1441_B1_OccidentalMindoro.html
-WARNING (2023-08-01 04:27:26,249): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_2049_B2.html
-WARNING (2023-08-01 04:28:08,420): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_2040_B2.html
-WARNING (2023-08-01 04:28:56,236): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_2031_B2.html
-WARNING (2023-08-01 04:29:32,250): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_2004_B2.html
-WARNING (2023-08-01 04:30:09,051): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1941_B2.html
-WARNING (2023-08-01 04:30:44,254): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1934_B2.html
-WARNING (2023-08-01 04:31:20,252): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1927_B2.html
-WARNING (2023-08-01 04:31:56,256): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1919_B2.html
-WARNING (2023-08-01 04:32:32,247): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1916_B2.html
-WARNING (2023-08-01 04:33:08,255): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1902_B2.html
-WARNING (2023-08-01 04:33:44,251): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1849_B2.html
-WARNING (2023-08-01 04:34:26,454): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1819_B2.html
-WARNING (2023-08-01 04:35:14,262): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1705_B2.html
+CRITICAL (2023-08-07 23:58:49,618): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/December/2019_1221_1905_B1.html
+WARNING (2023-08-08 00:00:02,912): Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', FileNotFoundError(2, 'No such file or directory'))': /2019_Earthquake_Information/December/2019_1220_2127_B2.html
+WARNING (2023-08-08 00:00:07,164): Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000264BADF8B80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /2019_Earthquake_Information/December/2019_1220_2127_B2.html
+CRITICAL (2023-08-08 00:00:24,048): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/December/2019_1220_1939_B2.html
+CRITICAL (2023-08-08 00:00:25,043): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/December/2019_1220_1923_B2.html
+CRITICAL (2023-08-08 00:00:36,792): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/December/2019_1220_1441_B1_SurigaoDelSur.html
+CRITICAL (2023-08-08 00:00:37,194): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/December/2019_1220_1441_B1_OccidentalMindoro.html
+CRITICAL (2023-08-08 00:21:35,922): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_2049_B2.html
+CRITICAL (2023-08-08 00:21:36,106): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_2040_B2.html
+CRITICAL (2023-08-08 00:21:36,343): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_2031_B2.html
+CRITICAL (2023-08-08 00:21:36,521): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_2004_B2.html
+CRITICAL (2023-08-08 00:21:36,922): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1941_B2.html
+CRITICAL (2023-08-08 00:21:37,193): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1934_B2.html
+CRITICAL (2023-08-08 00:21:37,414): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1927_B2.html
+CRITICAL (2023-08-08 00:21:49,828): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1919_B2.html
+CRITICAL (2023-08-08 00:22:02,096): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1916_B2.html
+CRITICAL (2023-08-08 00:22:14,352): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1902_B2.html
+CRITICAL (2023-08-08 00:22:20,015): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1849_B2.html
+CRITICAL (2023-08-08 00:22:20,209): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1819_B2.html
+CRITICAL (2023-08-08 00:22:20,343): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/November/2019_1130_1705_B2.html

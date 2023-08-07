@@ -1,34 +1,42 @@
-WARNING (2023-08-02 03:06:58,331): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/March/2019_0313_0554_B2.html
-WARNING (2023-08-02 03:07:42,082): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/March/2019_0312_0446_B2.html
-WARNING (2023-08-02 03:08:39,118): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/March/2019_0309_1914_B2.html
-WARNING (2023-08-02 03:09:32,682): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/March/2019_0308_1413_B2.html
-WARNING (2023-08-02 03:10:03,627): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/March/2019_0308_1412_B2.html
-WARNING (2023-08-02 03:11:32,483): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/March/2019_0301_2051_B4F.html
-WARNING (2023-08-02 03:12:15,375): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_2131_B2.html
-WARNING (2023-08-02 03:12:46,410): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_2115_B2.html
-WARNING (2023-08-02 03:13:17,372): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_2112_B2.html
-WARNING (2023-08-02 03:13:48,273): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_2058_B2.html
-WARNING (2023-08-02 03:14:19,805): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_2012_B2.html
-WARNING (2023-08-02 03:14:50,749): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_1856_B2.html
-WARNING (2023-08-02 03:15:21,931): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_1846_B2.html
-WARNING (2023-08-02 03:15:53,596): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_1737_B2.html
-WARNING (2023-08-02 03:16:26,351): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_1708_B2.html
-WARNING (2023-08-02 03:16:57,284): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_1645_B2.html
-WARNING (2023-08-02 03:17:28,194): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_1633_B2.html
+WARNING (2023-08-07 20:07:10,249): Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000257405CE020>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /EQLatest-Monthly/2019/2019_March.html
+WARNING (2023-08-07 20:07:12,262): Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000257405CE260>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /EQLatest-Monthly/2019/2019_March.html
+WARNING (2023-08-07 20:07:16,271): Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000257405CE440>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /EQLatest-Monthly/2019/2019_March.html
+WARNING (2023-08-07 20:08:44,281): Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000025741C06080>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /2019_Earthquake_Information/March/2019_0331_0028_B2.html
+WARNING (2023-08-07 20:08:57,421): Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000025741C347C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /2019_Earthquake_Information/March/2019_0331_0028_B2.html
+WARNING (2023-08-07 20:24:45,484): Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='earthquake.phivolcs.dost.gov.ph', port=443): Read timed out. (read timeout=9)")': /2019_Earthquake_Information/March/2019_0321_1339_B2.html
+WARNING (2023-08-07 20:30:03,175): Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))': /2019_Earthquake_Information/March/2019_0318_0807_B2.html
+CRITICAL (2023-08-07 20:36:51,076): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/March/2019_0313_0554_B2.html
+CRITICAL (2023-08-07 20:38:09,224): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/March/2019_0312_0446_B2.html
+CRITICAL (2023-08-07 20:44:06,506): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/March/2019_0309_1914_B2.html
+CRITICAL (2023-08-07 20:47:17,865): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/March/2019_0308_1413_B2.html
+CRITICAL (2023-08-07 20:47:19,340): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/March/2019_0308_1412_B2.html
+WARNING (2023-08-07 20:54:19,889): Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='earthquake.phivolcs.dost.gov.ph', port=443): Read timed out. (read timeout=9)")': /2019_Earthquake_Information/March/2019_0304_1357_B2.html
+CRITICAL (2023-08-07 20:57:27,969): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/March/2019_0301_2051_B4F.html
+CRITICAL (2023-08-07 20:58:49,218): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_2131_B2.html
+CRITICAL (2023-08-07 20:58:49,704): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_2115_B2.html
+CRITICAL (2023-08-07 20:58:50,147): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_2112_B2.html
+CRITICAL (2023-08-07 20:58:50,527): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_2058_B2.html
+CRITICAL (2023-08-07 20:58:52,170): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_2012_B2.html
+CRITICAL (2023-08-07 20:58:52,594): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_1856_B2.html
+CRITICAL (2023-08-07 20:59:06,751): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_1846_B2.html
+CRITICAL (2023-08-07 20:59:12,900): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_1737_B2.html
+CRITICAL (2023-08-07 20:59:13,729): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_1708_B2.html
+CRITICAL (2023-08-07 20:59:15,285): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_1645_B2.html
+CRITICAL (2023-08-07 20:59:16,030): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2019/2019_Earthquake_Information/February/2019_0228_1633_B2.html
