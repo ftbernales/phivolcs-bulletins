@@ -1,5 +1,79 @@
-WARNING (2023-08-03 17:31:53,679): 
+WARNING (2023-08-07 05:44:46,573): 
 Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_1534_B2.html
-CRITICAL (2023-08-03 17:31:53,766): <class 'dateutil.parser._parser.ParserError'>
-Unknown string format: ﻿31 October 2018 - 11:34 PM
-['  File "C:\\Users\\AMH-L91\\documents\\projects\\phivolcs-bulletins\\phivolcs_bulletin.py", line 130, in <module>\n    df_phv = get_page(sys.argv[1])\n', '  File "C:\\Users\\AMH-L91\\documents\\projects\\phivolcs-bulletins\\phivolcs_bulletin.py", line 71, in get_page\n    df_phivolcs.at[i,\'datetime\'] = _convert_pst_to_utc(\n', '  File "C:\\Users\\AMH-L91\\documents\\projects\\phivolcs-bulletins\\phivolcs_bulletin.py", line 123, in _convert_pst_to_utc\n    pivs_datetime = parse(pst_datetime)\n', '  File "C:\\Users\\AMH-L91\\anaconda3\\envs\\webparse\\lib\\site-packages\\dateutil\\parser\\_parser.py", line 1368, in parse\n    return DEFAULTPARSER.parse(timestr, **kwargs)\n', '  File "C:\\Users\\AMH-L91\\anaconda3\\envs\\webparse\\lib\\site-packages\\dateutil\\parser\\_parser.py", line 643, in parse\n    raise ParserError("Unknown string format: %s", timestr)\n']
+WARNING (2023-08-07 05:44:46,907): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_1452_B2.html
+WARNING (2023-08-07 05:44:47,052): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_1417_B2.html
+WARNING (2023-08-07 05:44:47,230): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_1237_B2.html
+WARNING (2023-08-07 05:44:47,420): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_1028_B2.html
+WARNING (2023-08-07 05:44:47,572): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_0744_B2.html
+WARNING (2023-08-07 05:44:47,796): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_0706_B2.html
+WARNING (2023-08-07 05:44:48,010): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_0020_B2F.html
+WARNING (2023-08-07 05:44:48,143): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_2327_B3F.html
+WARNING (2023-08-07 05:44:48,396): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_2243_B2.html
+WARNING (2023-08-07 05:44:48,647): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_2030_B2.html
+WARNING (2023-08-07 05:44:48,959): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_2016_B2.html
+WARNING (2023-08-07 05:44:49,058): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_1827_B2.html
+WARNING (2023-08-07 05:44:49,310): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_1823_B2.html
+WARNING (2023-08-07 05:45:00,738): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_1702_B2.html
+WARNING (2023-08-07 05:45:06,641): Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000025EADC93E80>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /2018_Earthquake_Information/October/2018_1030_1532_B2.html
+WARNING (2023-08-07 05:45:08,648): Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000025EADC93A00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /2018_Earthquake_Information/October/2018_1030_1532_B2.html
+WARNING (2023-08-07 05:45:12,652): Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000025EADC937F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /2018_Earthquake_Information/October/2018_1030_1532_B2.html
+WARNING (2023-08-07 05:45:27,120): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_1532_B2.html
+WARNING (2023-08-07 05:45:39,222): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_1452_B2.html
+WARNING (2023-08-07 05:45:44,829): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_1435_B2.html
+WARNING (2023-08-07 05:45:45,017): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_1422_B2.html
+WARNING (2023-08-07 05:45:45,130): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_1332_B2.html
+WARNING (2023-08-07 05:45:45,332): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_1055_B2.html
+WARNING (2023-08-07 05:45:45,474): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_0620_B2.html
+WARNING (2023-08-07 05:45:45,663): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_0300_B2.html
+WARNING (2023-08-07 05:45:45,803): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_0132_B2F.html
+WARNING (2023-08-07 05:45:45,985): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_0124_B2.html
+WARNING (2023-08-07 05:45:46,218): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1030_0018_B2.html
+CRITICAL (2023-08-07 05:45:47,036): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1029_2123_B2.html
+CRITICAL (2023-08-07 05:46:19,133): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1029_1301_B2F.html
+CRITICAL (2023-08-07 05:46:20,044): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1029_0511_B2.html
+WARNING (2023-08-07 05:46:50,718): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1026_0151_B2.html
+WARNING (2023-08-07 05:46:51,127): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1026_0138_B2.html
+CRITICAL (2023-08-07 05:46:51,360): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1026_0033_B2.html
+CRITICAL (2023-08-07 05:52:05,331): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1008_0432_B2.html
+WARNING (2023-08-07 05:52:17,059): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1006_1648_B2.jpg
+CRITICAL (2023-08-07 05:56:35,685): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/September/2018_0930_2012_B2.html
+CRITICAL (2023-08-07 05:56:47,838): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/September/2018_0930_1905_B2.html
+CRITICAL (2023-08-07 05:57:00,006): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/September/2018_0930_1713_B2.html
+CRITICAL (2023-08-07 05:57:05,834): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/September/2018_0930_1638_B2.html
