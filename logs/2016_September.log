@@ -1,0 +1,12 @@
+CRITICAL (2023-08-07 17:52:03,927): 
+404 Client Error: Not Found for url: https://tsunami.phivolcs.dost.gov.ph/2016_Earthquake_Bulletins/September/2016_0924_1247_B2F.html
+CRITICAL (2023-08-07 17:52:04,192): 
+404 Client Error: Not Found for url: https://tsunami.phivolcs.dost.gov.ph/2016_Earthquake_Bulletins/September/2016_0924_1224_B2.html
+CRITICAL (2023-08-07 17:52:04,423): 
+404 Client Error: Not Found for url: https://tsunami.phivolcs.dost.gov.ph/2016_Earthquake_Bulletins/September/2016_0924_1217_B2.html
+CRITICAL (2023-08-07 17:53:50,769): 
+404 Client Error: Not Found for url: https://tsunami.phivolcs.dost.gov.ph/2016_Earthquake_Bulletins/September/2016_0922_1629_B2.html
+WARNING (2023-08-07 18:00:02,204): Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /2016_Earthquake_Bulletins/September/2016_0904_0854_B2F.html
+WARNING (2023-08-07 18:00:04,280): Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /2016_Earthquake_Bulletins/September/2016_0904_0854_B2F.html
+CRITICAL (2023-08-07 18:01:32,415): 
+404 Client Error: Not Found for url: https://tsunami.phivolcs.dost.gov.ph/2016_Earthquake_Bulletins/September/2016_0901_1714_B2.html
