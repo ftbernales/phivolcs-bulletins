@@ -26,8 +26,9 @@ def get_page(page_url):
     logging.basicConfig(filename=f'logs/{output_name}.log', filemode='w',
         level=logging.INFO, format='%(levelname)s (%(asctime)s): %(message)s')
 
+    phivolcs_heads = ['Date - Time', 'Latitude', 'Longitude', 'Depth', 'Mag',
+                      'Location']
     heads = ['datetime', 'lat', 'lon', 'depth_km', 'mag', 'location']
-    df_phivolcs = pd.DataFrame(columns=heads)
 
     page_request = requests_retry(page_url, verify_ssl=False)
     try:
@@ -49,11 +50,16 @@ def get_page(page_url):
             if len(a) > 0:
                 event_link_dict[i] = a[-1].get('href') # Get last href in <a>
 
-    # Modifying the bulletin dataframe and adding mag and event types 
-    df_phivolcs.columns = heads
+    # Modifying the dataframe to remove blank cells, check headers, 
+    # and then add Mag and Event Types 
     df_phivolcs.replace("", nan, inplace=True)
     df_phivolcs.dropna(inplace=True)
     df_phivolcs.reset_index(drop=True, inplace=True)
+    if not any(list(map(lambda col,head: col in head, 
+                    phivolcs_heads, list(df_phivolcs.columns)))):
+        df_phivolcs = pd.concat([df_phivolcs.columns.to_frame().T, df_phivolcs], 
+                                ignore_index=True)    
+    df_phivolcs.columns = heads
 
     df_phivolcs = df_phivolcs.assign(mag_type=None, event_type=None,
                                      event_links=list(event_link_dict.values()))
