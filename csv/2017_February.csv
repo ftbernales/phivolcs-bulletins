@@ -1,0 +1,384 @@
+,datetime,lat,lon,depth_km,mag,location,mag_type,event_type
+0,2017-02-28 15:26:00+00:00,14.05,120.42,116,2.4,022 km S 81° W of Nasugbu (Batangas),unspecified,unspecified
+1,2017-02-28 15:15:00+00:00,6.22,125.24,106,2.4,005 km S 15° W of Malungon (Sarangani),unspecified,unspecified
+2,2017-02-28 15:00:00+00:00,17.9,120.78,14,3.5,039 km S 31° E of Laoag City,unspecified,unspecified
+3,2017-02-28 13:36:00+00:00,13.52,124.39,15,2.2,019 km S 67° E of Virac (Catanduanes),unspecified,unspecified
+4,2017-02-28 11:56:00+00:00,4.51,125.57,14,2.5,103 km S 06° E of Sarangani (Davao Occidental),unspecified,unspecified
+5,2017-02-28 05:02:00+00:00,4.53,127.21,84,3.5,217 km S 62° E of Sarangani (Davao Occidental),unspecified,unspecified
+6,2017-02-28 03:26:00+00:00,12.16,125.87,17,3.3,039 km S 86° E of San Policarpo (Eastern Samar),unspecified,unspecified
+7,2017-02-27 21:43:00+00:00,18.62,121.2,14,2.8,013 km N 86° E of Claveria (Cagayan),unspecified,unspecified
+8,2017-02-27 21:18:00+00:00,16.87,120.19,16,2.3,023 km N 46° W of Bacnotan (La Union),unspecified,unspecified
+9,2017-02-27 19:44:00+00:00,13.94,120.43,88,2.1,025 km N 62° W of Calatagan (Batangas),unspecified,unspecified
+10,2017-02-27 19:28:00+00:00,9.78,125.41,26,2.2,028 km S 44° W of Dinagat (Dinagat),unspecified,unspecified
+11,2017-02-27 15:01:00+00:00,10.04,124.24,6,3.2,016 km N 15° W of Dagohoy (Bohol),unspecified,unspecified
+12,2017-02-27 14:44:00+00:00,13.66,120.57,88,3.1,021 km S 18° W of Calatagan (Batangas),unspecified,unspecified
+13,2017-02-27 14:16:00+00:00,18.82,121.96,8,2.4,062 km N 03° W of Gonzaga (Cagayan),unspecified,unspecified
+14,2017-02-27 13:05:00+00:00,13.93,120.54,111,2.5,015 km N 43° W of Calatagan (Batangas),unspecified,unspecified
+15,2017-02-27 12:47:00+00:00,15.21,122.34,53,2.5,051 km N 16° E of Patnanungan (Quezon),unspecified,unspecified
+16,2017-02-27 12:37:00+00:00,9.35,122.48,2,3.0,019 km S 70° W of Basay (Negros Oriental),unspecified,unspecified
+17,2017-02-27 09:01:00+00:00,5.96,126.12,35,4.5,054 km S 61° E of Don Marcelino (Davao Occidental),unspecified,unspecified
+18,2017-02-27 00:22:00+00:00,11.07,122.16,14,2.7,009 km N 25° W of Valderama (Antique),unspecified,unspecified
+19,2017-02-27 00:03:00+00:00,3.45,126.88,90,4.0,270 km S 35° E of Sarangani (Davao Occidental),unspecified,unspecified
+20,2017-02-26 22:07:00+00:00,9.12,122.53,26,2.0,034 km S 22° W of Basay (Negros Oriental),unspecified,unspecified
+21,2017-02-26 15:02:00+00:00,13.26,123.84,9,2.5,007 km S 57° W of Bacacay (Albay),unspecified,unspecified
+22,2017-02-26 12:37:00+00:00,9.81,125.39,20,2.7,004 km N 44° W of San Francisco (Anao-aon) (Surigao Del Norte),unspecified,unspecified
+23,2017-02-26 12:37:00+00:00,12.54,121.93,17,2.4,009 km S 86° W of San Andres (Romblon),unspecified,unspecified
+24,2017-02-26 09:45:00+00:00,10.03,125.44,179,2.9,015 km N 88° W of San Jose (Dinagat),unspecified,unspecified
+25,2017-02-26 09:27:00+00:00,9.84,125.37,11,2.6,009 km N 37° W of San Francisco (Anao-aon) (Surigao Del Norte),unspecified,unspecified
+26,2017-02-26 09:26:00+00:00,8.47,123.09,29,2.4,031 km S 64° W of Dipolog City,unspecified,unspecified
+27,2017-02-26 00:53:00+00:00,14.19,120.24,48,2.2,038 km S 44° W of Mariveles (Bataan),unspecified,unspecified
+28,2017-02-26 00:47:00+00:00,13.54,121.71,12,2.9,018 km N 69° W of Boac (Marinduque),unspecified,unspecified
+29,2017-02-26 00:35:00+00:00,17.73,120.95,19,2.6,005 km S 28° E of Tineg (Abra),unspecified,unspecified
+30,2017-02-25 22:06:00+00:00,13.56,120.51,53,2.7,015 km N 29° E of Paluan (Occidental Mindoro),unspecified,unspecified
+31,2017-02-25 21:27:00+00:00,10.57,126.87,14,4.1,107 km N 56° E of Burgos (Surigao del Norte),unspecified,unspecified
+32,2017-02-25 19:43:00+00:00,10.57,126.64,1,3.3,087 km N 45° E of Burgos (Surigao del Norte),unspecified,unspecified
+33,2017-02-25 18:57:00+00:00,10.6,127.06,33,5.0,123 km N 59° E of Burgos (Surigao del Norte),unspecified,unspecified
+34,2017-02-25 18:41:00+00:00,13.7,120.63,120,2.3,015 km S 01° W of Calatagan (Batangas),unspecified,unspecified
+35,2017-02-25 18:04:00+00:00,9.28,126.3,30,3.0,012 km S 90° E of Cortes (Surigao del Sur),unspecified,unspecified
+36,2017-02-25 14:04:00+00:00,11.86,124.12,3,2.9,011 km S 62° E of Pio V. Corpuz (Limbuhan)(Masbate),unspecified,unspecified
+37,2017-02-25 12:42:00+00:00,13.61,120.61,27,1.6,025 km S 06° W of Calatagan (Batangas),unspecified,unspecified
+38,2017-02-25 11:55:00+00:00,10.1,124.83,34,2.0,003 km S 08° W of Maasin (Southern Leyte),unspecified,unspecified
+39,2017-02-25 11:10:00+00:00,9.77,121.92,18,3.1,053 km N 89° W of Sipalay (Negros Occidental),unspecified,unspecified
+40,2017-02-25 10:57:00+00:00,9.74,121.86,25,3.5,060 km S 88° W of Sipalay (Negros Occidental),unspecified,unspecified
+41,2017-02-25 10:01:00+00:00,9.62,125.43,10,2.0,003 km N 82° E of Malimono (Surigao del Norte),unspecified,unspecified
+42,2017-02-25 09:43:00+00:00,9.01,126.52,35,2.6,027 km N 80° E of Bayabas (Surigao del Sur),unspecified,unspecified
+43,2017-02-25 04:49:00+00:00,15.22,120.23,71,2.2,20 km N 71° E of Cabangan (Zambales),unspecified,unspecified
+44,2017-02-25 04:07:00+00:00,9.42,121.93,25,2.2,064 km S 77° W of Hinoba-an (Negros Occidental),unspecified,unspecified
+45,2017-02-24 22:48:00+00:00,9.83,125.39,25,2.1,006 km N 28° W of San Francisco (Anao-aon) (Surigao Del Norte),unspecified,unspecified
+46,2017-02-24 22:03:00+00:00,13.97,120.44,10,2.0,023 km S 58° W of Nasugbu (Batangas),unspecified,unspecified
+47,2017-02-24 21:11:00+00:00,6.29,124.82,3,3.5,010 km N 73° E of Lake Sebu (South Cotabato),unspecified,unspecified
+48,2017-02-24 20:21:00+00:00,9.77,125.45,17,2.3,004 km S 82 E of San Francisco (Anao-aon) (Surigao Del Norte),unspecified,unspecified
+49,2017-02-24 18:27:00+00:00,6.15,126.83,42,4.2,108 km S 23° E of Tarragona (Davao Oriental),unspecified,unspecified
+50,2017-02-24 17:17:00+00:00,10.54,125.78,31,2.2,030 km N 48° E of Loreto (Dinagat),unspecified,unspecified
+51,2017-02-24 15:54:00+00:00,6.77,126.87,25,2.8,056 km S 57° E of Tarragona (Davao Oriental),unspecified,unspecified
+52,2017-02-24 13:56:00+00:00,12.64,124.39,111,3.0,005 km S 32° E of Biri (Northern Samar),unspecified,unspecified
+53,2017-02-24 13:17:00+00:00,9.69,121.81,3,3.4,066 km S 83° W of Sipalay (Negros Occidental),unspecified,unspecified
+54,2017-02-24 13:11:00+00:00,8.4,125.48,48,2.2,030 km S 71° W of San Luis (Agusan del Sur),unspecified,unspecified
+55,2017-02-24 12:36:00+00:00,9.91,125.39,7,2.7,005 km N 41° W of Surigao City,unspecified,unspecified
+56,2017-02-24 07:41:00+00:00,9.67,121.84,7,2.8,063 km S 81° W of Sipalay (Negros Occidental),unspecified,unspecified
+57,2017-02-24 02:55:00+00:00,13.48,120.55,30,2.4,012 km N 48° E of Paluan (Occidental Mindoro),unspecified,unspecified
+58,2017-02-24 02:52:00+00:00,9.77,125.44,31,2.5,002 km S 54° E of San Francisco (Anao-aon) (Surigao Del Norte),unspecified,unspecified
+59,2017-02-23 21:51:00+00:00,9.81,125.46,29,2.5,005 km N 58° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+60,2017-02-23 20:30:00+00:00,16.44,122.31,19,2.5,011 km S 27° E of Dinapigue (Isabela),unspecified,unspecified
+61,2017-02-23 20:30:00+00:00,7.3,126.36,18,2.4,023 km S 80° E of Caraga (Davao Oriental),unspecified,unspecified
+62,2017-02-23 19:59:00+00:00,10.93,123.24,5,2.5,008 km S 71° W of Cadiz City (Negros Occidental),unspecified,unspecified
+63,2017-02-23 18:31:00+00:00,14.98,119.85,26,3.1,025 km N 84° W of San Antonio (Zambales),unspecified,unspecified
+64,2017-02-23 16:25:00+00:00,9.05,125.66,15,2.3,008 km N 00° E of Remedios Romualdez (Agusan Del Norte),unspecified,unspecified
+65,2017-02-23 15:19:00+00:00,19.04,121.31,7,2.1,031 km S 31° W of Calayan (Cagayan),unspecified,unspecified
+66,2017-02-23 15:14:00+00:00,10.54,125.46,26,2.0,023 km N 33° W of Loreto (Dinagat),unspecified,unspecified
+67,2017-02-23 11:17:00+00:00,7.02,125.55,4,4.0,008 km S 57° W of Davao City (Davao del Sur),unspecified,unspecified
+68,2017-02-23 10:07:00+00:00,9.72,126.42,26,2.3,030 km S 77° E of General Luna (Surigao Del Norte),unspecified,unspecified
+69,2017-02-23 07:38:00+00:00,9.59,125.3,31,2.4,017 km S 10° W of Malimono (Surigao Del Norte),unspecified,unspecified
+70,2017-02-23 05:40:00+00:00,11.31,126.02,12,2.3,042 km N 55° E of Mercedes (Eastern Samar),unspecified,unspecified
+71,2017-02-23 05:16:00+00:00,7.17,125.57,5,3.0,012 km N 21° W of Davao City (Davao del Sur),unspecified,unspecified
+72,2017-02-23 03:06:00+00:00,5.44,124.58,6,3.5,061 km S 04° W of Kiamba (Sarangani),unspecified,unspecified
+73,2017-02-23 01:50:00+00:00,7.11,125.58,14,4.7,009 km N 42° W of Davao City (Davao del Sur),unspecified,unspecified
+74,2017-02-22 23:36:00+00:00,7.73,121.4,52,3.8,080 km N 88° W of Siocon (Zamboanga Del Norte),unspecified,unspecified
+75,2017-02-22 20:51:00+00:00,8.27,127.18,35,3.0,088 km N 74° E of Lingig (Surigao Del Sur),unspecified,unspecified
+76,2017-02-22 15:02:00+00:00,15.19,119.61,32,2.4,042 km S 68° W of Iba (Zambales),unspecified,unspecified
+77,2017-02-22 15:02:00+00:00,9.38,125.53,1,3.1,011 km S 29° W of Alegria (Surigao del Norte),unspecified,unspecified
+78,2017-02-22 12:52:00+00:00,9.98,126.06,5,2.7,005 km S 13° W of Burgos (Surigao del Norte),unspecified,unspecified
+79,2017-02-22 09:09:00+00:00,10.2,125.51,25,3.4,002 km N 83° W of Libjo (Albor) (Surigao Del Norte),unspecified,unspecified
+80,2017-02-22 05:31:00+00:00,4.16,127.6,56,4.7,275 km S 59° E of Sarangani (Davao Occidental),unspecified,unspecified
+81,2017-02-22 04:30:00+00:00,18.98,121.41,110,2.7,033 km S 09° W of Calayan (Cagayan),unspecified,unspecified
+82,2017-02-22 01:14:00+00:00,18.78,121.56,79,2.3,042 km N 33° E of Pamplona (Cagayan),unspecified,unspecified
+83,2017-02-21 19:51:00+00:00,15.38,119.92,52,2.0,007 km S 17° E of Palauig (Zambales),unspecified,unspecified
+84,2017-02-20 18:02:00+00:00,13.85,120.52,85,2.0,012 km N 79° W of Calatagan (Batangas),unspecified,unspecified
+85,2017-02-21 13:53:00+00:00,9.93,126.35,4,3.0,027 km N 53° E of General Luna (Surigao Del Norte),unspecified,unspecified
+86,2017-02-21 11:50:00+00:00,5.28,126.32,10,3.6,096 km S 80° E of Sarangani (Davao Occidental),unspecified,unspecified
+87,2017-02-21 10:07:00+00:00,13.66,120.63,122,2.3,019 km S 02° W of Calatagan (Batangas),unspecified,unspecified
+88,2017-02-21 09:22:00+00:00,9.89,123.95,15,2.7,003 km N 00° of San Isidro (Bohol),unspecified,unspecified
+89,2017-02-21 01:26:00+00:00,10.01,125.41,33,2.9,018 km S 86° W of San Jose (Dinagat),unspecified,unspecified
+90,2017-02-21 00:20:00+00:00,19.08,121.14,11,2.5,041 km S 57° W of Calayan (Cagayan),unspecified,unspecified
+91,2017-02-20 23:35:00+00:00,19.95,121.8,31,3.2,044 km S 09° W of Sabtang (Batanes),unspecified,unspecified
+92,2017-02-20 18:43:00+00:00,13.58,120.53,42,1.9,019 km N 19° E of Paluan (Occidental Mindoro),unspecified,unspecified
+93,2017-02-20 18:01:00+00:00,11.59,125.52,17,2.5,010 km S 79° E of Borongan (Eastern Samar),unspecified,unspecified
+94,2017-02-20 17:41:00+00:00,19.89,121.9,19,2.5,049 km S 04° E of Sabtang (Batanes),unspecified,unspecified
+95,2017-02-20 16:44:00+00:00,15.45,119.9,22,2.1,002 km N 06° W of Palauig (Zambales),unspecified,unspecified
+96,2017-02-20 16:17:00+00:00,10.15,124.84,1,2.7,002 km N 08° W of Maasin (Southern Leyte),unspecified,unspecified
+97,2017-02-20 15:48:00+00:00,17.83,120.86,20,2.8,010 km N 48° W of Tineg (Abra),unspecified,unspecified
+98,2017-02-20 15:43:00+00:00,13.35,121.15,5,3.1,005 km S 49° W of Calapan City (Oriental Mindoro),unspecified,unspecified
+99,2017-02-20 14:57:00+00:00,6.75,126.63,35,2.8,038 km S 32° E of Tarragona (Davao Oriental),unspecified,unspecified
+100,2017-02-20 10:06:00+00:00,13.58,120.71,92,2.5,015 km N 08° W of Abra De Ilog (Occidental Mindoro),unspecified,unspecified
+101,2017-02-20 07:42:00+00:00,9.94,126.11,12,3.3,009 km S 25° E of Burgos (Surigao Del Norte),unspecified,unspecified
+102,2017-02-20 06:19:00+00:00,9.49,122.47,15,2.2,008 km S 18° W of Hinoba-an (Negros Occidental),unspecified,unspecified
+103,2017-02-20 04:44:00+00:00,10.23,125.52,106,2.8,016 km S 22° W of Loreto (Dinagat),unspecified,unspecified
+104,2017-02-19 18:36:00+00:00,13.61,120.64,6,2.2,025 km S 02° E of Calatagan (Batangas),unspecified,unspecified
+105,2017-02-19 17:53:00+00:00,20.35,121.89,77,2.5,002 km N 60° E of Sabtang (Batanes),unspecified,unspecified
+106,2017-02-19 17:21:00+00:00,10.19,126.15,7,2.7,020 km N 24° E of Burgos (Surigao Del Norte),unspecified,unspecified
+107,2017-02-19 15:31:00+00:00,5.85,124.09,551,4.6,043 km S 16° W of Palimbang (Sultan Kudarat),unspecified,unspecified
+108,2017-02-19 15:29:00+00:00,10.26,125.48,33,2.5,028 km N 21° W of San Jose (Dinagat),unspecified,unspecified
+109,2017-02-19 12:49:00+00:00,13.82,122.61,23,2.0,017 km N 59° E of Buenavista (Quezon),unspecified,unspecified
+110,2017-02-19 12:02:00+00:00,10.15,125.48,30,2.0,008 km S 49° W of Libjo (Surigao Del Norte),unspecified,unspecified
+111,2017-02-19 02:58:00+00:00,13.7,120.62,122,3.1,014 km S 05° W of Calatagan (Batangas),unspecified,unspecified
+112,2017-02-18 23:36:00+00:00,9.75,125.35,9,3.0,017 km S 73° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+113,2017-02-18 22:30:00+00:00,8.46,125.73,63,2.4,007 km N 78° W of Talacogon (Agusan del Sur),unspecified,unspecified
+114,2017-02-18 19:10:00+00:00,9.95,126.07,21,2.9,007 km S 01° W of Burgos (Surigao del Norte),unspecified,unspecified
+115,2017-02-18 18:53:00+00:00,10.59,126.86,18,2.8,106 km N 54° E of Burgos (Surigao del Norte),unspecified,unspecified
+116,2017-02-18 18:11:00+00:00,9.86,125.44,31,2.5,010 km N 38° W of Surigao City (Surigao del Norte),unspecified,unspecified
+117,2017-02-18 16:54:00+00:00,10.59,126.92,26,3.4,112 km N 56° E of Burgos (Surigao del Norte),unspecified,unspecified
+118,2017-02-18 16:13:00+00:00,12.56,125.13,15,3.2,054 km N 83° E of Catarman (Northern Samar),unspecified,unspecified
+119,2017-02-18 15:46:00+00:00,8.78,122.7,19,2.4,048 km S 49° W of Siaton (Negros Oriental),unspecified,unspecified
+120,2017-02-18 14:54:00+00:00,9.86,124.16,3,2.2,009 km S 53° E of Sagbayan (Bohol),unspecified,unspecified
+121,2017-02-18 11:47:00+00:00,13.64,122.79,11,2.6,020 km S 02° E of Ragay (Camarines Sur),unspecified,unspecified
+122,2017-02-18 11:18:00+00:00,10.23,125.6,34,2.7,051 km N 13° E of Surigao City (Surigao del Norte),unspecified,unspecified
+123,2017-02-18 10:38:00+00:00,9.73,125.51,22,2.7,006 km S 14° E of Surigao City (Surigao del Norte),unspecified,unspecified
+124,2017-02-18 09:50:00+00:00,10.14,125.46,16,2.7,028 km S 28° W of Loreto (Dinagat),unspecified,unspecified
+125,2017-02-18 07:01:00+00:00,10.59,126.85,26,3.7,106 km N 53° E of Burgos (Surigao Del Norte),unspecified,unspecified
+126,2017-02-17 23:35:00+00:00,19.28,121.75,29,3.1,030 km N 90° E of Calayan (Cagayan),unspecified,unspecified
+127,2017-02-17 23:28:00+00:00,9.94,124.14,38,2.4,006 km N 58° E of Sagbayan (Bohol),unspecified,unspecified
+128,2017-02-17 22:54:00+00:00,15.28,120.36,34,2.6,023 km S 87° W of Bamban (Tarlac),unspecified,unspecified
+129,2017-02-17 18:02:00+00:00,15.05,119.9,14,2.7,018 km S 85° W of San Felipe (Zambales),unspecified,unspecified
+130,2017-02-17 17:21:00+00:00,20.26,121.37,38,2.2,053 km S 81° W of Sabtang (Batanes),unspecified,unspecified
+131,2017-02-17 16:32:00+00:00,9.78,125.45,3,3.0,005 km S 68° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+132,2017-02-17 14:57:00+00:00,9.93,122.37,18,2.9,020 km N 13° W of Sipalay (Negros Occidental),unspecified,unspecified
+133,2017-02-17 11:34:00+00:00,9.82,125.42,12,2.8,009 km N 58° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+134,2017-02-17 10:39:00+00:00,15.15,119.07,31,2.6,100 km S 78° W of Iba (Zambales),unspecified,unspecified
+135,2017-02-17 10:36:00+00:00,14.88,119.26,19,2.5,089 km S 77° W of San Felipe (Zambales),unspecified,unspecified
+136,2017-02-17 10:14:00+00:00,9.94,125.52,31,2.6,019 km N 08° E of Surigao City (Surigao Del Norte),unspecified,unspecified
+137,2017-02-17 09:18:00+00:00,9.7,125.35,4,4.6,018 km S 63° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+138,2017-02-17 00:16:00+00:00,10.13,126.09,15,3.9,012 km N 11° E of Burgos (Surigao Del Norte),unspecified,unspecified
+139,2017-02-16 22:59:00+00:00,10.09,125.53,30,2.8,033 km N 06° E of Surigao City (Surigao Del Norte),unspecified,unspecified
+140,2017-02-16 18:47:00+00:00,13.83,120.56,3,1.6,008 km 00° W of Calatagan (Batangas),unspecified,unspecified
+141,2017-02-16 16:57:00+00:00,12.53,124.68,25,3.2,006 km N 59° E of Catarman (Northern Samar),unspecified,unspecified
+142,2017-02-16 13:56:00+00:00,9.78,125.29,26,2.5,023 km S 87° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+143,2017-02-16 10:46:00+00:00,9.89,125.48,16,3.1,011 km N 06° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+144,2017-02-16 10:04:00+00:00,9.16,125.63,21,3.2,010 km S 71° E of Tubay (Agusan del Norte),unspecified,unspecified
+145,2017-02-16 06:27:00+00:00,6.98,125.45,8,4.1,025 km N 21° E of Digos City (Davao Del Sur),unspecified,unspecified
+146,2017-02-16 05:29:00+00:00,10.02,126.06,12,4.2,002 km S 76° W of Burgos (Surigao Del Norte),unspecified,unspecified
+147,2017-02-16 04:24:00+00:00,9.8,125.49,23,3.5,001 km N 40° W of Surigao City (Surigao Del Norte,unspecified,unspecified
+148,2017-02-16 04:10:00+00:00,9.69,125.33,2,3.9,022 km S 58° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+149,2017-02-15 23:56:00+00:00,9.34,126.68,11,2.8,062 km N 42° E of Cagwait (Surigao Del Sur),unspecified,unspecified
+150,2017-02-15 17:02:00+00:00,9.44,126.98,5,3.2,094 km N 52° E of Cagwait (Surigao Del Sur),unspecified,unspecified
+151,2017-02-15 14:07:00+00:00,4.07,126.45,244,4.5,186 km S 36° E of Sarangani (Davao Occidental),unspecified,unspecified
+152,2017-02-15 09:57:00+00:00,16.36,120.02,26,2.2,009 km N 37° E of Anda (Pangasinan),unspecified,unspecified
+153,2017-02-15 09:12:00+00:00,9.8,123.75,7,2.7,005 km S 86° W of Loon (Bohol),unspecified,unspecified
+154,2017-02-15 08:47:00+00:00,9.75,125.35,9,4.0,009 km S 69° W of San Francisco (Anao-aon) (Surigao Del Norte),unspecified,unspecified
+155,2017-02-15 04:46:00+00:00,6.14,124.94,8,2.2,031 km N 14° W of Maasin (Sarangani),unspecified,unspecified
+156,2017-02-15 03:23:00+00:00,9.78,125.48,27,2.8,002 km S 45° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+157,2017-02-15 00:35:00+00:00,9.67,125.37,2,4.0,017 km S 51° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+158,2017-02-14 23:39:00+00:00,18.18,120.66,33,2.4,008 km S 72° E of Laoag City,unspecified,unspecified
+159,2017-02-14 18:40:00+00:00,13.42,124.72,31,2.1,056 km S 71° E of Virac (Catanduanes),unspecified,unspecified
+160,2017-02-14 18:32:00+00:00,10.1,125.55,42,2.8,011 km S 20° W of Libjo (Surigao Del Norte),unspecified,unspecified
+161,2017-02-14 15:24:00+00:00,9.13,122.44,15,2.6,039 km S 35° W of Basay (Negros Oriental),unspecified,unspecified
+162,2017-02-14 14:22:00+00:00,12.48,125.19,11,2.9,007 km N 82° W of Mapanas (Northern Samar),unspecified,unspecified
+163,2017-02-14 08:35:00+00:00,10.82,126.53,29,2.8,092 km S 75° E of Guiuan (Eastern Samar),unspecified,unspecified
+164,2017-02-14 05:37:00+00:00,10.17,125.54,29,2.8,003 km S 18° E of Libjo (Surigao Del Norte),unspecified,unspecified
+165,2017-02-14 04:57:00+00:00,9.82,125.39,12,3.2,012 km N 27° E of Libjo (Surigao Del Norte),unspecified,unspecified
+166,2017-02-14 03:55:00+00:00,9.87,125.43,21,2.7,011 km N 38° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+167,2017-02-14 03:54:00+00:00,16.73,122.56,30,2.9,039 km N 55° E of Dinapigue (Isabela),unspecified,unspecified
+168,2017-02-14 02:46:00+00:00,9.81,125.45,28,3.1,005 km N 66° W of Surigao City (Surigao del Norte),unspecified,unspecified
+169,2017-02-13 22:41:00+00:00,9.82,125.49,25,2.2,005 km N 38° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+170,2017-02-13 21:40:00+00:00,9.76,125.33,3,3.1,018 km S 80° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+171,2017-02-13 20:50:00+00:00,9.76,125.44,30,2.2,007 km S 58° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+172,2017-02-13 20:31:00+00:00,9.99,122.3,14,2.8,028 km N 26° W of Sipalay (Negros Occidental),unspecified,unspecified
+173,2017-02-13 20:24:00+00:00,9.78,125.41,11,2.6,010 km S 85° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+174,2017-02-13 20:11:00+00:00,9.88,125.44,19,2.5,011 km N 30° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+175,2017-02-13 20:03:00+00:00,9.79,125.4,17,5.0,010 km S 08° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+176,2017-02-13 19:31:00+00:00,9.82,125.48,19,2.6,004 km N 17° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+177,2017-02-13 19:14:00+00:00,9.68,125.39,3,3.8,017 km S 42° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+178,2017-02-13 19:08:00+00:00,13.75,121.15,135,2.1,010 km S 88° E of Batangas City (Batangas),unspecified,unspecified
+179,2017-02-13 18:06:00+00:00,9.71,126.1,16,3.1,007 km S 48° E of Dapa (Dinagat),unspecified,unspecified
+180,2017-02-13 18:02:00+00:00,10.08,125.5,32,3.0,010 km N 49° W of San Jose (Dinagat),unspecified,unspecified
+181,2017-02-13 17:49:00+00:00,9.74,126.33,21,3.1,019 km S 75° E of General Luna (Surigao Del Norte),unspecified,unspecified
+182,2017-02-13 17:37:00+00:00,10.03,125.52,46,3.2,006 km N 78° W of San Jose (Dinagat),unspecified,unspecified
+183,2017-02-13 15:03:00+00:00,15.38,122.48,32,2.2,074 km N 23° E of Jomalig (Quezon),unspecified,unspecified
+184,2017-02-13 15:02:00+00:00,20.38,120.12,26,3.4,182 km N 89° W of Sabtang (Batanes),unspecified,unspecified
+185,2017-02-13 14:44:00+00:00,8.95,124.52,17,2.9,027 km S 41° W of Catarman (Camiguin),unspecified,unspecified
+186,2017-02-13 12:51:00+00:00,17.8,120.42,24,2.2,008 km S 29° W of Sinait (Ilocos Sur),unspecified,unspecified
+187,2017-02-13 11:50:00+00:00,13.65,120.62,112,2.6,020 km S 05° W of Calatagan (Batangas),unspecified,unspecified
+188,2017-02-13 11:14:00+00:00,9.7,125.42,7,3.9,013 km S 39° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+189,2017-02-13 11:10:00+00:00,9.72,125.41,7,3.2,012 km S 49° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+190,2017-02-13 11:08:00+00:00,9.74,125.52,31,2.8,006 km S 28° E of Surigao City (Surigao Del Norte),unspecified,unspecified
+191,2017-02-13 06:14:00+00:00,9.89,125.58,48,2.4,015 km N 42° E of Surigao City (Surigao Del Norte),unspecified,unspecified
+192,2017-02-13 05:30:00+00:00,18.33,120.97,23,2.5,043 km N 70° E of Laoag City,unspecified,unspecified
+193,2017-02-13 03:40:00+00:00,9.05,125.19,53,2.3,005 km N 13° W of Magsaysay (Linugos) (Misamis Oriental),unspecified,unspecified
+194,2017-02-13 02:39:00+00:00,6.28,126.34,70,3.7,050 km S 36° E of Governor Generoso (Davao Oriental),unspecified,unspecified
+195,2017-02-13 01:59:00+00:00,12.04,125.27,18,2.6,020 km N 77° W of Can-avid (Eastern Samar),unspecified,unspecified
+196,2017-02-12 20:22:00+00:00,10.05,125.52,34,2.9,007 km N 67° W of San Jose (Dinagat),unspecified,unspecified
+197,2017-02-12 19:51:00+00:00,10.01,125.51,31,4.1,024 km N 05° E of Surigao City (Surigao Del Norte),unspecified,unspecified
+198,2017-02-12 18:29:00+00:00,10.02,125.6,55,2.2,003 km S 88° E of San Jose (Dinagat),unspecified,unspecified
+199,2017-02-12 16:52:00+00:00,6.82,124.64,27,3.0,054 km S 67° W of Kidapawan City,unspecified,unspecified
+200,2017-02-12 15:27:00+00:00,9.92,126.28,11,2.9,020 km N 40° E of General Luna (Surigao Del Norte),unspecified,unspecified
+201,2017-02-12 15:01:00+00:00,9.85,126.38,11,4.0,025 km N 72° E of General Luna (Surigao Del Norte),unspecified,unspecified
+202,2017-02-12 14:42:00+00:00,9.82,125.53,26,3.1,004 km N 53° E of Surigao City (Surigao Del Norte),unspecified,unspecified
+203,2017-02-12 12:16:00+00:00,10.07,125.51,33,3.3,009 km N 52° W of San Jose (Dinagat),unspecified,unspecified
+204,2017-02-12 12:13:00+00:00,13.62,120.57,145,2.4,025 km S 16° W of Calatagan (Batangas),unspecified,unspecified
+205,2017-02-12 11:26:00+00:00,9.73,125.3,2,3.5,022 km S 74° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+206,2017-02-12 10:18:00+00:00,9.89,125.34,2,3.1,021 km N 58° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+207,2017-02-12 08:14:00+00:00,7.76,124.76,27,2.3,063 km S 36° W of Malaybalay (Bukidnon),unspecified,unspecified
+208,2017-02-12 03:01:00+00:00,9.73,125.33,7,4.2,019 km S 70° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+209,2017-02-12 02:35:00+00:00,9.72,125.35,2,3.6,018 km S 61° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+210,2017-02-12 02:33:00+00:00,9.88,125.47,35,2.2,010 km N 16° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+211,2017-02-12 00:55:00+00:00,10.03,125.52,26,2.8,006 km N 86° W of San Jose (Dinagat),unspecified,unspecified
+212,2017-02-11 23:12:00+00:00,9.98,125.43,27,2.1,017 km S 74° W of San Jose (Dinagat),unspecified,unspecified
+213,2017-02-11 22:53:00+00:00,9.81,125.47,18,2.5,004 km N 47° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+214,2017-02-11 22:21:00+00:00,9.87,125.52,30,2.4,010 km N 20° E of Surigao City (Surigao Del Norte),unspecified,unspecified
+215,2017-02-11 21:33:00+00:00,8.78,125.76,10,2.9,007 km N 05° E of Bayugan City (Agusan Del Sur),unspecified,unspecified
+216,2017-02-11 21:21:00+00:00,7.62,122.02,21,2.5,036 km N 08° W of Sibuco (Zamboanga Del Norte),unspecified,unspecified
+217,2017-02-11 20:57:00+00:00,9.0,126.49,26,2.5,023 km N 67° E of Cagwait (Surigao Del Sur),unspecified,unspecified
+218,2017-02-11 20:40:00+00:00,9.01,126.49,19,4.6,023 km N 65° E of Cagwait (Surigao Del Sur),unspecified,unspecified
+219,2017-02-11 20:32:00+00:00,9.96,125.49,25,2.3,011 km S 86° W of Dinagat (Dinagat),unspecified,unspecified
+220,2017-02-11 20:26:00+00:00,9.97,125.44,27,2.6,016 km S 67° W of San Jose (Dinagat),unspecified,unspecified
+221,2017-02-11 18:19:00+00:00,13.12,124.14,10,2.1,007 km S 13° E of Rapu-rapu (Albay),unspecified,unspecified
+222,2017-02-11 16:50:00+00:00,8.85,122.75,23,2.4,039 km S 52° W of Siaton (Negros Oriental),unspecified,unspecified
+223,2017-02-11 16:48:00+00:00,10.05,125.46,27,2.6,013 km N 79° W of San Jose (Dinagat),unspecified,unspecified
+224,2017-02-11 16:10:00+00:00,10.02,125.45,28,2.1,013 km 00° W of San Jose (Dinagat),unspecified,unspecified
+225,2017-02-11 15:38:00+00:00,10.07,125.46,28,3.1,014 km N 68° W of San Jose (Dinagat),unspecified,unspecified
+226,2017-02-11 15:37:00+00:00,10.06,125.46,29,2.0,014 km N 72° W of San Jose (Dinagat),unspecified,unspecified
+227,2017-02-11 15:34:00+00:00,9.64,125.43,33,2.4,018 km S 22° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+228,2017-02-11 15:07:00+00:00,9.9,125.43,22,2.9,014 km N 32° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+229,2017-02-11 14:37:00+00:00,9.94,125.5,32,2.5,012 km S 40° W of San Jose (Dinagat),unspecified,unspecified
+230,2017-02-11 13:47:00+00:00,10.37,125.56,30,2.5,002 km N 65° W of Loreto (Dinagat),unspecified,unspecified
+231,2017-02-11 13:41:00+00:00,14.48,119.44,29,2.2,087 km S 53° W of San Antonio (Zambales),unspecified,unspecified
+232,2017-02-11 13:33:00+00:00,9.82,125.46,30,2.0,005 km N 53° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+233,2017-02-11 12:59:00+00:00,9.54,125.36,35,2.0,030 km S 30° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+234,2017-02-11 11:52:00+00:00,10.07,125.46,31,2.4,014 km N 70° W of San Jose (Dinagat),unspecified,unspecified
+235,2017-02-11 11:37:00+00:00,6.93,125.41,6,3.7,019 km N 16° E of Digos City (Davao Del Sur),unspecified,unspecified
+236,2017-02-11 10:54:00+00:00,5.94,124.43,41,2.2,022 km S 74° W of Kiamba (Sarangani),unspecified,unspecified
+237,2017-02-11 10:51:00+00:00,9.95,125.4,22,2.2,017 km N 86° E of Pintuyan (Southern Leyte),unspecified,unspecified
+238,2017-02-11 10:37:00+00:00,6.83,125.47,29,2.3,014 km N 57° E of Digos City (Davao Del Sur),unspecified,unspecified
+239,2017-02-11 10:33:00+00:00,10.1,125.46,29,2.1,015 km N 57° W of San Jose (Dinagat),unspecified,unspecified
+240,2017-02-11 10:12:00+00:00,10.02,125.46,24,2.4,012 km S 87° W of San Jose (Dinagat),unspecified,unspecified
+241,2017-02-11 10:01:00+00:00,10.16,125.54,33,2.4,016 km N 14° W of San Jose (Dinagat),unspecified,unspecified
+242,2017-02-11 09:45:00+00:00,6.87,125.45,10,3.4,014 km N 41° E of Digos City (Davao Del Sur),unspecified,unspecified
+243,2017-02-11 09:32:00+00:00,6.79,125.55,41,4.4,020 km N 83° E of Digos City (Davao Del Sur),unspecified,unspecified
+244,2017-02-11 09:15:00+00:00,6.82,125.47,22,4.5,013 km N 66° E of Digos City (Davao Del Sur),unspecified,unspecified
+245,2017-02-11 09:11:00+00:00,9.76,125.4,8,4.9,011 km S 73° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+246,2017-02-11 09:04:00+00:00,7.39,124.22,24,3.7,019 km S 36° E of Balabagan (Lanao Del Sur),unspecified,unspecified
+247,2017-02-11 08:45:00+00:00,9.95,125.44,56,2.3,016 km S 61° W of San Jose (Dinagat),unspecified,unspecified
+248,2017-02-11 08:25:00+00:00,12.21,121.47,23,2.9,032 km N 15° W of Caluya (Antique),unspecified,unspecified
+249,2017-02-11 07:58:00+00:00,10.07,125.54,32,3.0,006 km N 37° W of San Jose (Dinagat),unspecified,unspecified
+250,2017-02-11 07:04:00+00:00,19.06,121.53,22,2.1,026 km S 15° E of Calayan (Cagayan),unspecified,unspecified
+251,2017-02-11 06:53:00+00:00,10.23,125.5,36,2.2,005 km N 51° W of Libjo (Surigao Del Norte),unspecified,unspecified
+252,2017-02-11 04:18:00+00:00,10.27,125.52,81,2.8,008 km N 12° W of Libjo (Surigao Del Norte),unspecified,unspecified
+253,2017-02-11 02:53:00+00:00,10.06,125.39,19,3.2,033 km N 19° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+254,2017-02-11 01:42:00+00:00,9.98,125.47,25,2.5,012 km S 68° W of San Jose (Dinagat),unspecified,unspecified
+255,2017-02-11 01:21:00+00:00,8.57,125.94,1,3.0,003 km S 88° E of Prosperidad (Agusan Del Sur),unspecified,unspecified
+256,2017-02-10 23:45:00+00:00,9.95,125.51,35,2.5,011 km S 42° W of Dinagat (Dinagat),unspecified,unspecified
+257,2017-02-10 22:53:00+00:00,10.3,125.55,33,2.0,031 km N 05° W of San Jose (Dinagat),unspecified,unspecified
+258,2017-02-10 21:41:00+00:00,17.17,119.92,1,2.7,056 km S 87° W of Candon City (Ilocos Sur),unspecified,unspecified
+259,2017-02-10 21:06:00+00:00,10.31,126.44,20,3.7,052 km N 52° E of Burgos (Surigao Del Norte),unspecified,unspecified
+260,2017-02-10 20:33:00+00:00,10.01,125.5,31,3.1,008 km S 77° W of San Jose (Dinagat),unspecified,unspecified
+261,2017-02-10 20:19:00+00:00,9.92,125.49,30,3.4,015 km N 03° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+262,2017-02-10 19:44:00+00:00,10.03,125.45,28,2.1,014 km N 85° W of San Jose (Dinagat),unspecified,unspecified
+263,2017-02-10 19:30:00+00:00,9.92,125.5,45,3.0,014 km N 03° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+264,2017-02-10 19:24:00+00:00,9.98,125.48,27,3.3,011 km S 66° W of San Jose (Dinagat),unspecified,unspecified
+265,2017-02-10 19:17:00+00:00,9.87,125.47,27,2.8,009 km N 15° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+266,2017-02-10 19:12:00+00:00,10.07,125.47,33,2.7,013 km N 67° W of San Jose (Dinagat),unspecified,unspecified
+267,2017-02-10 18:51:00+00:00,10.03,125.48,28,2.9,010 km N 88° W of San Jose (Dinagat),unspecified,unspecified
+268,2017-02-10 18:42:00+00:00,4.51,124.56,110,3.3,144 km S 45° W of Sarangani (Davao Occidental),unspecified,unspecified
+269,2017-02-10 18:39:00+00:00,7.35,126.42,26,2.8,016 km N 83° W of Caraga (Davao Oriental),unspecified,unspecified
+270,2017-02-10 18:07:00+00:00,9.95,125.42,38,2.6,019 km N 25° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+271,2017-02-10 17:59:00+00:00,9.92,125.47,30,2.6,014 km N 11° W of Surigao City (Surigao Del Norte),unspecified,unspecified
+272,2017-02-10 17:40:00+00:00,9.75,125.54,30,2.7,007 km S 49° E of Surigao City (Surigao Del Norte),unspecified,unspecified
+273,2017-02-10 17:32:00+00:00,9.95,125.44,28,3.3,016 km S 62° W of San Jose (Dinagat),unspecified,unspecified
+274,2017-02-10 17:22:00+00:00,9.98,125.47,33,2.6,013 km S 67° W of San Jose (Dinagat),unspecified,unspecified
+275,2017-02-10 17:17:00+00:00,10.01,125.49,28,3.4,009 km S 81° W of San Jose (Dinagat),unspecified,unspecified
+276,2017-02-10 17:05:00+00:00,9.94,125.46,39,3.0,015 km S 53° W of San Jose (Dinagat),unspecified,unspecified
+277,2017-02-10 16:41:00+00:00,10.14,125.52,31,2.0,021 km N 20° W of Dinagat (Dinagat),unspecified,unspecified
+278,2017-02-10 16:35:00+00:00,9.28,126.2,16,3.6,001 km N 66° E of Cortes (Surigao Del Sur),unspecified,unspecified
+279,2017-02-10 16:19:00+00:00,10.04,125.47,24,2.3,012 km N 80° W of San Jose (Dinagat),unspecified,unspecified
+280,2017-02-10 16:16:00+00:00,9.93,125.46,46,2.1,015 km S 76° W of Dinagat (Dinagat),unspecified,unspecified
+281,2017-02-10 16:10:00+00:00,10.04,125.57,41,2.7,029 km N 16° E of Surigao City (Surigao Del Norte),unspecified,unspecified
+282,2017-02-10 15:58:00+00:00,7.32,126.64,57,3.7,008 km S 84° E of Caraga (Davao Oriental),unspecified,unspecified
+283,2017-02-10 15:52:00+00:00,9.93,125.53,21,2.8,011 km S 26° W of San Jose (Dinagat),unspecified,unspecified
+284,2017-02-10 15:36:00+00:00,10.07,125.5,30,3.4,010 km N 57° W of San Jose (Dinagat),unspecified,unspecified
+285,2017-02-10 15:30:00+00:00,9.78,125.22,6,3.3,019 km S 10° W of Pintuyan (Southern Leyte),unspecified,unspecified
+286,2017-02-10 15:25:00+00:00,9.9,125.49,50,2.8,013 km N 02° W of Surigao City (Surigao del Norte),unspecified,unspecified
+287,2017-02-10 15:09:00+00:00,9.77,125.37,1,3.8,006 km S 81° W of San Francisco (Anao-aon) (Surigao Del Norte),unspecified,unspecified
+288,2017-02-10 14:03:00+00:00,9.8,125.35,10,6.7,016 km N 77° W of Surigao City,unspecified,unspecified
+289,2017-02-10 12:10:00+00:00,18.67,120.38,5,4.1,032 km N 58° W of Pasuquin (Ilocos Norte),unspecified,unspecified
+290,2017-02-10 10:44:00+00:00,7.8,124.6,4,2.5,018 km N 70° W of Kalilangan (Bukidnon),unspecified,unspecified
+291,2017-02-10 08:00:00+00:00,16.36,122.05,10,2.1,012 km N 43° W of Casiguran (Aurora),unspecified,unspecified
+292,2017-02-10 07:59:00+00:00,9.74,124.03,33,2.1,013 km S 11° E of Catigbian (Bohol),unspecified,unspecified
+293,2017-02-10 07:08:00+00:00,10.16,122.46,27,2.1,027 km N 41° W of Cauayan (Negros Occidental),unspecified,unspecified
+294,2017-02-10 06:54:00+00:00,10.0,122.16,25,2.3,054 km S 28° E of Anini-y (Antique),unspecified,unspecified
+295,2017-02-10 05:32:00+00:00,4.98,127.55,116,3.1,235 km S 78° E of Sarangani (Davao Occidental),unspecified,unspecified
+296,2017-02-10 05:31:00+00:00,18.34,120.81,28,3.2,020 km 00° East of Pasuquin (Ilocos Norte),unspecified,unspecified
+297,2017-02-10 04:40:00+00:00,17.42,119.53,5,3.5,089 km S 78° W of Santa Catalina (Ilocos Sur),unspecified,unspecified
+298,2017-02-09 23:08:00+00:00,9.05,121.81,32,2.8,094 km S 54° W of Hinoba-an (Negros Occidental),unspecified,unspecified
+299,2017-02-09 22:29:00+00:00,13.84,120.51,197,2.2,013 km N 88° W of Calatagan (Batangas),unspecified,unspecified
+300,2017-02-09 19:15:00+00:00,16.33,122.23,23,2.1,008 km S 15° E of Dilasag (Aurora),unspecified,unspecified
+301,2017-02-09 18:14:00+00:00,6.69,126.58,44,2.5,043 km S 21° E of Tarragona (Davao Oriental),unspecified,unspecified
+302,2017-02-09 17:42:00+00:00,17.87,120.75,1,3.0,010 km S 48° E of Nueva Era (Ilocos Norte),unspecified,unspecified
+303,2017-02-09 17:39:00+00:00,9.96,126.01,14,2.8,001 km S 48° E of San Benito (Surigao Del Norte),unspecified,unspecified
+304,2017-02-09 16:50:00+00:00,14.18,120.35,11,2.2,032 km N 70° W of Nasugbu (Batangas),unspecified,unspecified
+305,2017-02-09 08:54:00+00:00,5.96,124.69,25,2.6,008 km S 67° E of Kiamba (Sarangani),unspecified,unspecified
+306,2017-02-09 06:48:00+00:00,6.14,126.49,18,3.6,073 km S 40° W of Governor Generoso (Davao Oriental),unspecified,unspecified
+307,2017-02-09 04:39:00+00:00,19.11,121.21,26,3.5,033 km S 55° W of Calayan (Cagayan),unspecified,unspecified
+308,2017-02-09 04:37:00+00:00,6.2,126.37,2,3.5,060 km S 33° W of Governor Generoso (Davao Oriental),unspecified,unspecified
+309,2017-02-09 04:19:00+00:00,5.19,126.64,31,2.9,103 km S 38° E of Governor Generoso (Davao Oriental),unspecified,unspecified
+310,2017-02-09 03:09:00+00:00,6.12,126.47,14,3.2,073 km S 37° E of Governor Generoso (Davao Oriental),unspecified,unspecified
+311,2017-02-09 00:15:00+00:00,6.08,125.39,21,3.0,012 km S 84° E of Alabel (Sarangani),unspecified,unspecified
+312,2017-02-09 00:03:00+00:00,5.92,125.34,26,2.2,008 km S 45° E of Malapatan (Sarangani),unspecified,unspecified
+313,2017-02-08 23:23:00+00:00,14.07,120.45,20,2.1,019 km S 88° W of Nasugbu (Batangas),unspecified,unspecified
+314,2017-02-08 22:03:00+00:00,14.96,122.21,86,2.1,021 km N 02° E of Patnanungan (Quezon),unspecified,unspecified
+315,2017-02-08 20:54:00+00:00,13.98,120.43,88,3.5,024 km S 63° W of Nasugbu (Batangas),unspecified,unspecified
+316,2017-02-08 19:59:00+00:00,6.33,126.23,63,3.3,039 km S 26° E of Governor Generoso (Davao Oriental),unspecified,unspecified
+317,2017-02-08 19:22:00+00:00,11.44,124.76,51,2.1,009 km N 79° W of Babatngon (Leyte),unspecified,unspecified
+318,2017-02-08 18:30:00+00:00,7.19,126.68,6,2.5,011 km S 05° E of Panabo City (Davao Del Norte),unspecified,unspecified
+319,2017-02-08 18:02:00+00:00,11.46,124.91,4,2.9,009 km N 61° E of Babatngon (Leyte),unspecified,unspecified
+320,2017-02-08 17:19:00+00:00,11.13,124.67,9,2.9,014 km S 60° W of Jaro (Leyte),unspecified,unspecified
+321,2017-02-08 17:05:00+00:00,11.15,124.71,2,3.5,009 km S 65° W of Jaro (Leyte),unspecified,unspecified
+322,2017-02-08 16:47:00+00:00,11.11,124.8,2,3.4,010 km S 13° E of Jaro (Leyte),unspecified,unspecified
+323,2017-02-08 15:52:00+00:00,15.36,120.48,132,1.7,013 km N 49° W of Bamban (Tarlac),unspecified,unspecified
+324,2017-02-08 14:05:00+00:00,18.03,122.3,27,2.1,042 km S 52° E of Gonzaga (Cagayan),unspecified,unspecified
+325,2017-02-08 09:38:00+00:00,8.84,121.89,34,2.5,104 km S 40° W of Hinoba-an (Negros Occidental),unspecified,unspecified
+326,2017-02-08 06:04:00+00:00,10.1,121.95,5,2.2,037 km S 04° E of Aniniy-y (Antique),unspecified,unspecified
+327,2017-02-08 01:35:00+00:00,16.04,119.95,23,2.2,013 km S 15° W of Alaminos City (Pangasinan),unspecified,unspecified
+328,2017-02-08 00:59:00+00:00,14.95,122.06,1,3.7,015 km N 43° E of Burdeos (Quezon),unspecified,unspecified
+329,2017-02-07 18:34:00+00:00,13.44,120.44,33,2.3,005 km N 48° W of Paluan (Occidental Mindoro),unspecified,unspecified
+330,2017-02-07 08:54:00+00:00,17.82,121.65,105,2.9,008 km S 79° E of Amulung (Cagayan),unspecified,unspecified
+331,2017-02-07 08:21:00+00:00,19.1,121.22,23,4.3,056 km N 16° E of Claveria (Cagayan),unspecified,unspecified
+332,2017-02-06 17:26:00+00:00,11.27,124.55,7,2.1,010 km S 72° W of Capoocan (Leyte),unspecified,unspecified
+333,2017-02-06 12:29:00+00:00,12.92,124.63,26,2.0,039 km N 47° E of Biri (Northern Samar),unspecified,unspecified
+334,2017-02-06 11:48:00+00:00,11.66,126.17,1,3.5,071 km N 58° E of Hernani (Eastern Samar),unspecified,unspecified
+335,2017-02-06 04:25:00+00:00,13.8,120.14,41,2.3,006 km S 22° E of Lubang (Occidental Mindoro),unspecified,unspecified
+336,2017-02-06 02:05:00+00:00,7.73,126.01,27,2.9,010 km N 50° W of Compostela Valley (Compostela Valley),unspecified,unspecified
+337,2017-02-05 22:11:00+00:00,11.24,126.24,11,3.1,061 km N 68° E of Guiuan (Eastern Samar),unspecified,unspecified
+338,2017-02-05 15:07:00+00:00,6.7,126.79,53,3.7,053 km S 45° E of Tarragona (Davao Oriental),unspecified,unspecified
+339,2017-02-05 10:50:00+00:00,11.18,124.47,21,2.0,003 km N 08° W of Matag-ob (Leyte),unspecified,unspecified
+340,2017-02-04 19:23:00+00:00,9.27,123.22,4,3.0,006 km S 78° W of Luzurriaga (Valencia) (Negros Oriental),unspecified,unspecified
+341,2017-02-04 19:18:00+00:00,9.3,123.19,6,4.3,009 km N 82° W of Luzurriaga (Valencia) (Negros Oriental),unspecified,unspecified
+342,2017-02-04 18:38:00+00:00,9.27,123.16,1,1.9,012 km S 82° W of Luzurriaga (Valencia) (Negros Oriental),unspecified,unspecified
+343,2017-02-04 18:37:00+00:00,9.29,123.18,2,3.2,013 km S 58° W of Luzurriaga (Valencia) (Negros Oriental),unspecified,unspecified
+344,2017-02-04 18:02:00+00:00,5.08,124.46,15,4.2,118 km S 71° W of Sarangani (Davao Occidental),unspecified,unspecified
+345,2017-02-04 16:38:00+00:00,13.09,124.27,4,2.2,010 km N 69° E of Prieto Diaz (Sorsogon),unspecified,unspecified
+346,2017-02-04 16:29:00+00:00,13.54,120.67,103,3.0,013 km N 32° W of Abra De Ilog (Occidental Mindoro),unspecified,unspecified
+347,2017-02-04 16:01:00+00:00,14.27,120.35,103,2.2,024 km S 37° W of Mariveles (Bataan),unspecified,unspecified
+348,2017-02-04 13:09:00+00:00,12.95,124.72,29,2.3,050 km N 10° E of Catarman (Northern Samar),unspecified,unspecified
+349,2017-02-04 12:40:00+00:00,6.65,123.77,2,2.4,033 km N 89° W of Lebak (Sultan Kudarat),unspecified,unspecified
+350,2017-02-04 11:31:00+00:00,6.53,126.32,44,2.3,030 km S 63° E of Governor Generoso (Davao Oriental),unspecified,unspecified
+351,2017-02-04 07:32:00+00:00,7.41,126.54,133,3.4,009 km N 16° W of Caraga (Davao Oriental),unspecified,unspecified
+352,2017-02-04 07:22:00+00:00,8.01,124.14,5,3.1,011 km N 86° E of Munai (Lanao Del Norte),unspecified,unspecified
+353,2017-02-03 17:09:00+00:00,6.82,124.92,24,2.0,003 km N 66° W of Columbio (Sultan Kudarat),unspecified,unspecified
+354,2017-02-03 15:32:00+00:00,6.83,125.02,16,2.0,021 km N 68° E of Datu Paglas (Maguindanao),unspecified,unspecified
+355,2017-02-03 11:47:00+00:00,6.35,126.91,40,3.3,092 km S 34° E of Tarragona (Davao Oriental),unspecified,unspecified
+356,2017-02-03 02:07:00+00:00,6.69,126.33,51,2.2,029 km N 80° E of Governor Generoso (Davao Oriental),unspecified,unspecified
+357,2017-02-03 00:36:00+00:00,20.0,120.93,1,3.4,097 km N 36° W of Calayan (Cagayan),unspecified,unspecified
+358,2017-02-03 00:30:00+00:00,19.81,121.31,4,2.6,061 km N 15° W of Calayan (Cagayan),unspecified,unspecified
+359,2017-02-03 00:14:00+00:00,13.1,120.98,29,3.0,028 km N 84° E of Santa Cruz (Occidental Mindoro),unspecified,unspecified
+360,2017-02-02 20:29:00+00:00,9.38,126.95,8,3.3,084 km N 82° E of Cortes (Surigao Del Sur),unspecified,unspecified
+361,2017-02-02 19:29:00+00:00,13.97,120.51,9,2.1,017 km S 62° W of Lian (Batangas),unspecified,unspecified
+362,2017-02-02 18:57:00+00:00,4.31,126.29,4,3.3,154 km S 36° E of Sarangani (Davao Occidental),unspecified,unspecified
+363,2017-02-02 17:46:00+00:00,7.65,126.82,19,4.4,030 km N 73° E of Baganga (Davao Oriental),unspecified,unspecified
+364,2017-02-02 12:31:00+00:00,10.9,125.96,20,3.1,031 km S 79° E of Guiuan (Eastern Samar),unspecified,unspecified
+365,2017-02-02 09:46:00+00:00,14.3,119.3,33,2.5,101 km N 61° W of Lubang (Occidental Mindoro),unspecified,unspecified
+366,2017-02-02 07:53:00+00:00,5.14,127.93,88,4.0,265 km S 51° E of Governor Generoso (Davao Oriental),unspecified,unspecified
+367,2017-02-02 06:27:00+00:00,9.85,124.16,28,2.4,017 km S 87° E of Catigbian (Bohol),unspecified,unspecified
+368,2017-02-02 05:21:00+00:00,5.56,127.13,34,3.6,168 km S 44° E of Governor Generoso (Davao Oriental),unspecified,unspecified
+369,2017-02-02 01:21:00+00:00,12.8,123.99,42,2.5,019 km S 06° W of Sorsogon (Sorsogon),unspecified,unspecified
+370,2017-02-01 21:51:00+00:00,14.59,119.9,33,2.8,041 km S 76° W of Morong (Bataan),unspecified,unspecified
+371,2017-02-01 20:45:00+00:00,18.9,121.07,19,3.2,033 km N 02° W of Claveria (Cagayan),unspecified,unspecified
+372,2017-02-01 17:08:00+00:00,9.86,122.99,1,3.5,021 km S 69° W of Tayasan (Negros Oriental),unspecified,unspecified
+373,2017-02-01 17:02:00+00:00,15.52,120.03,23,3.1,009 km S 75° E of Masinloc (Zambales),unspecified,unspecified
+374,2017-02-01 16:43:00+00:00,7.48,125.99,1,2.4,058 km N 45° E of Davao City,unspecified,unspecified
+375,2017-02-01 13:37:00+00:00,19.24,121.11,23,2.1,037 km S 82° W of Calayan (Cagayan),unspecified,unspecified
+376,2017-02-01 12:39:00+00:00,9.93,123.15,7,2.9,002 km S 87° W of Tayasan (Negros Oriental),unspecified,unspecified
+377,2017-02-01 11:43:00+00:00,16.65,119.99,27,3.1,031 km N 20° E of Bolinao (Pangasinan),unspecified,unspecified
+378,2017-01-31 20:39:00+00:00,9.68,126.23,29,3.7,014 km S 34° E of General Luna (Surigao Del Norte),unspecified,unspecified
+379,2017-01-31 20:11:00+00:00,2.43,126.74,5,3.9,360 km S 23° E of Sarangani (Davao Occidental),unspecified,unspecified
+380,2017-01-31 19:39:00+00:00,17.15,122.01,26,3.1,013 km N 87° E of Ilagan (Isabela),unspecified,unspecified
+381,2017-01-31 18:04:00+00:00,6.87,126.8,26,3.7,043 km S 63° E of Tarragona (Davao Oriental),unspecified,unspecified
+382,2017-01-31 16:47:00+00:00,8.97,123.91,27,2.4,036 km S 60° E of Lazi (Siquijor),unspecified,unspecified
