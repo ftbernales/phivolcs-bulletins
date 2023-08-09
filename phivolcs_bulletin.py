@@ -25,11 +25,11 @@ def get_page(page_url):
     output_name = Path(url_path).stem
     logging.basicConfig(filename=f'logs/{output_name}.log', filemode='w',
         level=logging.INFO, format='%(levelname)s (%(asctime)s): %(message)s')
-
+    # Initialize PHIVOLCS page headers and output df headers
     phivolcs_heads = ['Date - Time', 'Latitude', 'Longitude', 'Depth', 'Mag',
                       'Location']
     heads = ['datetime', 'lat', 'lon', 'depth_km', 'mag', 'location']
-
+    # Send request and get content of bulletin web page
     page_request = requests_retry(page_url, verify_ssl=False)
     try:
         soup = BeautifulSoup(page_request.content, 'html5lib', 
@@ -39,6 +39,7 @@ def get_page(page_url):
     phivolcs_tables = soup.find_all('table', attrs={'class': 'MsoNormalTable'})
     # Get html table with most rows, which corresponds to the bulletin table
     table_list = [pd.read_html(str(t), header=0)[0] for t in phivolcs_tables]
+
     table_list_lengths = [len(df.index) for df in table_list]
     bull_idx = table_list_lengths.index(max(table_list_lengths))
     df_phivolcs = table_list[bull_idx]
@@ -70,13 +71,14 @@ def get_page(page_url):
     # Loop through entire dataframe
     for i, date_row in enumerate(tqdm(df_phivolcs.iloc[:,0], 
                                  desc='Reading event info: ')):
-        # Fixing the char encoding
+        # Fix double spaces introduced by span tags in Location column
         location = df_phivolcs.at[i,'location']
         location = location.replace('  ', ' ')
         df_phivolcs.at[i,'location'] = location
-        # get each links in tuple of Date column
+        # Assemble absolute URL from relative URL in Event Links column
         event_rel_url = df_phivolcs.at[i,'event_links'].replace('\\', '/')
         event_abs_url = urljoin(page_url, event_rel_url)
+        # Get dataframe from Event Info page
         df_event_info = _get_event_info(event_abs_url)
         if df_event_info is None:
             df_phivolcs.at[i,'event_type'] = df_phivolcs.at[i,'mag_type'] = \
