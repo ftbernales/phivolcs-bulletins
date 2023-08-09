@@ -30,8 +30,11 @@ def get_page(page_url):
     df_phivolcs = pd.DataFrame(columns=heads)
 
     page_request = requests_retry(page_url, verify_ssl=False)
-    soup = BeautifulSoup(page_request.content, 'html5lib', 
-                         from_encoding=detect(page_request.content)['encoding'])
+    try:
+        soup = BeautifulSoup(page_request.content, 'html5lib', 
+                        from_encoding=detect(page_request.content)['encoding'])
+    except AttributeError:
+        raise IOError(f"No content found in {page_url}")
     phivolcs_tables = soup.find_all('table', attrs={'class': 'MsoNormalTable'})
     # Get html table with most rows, which corresponds to the bulletin table
     table_list = [pd.read_html(str(tab), header=0,
