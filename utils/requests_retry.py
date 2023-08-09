@@ -2,7 +2,8 @@ import logging
 from requests import Session
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
-from requests.exceptions import RetryError, MissingSchema, HTTPError
+from requests.exceptions import (RetryError, MissingSchema, HTTPError, 
+                                 InvalidSchema)
 from fake_useragent import UserAgent
 
 def requests_retry(url, verify_ssl=True):
@@ -37,6 +38,9 @@ def requests_retry(url, verify_ssl=True):
         return None
     except HTTPError as errh:
         logging.critical(f'\n{errh.args[0]}')
+        return None
+    except InvalidSchema:
+        logging.warning(f'\nCannot output event info from {url}')
         return None
 
     return page_request
