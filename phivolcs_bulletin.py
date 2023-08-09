@@ -37,19 +37,26 @@ def get_page(page_url):
         raise IOError(f"No content found in {page_url}")
     phivolcs_tables = soup.find_all('table', attrs={'class': 'MsoNormalTable'})
     # Get html table with most rows, which corresponds to the bulletin table
-    table_list = [pd.read_html(str(tab), header=0,
-                            extract_links='all')[0] for tab in phivolcs_tables]
+    table_list = [pd.read_html(str(t), header=0)[0] for t in phivolcs_tables]
     table_list_lengths = [len(df.index) for df in table_list]
-    df_phivolcs = table_list[table_list_lengths.index(max(table_list_lengths))]
+    bull_idx = table_list_lengths.index(max(table_list_lengths))
+    df_phivolcs = table_list[bull_idx]
+    # Get href link/s in each table cell 
+    event_link_dict = {}
+    for i, tr in enumerate(phivolcs_tables[bull_idx].tbody.find_all('tr')):
+        for td in tr.find_all('td'):
+            a = td.find_all('a')
+            if len(a) > 0:
+                event_link_dict[i] = a[-1].get('href') # Get last href in <a>
+
     # Modifying the bulletin dataframe and adding mag and event types 
     df_phivolcs.columns = heads
-    df_phivolcs.iloc[:, 1:] = df_phivolcs.iloc[:, 1:].apply(
-        lambda col: [v[0] if v[1] is None else v[0] for v in col])
     df_phivolcs.replace("", nan, inplace=True)
     df_phivolcs.dropna(inplace=True)
     df_phivolcs.reset_index(drop=True, inplace=True)
 
-    df_phivolcs = df_phivolcs.assign(mag_type=None, event_type=None)
+    df_phivolcs = df_phivolcs.assign(mag_type=None, event_type=None,
+                                     event_links=list(event_link_dict.values()))
     # Fixing dataframe cells that should be float-type values    
     num_cols = heads[1:-1]
     df_phivolcs[num_cols] = df_phivolcs[num_cols].apply(
@@ -62,7 +69,7 @@ def get_page(page_url):
         location = location.replace('  ', ' ')
         df_phivolcs.at[i,'location'] = location
         # get each links in tuple of Date column
-        event_rel_url = date_row[1].replace('\\', '/')
+        event_rel_url = df_phivolcs.at[i,'event_links'].replace('\\', '/')
         event_abs_url = urljoin(page_url, event_rel_url)
         df_event_info = _get_event_info(event_abs_url)
         if df_event_info is None:
@@ -70,7 +77,7 @@ def get_page(page_url):
                 'unspecified'
             # Converting datetime values (w/o sec part) from local time to UTC
             df_phivolcs.at[i,'datetime'] = _convert_pst_to_utc(
-                date_row[0].replace(u'\ufeff', '')) # clear BOM
+                date_row.replace(u'\ufeff', '')) # clear BOM
         else:
             df_phivolcs.at[i,'event_type'] = df_event_info.at[1,'Origin']
             df_phivolcs.at[i,'mag_type'] = \
@@ -81,6 +88,7 @@ def get_page(page_url):
 
         sleep(0.02) # time delay for tqdm progress bar
     
+    df_phivolcs.drop(columns='event_links', inplace=True)
     # set option later with argparse
     df_phivolcs.to_csv(output_name + '.csv', encoding='windows-1252') 
     return df_phivolcs
