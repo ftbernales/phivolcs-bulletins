@@ -1,8 +1,1314 @@
-WARNING (2023-08-02 18:33:39,696): Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000151DE1F28F0>, 'Connection to earthquake.phivolcs.dost.gov.ph timed out. (connect timeout=None)')': /EQLatest-Monthly/2018/2018_November.html
-WARNING (2023-08-02 18:34:13,759): Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000151DE1F2AD0>, 'Connection to earthquake.phivolcs.dost.gov.ph timed out. (connect timeout=None)')': /EQLatest-Monthly/2018/2018_November.html
-WARNING (2023-08-02 18:34:49,836): Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000151DE1F2C80>, 'Connection to earthquake.phivolcs.dost.gov.ph timed out. (connect timeout=None)')': /EQLatest-Monthly/2018/2018_November.html
-WARNING (2023-08-02 18:35:24,713): Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000151DE1F2E00>, 'Connection to earthquake.phivolcs.dost.gov.ph timed out. (connect timeout=None)')': /EQLatest-Monthly/2018/2018_November.html
-WARNING (2023-08-02 18:36:12,836): Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000151DE1F2F80>, 'Connection to earthquake.phivolcs.dost.gov.ph timed out. (connect timeout=None)')': /EQLatest-Monthly/2018/2018_November.html
-CRITICAL (2023-08-02 18:36:44,947): <class 'requests.exceptions.ConnectTimeout'>
-HTTPSConnectionPool(host='earthquake.phivolcs.dost.gov.ph', port=443): Max retries exceeded with url: /EQLatest-Monthly/2018/2018_November.html (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000151DE1F3100>, 'Connection to earthquake.phivolcs.dost.gov.ph timed out. (connect timeout=None)'))
-['  File "C:\\Users\\AMH-L91\\documents\\projects\\phivolcs-bulletins\\phivolcs_bulletin.py", line 130, in <module>\n    df_phv = get_page(sys.argv[1])\n', '  File "C:\\Users\\AMH-L91\\documents\\projects\\phivolcs-bulletins\\phivolcs_bulletin.py", line 32, in get_page\n    page_request = requests_retry(page_url, verify_ssl=False)\n', '  File "C:\\Users\\AMH-L91\\documents\\projects\\phivolcs-bulletins\\utils\\requests_retry.py", line 27, in requests_retry\n    page_request = s.get(url, verify=verify_ssl, headers=headers)\n', '  File "C:\\Users\\AMH-L91\\anaconda3\\envs\\webparse\\lib\\site-packages\\requests\\sessions.py", line 600, in get\n    return self.request("GET", url, **kwargs)\n', '  File "C:\\Users\\AMH-L91\\anaconda3\\envs\\webparse\\lib\\site-packages\\requests\\sessions.py", line 587, in request\n    resp = self.send(prep, **send_kwargs)\n', '  File "C:\\Users\\AMH-L91\\anaconda3\\envs\\webparse\\lib\\site-packages\\requests\\sessions.py", line 701, in send\n    r = adapter.send(request, **kwargs)\n', '  File "C:\\Users\\AMH-L91\\anaconda3\\envs\\webparse\\lib\\site-packages\\requests\\adapters.py", line 553, in send\n    raise ConnectTimeout(e, request=request)\n']
+WARNING (2023-08-07 05:26:02,187): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1130_1348_B2.html
+WARNING (2023-08-07 05:26:02,499): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1130_1313_B2.html
+WARNING (2023-08-07 05:26:02,770): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1130_1312_B2.html
+WARNING (2023-08-07 05:26:03,080): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1130_1235_B2.html
+WARNING (2023-08-07 05:26:03,340): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1130_1216_B2.html
+WARNING (2023-08-07 05:26:03,598): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1130_1103_B2.html
+WARNING (2023-08-07 05:26:03,759): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1130_1000_B2.html
+WARNING (2023-08-07 05:26:04,006): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1130_0854_B2_Mindoro.html
+WARNING (2023-08-07 05:26:04,253): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1130_0853_B2_Cagayan.html
+WARNING (2023-08-07 05:26:04,481): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1130_0809_B2.html
+WARNING (2023-08-07 05:26:04,641): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1130_0716_B2.html
+WARNING (2023-08-07 05:26:04,906): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1130_0623_B2.html
+WARNING (2023-08-07 05:26:05,220): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1130_0544_B2.html
+WARNING (2023-08-07 05:26:05,487): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1130_0418_B2.html
+WARNING (2023-08-07 05:26:11,067): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1130_0316_B2.html
+WARNING (2023-08-07 05:26:11,229): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_2119_B2.html
+WARNING (2023-08-07 05:26:11,355): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_2116_B2.html
+WARNING (2023-08-07 05:26:11,473): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_1818_B2.html
+WARNING (2023-08-07 05:26:11,665): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_1705_B2.html
+WARNING (2023-08-07 05:26:11,790): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_1628_B2.html
+WARNING (2023-08-07 05:26:12,067): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_1607_B2.html
+WARNING (2023-08-07 05:26:12,313): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_1252_B2.html
+WARNING (2023-08-07 05:26:12,557): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_1156_B2.html
+WARNING (2023-08-07 05:26:12,691): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_1152_B1.html
+WARNING (2023-08-07 05:26:12,976): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_1051_B2.html
+WARNING (2023-08-07 05:26:13,217): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_1047_B2.html
+WARNING (2023-08-07 05:26:13,360): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_0906_B2.html
+WARNING (2023-08-07 05:26:13,622): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_0806_B2.html
+WARNING (2023-08-07 05:26:13,819): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_0640_B2.html
+WARNING (2023-08-07 05:26:13,936): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_0621_B2.html
+WARNING (2023-08-07 05:26:14,594): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1129_0138_B2.html
+WARNING (2023-08-07 05:26:14,861): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_2243_B2.html
+WARNING (2023-08-07 05:26:15,103): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_2030_B2.html
+WARNING (2023-08-07 05:26:15,240): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_2005_B2.html
+WARNING (2023-08-07 05:26:15,444): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_1952_B2.html
+WARNING (2023-08-07 05:26:27,220): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_1942_B2.html
+WARNING (2023-08-07 05:26:38,468): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_1858_B2.html
+WARNING (2023-08-07 05:26:49,827): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_1852_B2.html
+WARNING (2023-08-07 05:27:01,113): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_1622_B2.html
+WARNING (2023-08-07 05:27:06,845): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_1608_B2.html
+WARNING (2023-08-07 05:27:07,138): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_1443_B2.html
+WARNING (2023-08-07 05:27:07,333): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_1418_B2.html
+WARNING (2023-08-07 05:27:07,587): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_1413_B2.html
+WARNING (2023-08-07 05:27:07,822): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_1404_B2.html
+WARNING (2023-08-07 05:27:08,009): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_1325_B2.html
+WARNING (2023-08-07 05:27:08,201): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_1319_B2.html
+WARNING (2023-08-07 05:27:08,338): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_1257_B2.html
+WARNING (2023-08-07 05:27:08,561): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_1113_B2.html
+WARNING (2023-08-07 05:27:08,817): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_0906_B2.html
+WARNING (2023-08-07 05:27:09,143): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_0445_B2.html
+WARNING (2023-08-07 05:27:09,302): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_0302_B2.html
+WARNING (2023-08-07 05:27:09,552): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_0213_B2.html
+WARNING (2023-08-07 05:27:09,799): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_0204_B2.html
+WARNING (2023-08-07 05:27:10,137): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_0201_B2.html
+WARNING (2023-08-07 05:27:10,306): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1128_0047_B2.html
+WARNING (2023-08-07 05:27:10,465): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_2341_B2.html
+WARNING (2023-08-07 05:27:10,706): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_2000_B2.html
+WARNING (2023-08-07 05:27:10,864): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_1953_B2.html
+WARNING (2023-08-07 05:27:11,030): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_1942_B2.html
+WARNING (2023-08-07 05:27:11,457): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_1931_B2.html
+WARNING (2023-08-07 05:27:16,805): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_1928_B2.html
+WARNING (2023-08-07 05:27:17,063): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_1825_B2.html
+WARNING (2023-08-07 05:27:17,460): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_1721_B2.html
+CRITICAL (2023-08-07 05:27:17,872): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_1620_B2.html
+WARNING (2023-08-07 05:27:18,096): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_1604_B2.html
+WARNING (2023-08-07 05:27:18,310): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_1436_B2.html
+WARNING (2023-08-07 05:27:18,633): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_1344_B2.html
+WARNING (2023-08-07 05:27:19,013): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_1136_B2.html
+WARNING (2023-08-07 05:27:19,271): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_1006_B2.html
+WARNING (2023-08-07 05:27:19,436): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_0717_B2.html
+WARNING (2023-08-07 05:27:19,604): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1127_0410_B2.html
+WARNING (2023-08-07 05:27:19,766): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_2303_B2.html
+CRITICAL (2023-08-07 05:27:19,920): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_2248_B21.html
+WARNING (2023-08-07 05:27:20,181): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_2245_B2.html
+WARNING (2023-08-07 05:27:20,348): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_2232_B2.html
+WARNING (2023-08-07 05:27:20,636): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_2218_B2.html
+WARNING (2023-08-07 05:27:20,913): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_2147_B2.html
+WARNING (2023-08-07 05:27:21,160): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_2136_B2.html
+WARNING (2023-08-07 05:27:21,266): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_1950_B2.html
+WARNING (2023-08-07 05:27:32,500): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_1948_B2.html
+WARNING (2023-08-07 05:27:43,872): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_1800_B2.html
+WARNING (2023-08-07 05:27:49,780): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_1725_B2.html
+WARNING (2023-08-07 05:27:49,873): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_1548_B2.html
+WARNING (2023-08-07 05:27:50,054): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_1240_B2.html
+CRITICAL (2023-08-07 05:27:50,369): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_1127_B2.html
+WARNING (2023-08-07 05:27:50,532): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_1118_B2.html
+WARNING (2023-08-07 05:27:50,708): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1126_1045_B2.html
+WARNING (2023-08-07 05:27:50,841): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1125_2257_B2.html
+WARNING (2023-08-07 05:27:51,038): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1125_2036_B2.html
+WARNING (2023-08-07 05:27:52,097): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1125_2004_B2.html
+WARNING (2023-08-07 05:27:52,246): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1125_1857_B2.html
+WARNING (2023-08-07 05:27:52,429): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1125_1744_B2.html
+WARNING (2023-08-07 05:27:52,673): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1125_1510_B2.html
+WARNING (2023-08-07 05:27:52,837): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1125_1310_B2.html
+WARNING (2023-08-07 05:27:53,168): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1125_1129_B2.html
+WARNING (2023-08-07 05:27:53,420): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1125_1122_B2.html
+WARNING (2023-08-07 05:27:53,578): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1125_1104_B2.html
+WARNING (2023-08-07 05:27:53,745): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1125_0921_B4F.html
+WARNING (2023-08-07 05:27:53,991): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1125_0903_B2.html
+WARNING (2023-08-07 05:27:54,158): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1125_0616_B2.html
+WARNING (2023-08-07 05:27:54,327): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1125_0150_B2.html
+WARNING (2023-08-07 05:27:59,738): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1125_0010_B2.html
+WARNING (2023-08-07 05:28:00,073): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1124_1849_B2.html
+WARNING (2023-08-07 05:28:00,344): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1124_1432_B2.html
+WARNING (2023-08-07 05:28:00,491): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1124_1335_B2.html
+WARNING (2023-08-07 05:28:00,630): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1124_1313_B2.html
+WARNING (2023-08-07 05:28:00,838): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1124_1156_B2.html
+WARNING (2023-08-07 05:28:01,078): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1124_0733_B2.html
+WARNING (2023-08-07 05:28:01,215): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1124_0449_B2.html
+WARNING (2023-08-07 05:28:01,568): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1124_0214_B1.html
+WARNING (2023-08-07 05:28:01,783): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_2325_B2.html
+WARNING (2023-08-07 05:28:02,061): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_2223_B1.html
+WARNING (2023-08-07 05:28:02,310): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_2211_B2.html
+WARNING (2023-08-07 05:28:02,623): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_2014_B2.html
+WARNING (2023-08-07 05:28:02,747): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_1932_B2.html
+WARNING (2023-08-07 05:28:02,998): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_1852_B2.html
+WARNING (2023-08-07 05:28:03,298): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_1743_B2.html
+WARNING (2023-08-07 05:28:03,611): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_1639_B2.html
+WARNING (2023-08-07 05:28:03,851): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_1607_B2.html
+WARNING (2023-08-07 05:28:04,021): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_1606_B2.html
+WARNING (2023-08-07 05:28:04,347): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_1600_B3.html
+WARNING (2023-08-07 05:28:09,893): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_1514_B2.jpg
+WARNING (2023-08-07 05:28:10,358): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_1447_B2.html
+WARNING (2023-08-07 05:28:10,527): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_1350_B2F.html
+WARNING (2023-08-07 05:28:10,767): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_1302_B2.html
+WARNING (2023-08-07 05:28:10,935): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_1237_B2.html
+WARNING (2023-08-07 05:28:11,249): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_1124_B2.html
+WARNING (2023-08-07 05:28:11,409): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_1052_B2.html
+WARNING (2023-08-07 05:28:11,616): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_1016_B2.html
+WARNING (2023-08-07 05:28:11,928): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_0830_B2.html
+WARNING (2023-08-07 05:28:12,089): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_0249_B2.html
+WARNING (2023-08-07 05:28:12,249): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1123_0049_B2.html
+WARNING (2023-08-07 05:28:12,490): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_2328_B2.html
+WARNING (2023-08-07 05:28:12,758): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_2325_B2.html
+WARNING (2023-08-07 05:28:13,140): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_2250_B2.html
+WARNING (2023-08-07 05:28:13,356): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_2000_B2.html
+WARNING (2023-08-07 05:28:13,553): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_1909_B2.html
+WARNING (2023-08-07 05:28:13,783): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_1630_B2.html
+WARNING (2023-08-07 05:28:13,967): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_1600_B2.html
+WARNING (2023-08-07 05:28:14,121): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_1600_B2_Davao_Oriental.html
+WARNING (2023-08-07 05:28:14,389): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_1526_B2.html
+WARNING (2023-08-07 05:28:25,814): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_1526_B2.html
+WARNING (2023-08-07 05:28:38,147): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_1505_B2.html
+WARNING (2023-08-07 05:28:49,509): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_1244_B2.html
+WARNING (2023-08-07 05:28:54,779): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_1207_B2.html
+WARNING (2023-08-07 05:28:54,951): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_1117_B2.html
+WARNING (2023-08-07 05:28:55,105): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_1025_B2.html
+WARNING (2023-08-07 05:28:55,349): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_0849_B2.html
+WARNING (2023-08-07 05:28:55,521): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_0354_B2.html
+WARNING (2023-08-07 05:28:55,885): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_0352_B2.html
+WARNING (2023-08-07 05:28:56,076): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_0313_B2.html
+WARNING (2023-08-07 05:28:56,257): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_0258_B2.html
+WARNING (2023-08-07 05:28:56,500): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_0235_B2.html
+WARNING (2023-08-07 05:28:56,765): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_0127_B2.html
+WARNING (2023-08-07 05:28:56,991): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_0034_B2.html
+WARNING (2023-08-07 05:28:57,323): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1122_0011_B2.html
+WARNING (2023-08-07 05:28:57,763): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_2149_B2.html
+WARNING (2023-08-07 05:28:57,918): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_2035_B2.html
+WARNING (2023-08-07 05:28:58,086): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_2023_B2.html
+WARNING (2023-08-07 05:28:58,315): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_1834_B2.html
+WARNING (2023-08-07 05:28:58,482): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_1715_B2.html
+WARNING (2023-08-07 05:28:58,735): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_1624_B2.html
+WARNING (2023-08-07 05:28:58,951): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_1553_B2.html
+WARNING (2023-08-07 05:28:59,129): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_1516_B2.html
+WARNING (2023-08-07 05:29:00,266): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_1507_B2.html
+WARNING (2023-08-07 05:29:05,881): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_1454_B2.html
+WARNING (2023-08-07 05:29:06,027): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_1405_B2.html
+WARNING (2023-08-07 05:29:06,279): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_1400_B2.html
+WARNING (2023-08-07 05:29:06,457): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_1240_B2.html
+WARNING (2023-08-07 05:29:06,718): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_1204_B2.html
+WARNING (2023-08-07 05:29:06,857): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_1201_B2.html
+WARNING (2023-08-07 05:29:07,025): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_1154_B2.html
+WARNING (2023-08-07 05:29:07,208): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_0912_B2.html
+WARNING (2023-08-07 05:29:07,346): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_0823_B2.html
+WARNING (2023-08-07 05:29:07,858): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_0700_B2.html
+WARNING (2023-08-07 05:29:08,024): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_0420_B2.html
+WARNING (2023-08-07 05:29:08,346): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1121_0228_B2.html
+WARNING (2023-08-07 05:29:08,500): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_2103_B2.html
+WARNING (2023-08-07 05:29:08,822): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_2057_B2.html
+WARNING (2023-08-07 05:29:09,082): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_2030_B2.html
+WARNING (2023-08-07 05:29:09,341): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_1919_B2.html
+WARNING (2023-08-07 05:29:09,513): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_1907_B2.html
+WARNING (2023-08-07 05:29:09,865): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_1852_B2.html
+WARNING (2023-08-07 05:29:09,989): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_1850_B2.html
+WARNING (2023-08-07 05:29:10,235): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_1840_B2.html
+WARNING (2023-08-07 05:29:10,402): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_1757_B2.html
+WARNING (2023-08-07 05:29:15,864): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_1738_B2.html
+WARNING (2023-08-07 05:29:16,005): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_1736_B2.html
+WARNING (2023-08-07 05:29:16,174): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_1701_B2.html
+WARNING (2023-08-07 05:29:16,319): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_1659_B4F.html
+WARNING (2023-08-07 05:29:16,606): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_1634_B2.html
+WARNING (2023-08-07 05:29:16,810): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_1548_B3.html
+WARNING (2023-08-07 05:29:17,076): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_1129_B2.html
+WARNING (2023-08-07 05:29:17,304): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_1115_B2.html
+WARNING (2023-08-07 05:29:17,565): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_0834_B2.html
+WARNING (2023-08-07 05:29:17,711): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_0820_B2.html
+WARNING (2023-08-07 05:29:17,894): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_0724_B2.html
+WARNING (2023-08-07 05:29:17,991): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_0259_B2.html
+WARNING (2023-08-07 05:29:18,152): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_0158_B2.html
+WARNING (2023-08-07 05:29:18,460): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1120_0021_B2.html
+WARNING (2023-08-07 05:29:18,638): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1119_2315_B2.html
+WARNING (2023-08-07 05:29:18,778): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1119_2309_B2.html
+WARNING (2023-08-07 05:29:18,939): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1119_1556_B2.html
+WARNING (2023-08-07 05:29:19,190): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1119_1333_B2.html
+WARNING (2023-08-07 05:29:19,454): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1119_1023_B2.html
+WARNING (2023-08-07 05:29:19,884): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1119_0941_B2.html
+WARNING (2023-08-07 05:29:20,104): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1119_0935_B2.html
+WARNING (2023-08-07 05:29:20,426): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1119_0628_B2.html
+WARNING (2023-08-07 05:29:31,714): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1119_0030_B2.html
+WARNING (2023-08-07 05:29:43,742): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1119_0002_B2.html
+WARNING (2023-08-07 05:29:55,023): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1118_1952_B2.html
+WARNING (2023-08-07 05:30:06,495): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1118_1632_B2.html
+WARNING (2023-08-07 05:30:17,777): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1118_1624_B2.html
+WARNING (2023-08-07 05:30:29,196): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1118_1600_B2.html
+WARNING (2023-08-07 05:30:40,637): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1118_1556_B2.html
+WARNING (2023-08-07 05:30:51,964): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1118_1555_B2.html
+WARNING (2023-08-07 05:31:03,264): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1118_1547_B2.html
+WARNING (2023-08-07 05:31:14,622): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1118_1515_B2.html
+WARNING (2023-08-07 05:31:25,963): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1118_1452_B2.html
+WARNING (2023-08-07 05:31:37,387): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1118_1250_B2.html
+WARNING (2023-08-07 05:31:48,824): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1118_1143_B2.html
+WARNING (2023-08-07 05:32:00,180): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1118_0335_B2.html
+WARNING (2023-08-07 05:32:11,533): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1118_0259_B2.html
+WARNING (2023-08-07 05:32:22,831): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1118_0045_B2.html
+WARNING (2023-08-07 05:32:34,187): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1118_0041_B2.html
+WARNING (2023-08-07 05:32:39,810): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_2312_B2.html
+WARNING (2023-08-07 05:32:39,993): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_2229_B2.html
+WARNING (2023-08-07 05:32:40,237): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_2145_B2.html
+WARNING (2023-08-07 05:32:40,641): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_2131_B2.html
+WARNING (2023-08-07 05:32:40,889): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_1905_B2.html
+WARNING (2023-08-07 05:32:41,239): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_1901_B2.html
+WARNING (2023-08-07 05:32:41,560): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_1810_B2.html
+WARNING (2023-08-07 05:32:41,737): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_1601_B2.html
+WARNING (2023-08-07 05:32:42,046): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_1449_B2F.html
+WARNING (2023-08-07 05:32:42,303): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_1240_B2.html
+WARNING (2023-08-07 05:32:42,465): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_1158_B3F.html
+WARNING (2023-08-07 05:32:42,641): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_1150_B2.html
+WARNING (2023-08-07 05:32:42,779): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_1020_B2.html
+WARNING (2023-08-07 05:32:42,976): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_1012_B2.html
+WARNING (2023-08-07 05:32:43,189): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_0949_B2.html
+WARNING (2023-08-07 05:32:43,385): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_0710_B2.html
+WARNING (2023-08-07 05:32:43,609): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_0314_B2.html
+WARNING (2023-08-07 05:32:43,771): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_0301_B2.html
+WARNING (2023-08-07 05:32:43,978): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_0203_B2.html
+WARNING (2023-08-07 05:32:44,117): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_0123_B2.html
+WARNING (2023-08-07 05:32:44,286): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_0117_B2.html
+WARNING (2023-08-07 05:32:50,515): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_0041_B2.html
+WARNING (2023-08-07 05:32:50,863): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1117_0012_B2.html
+WARNING (2023-08-07 05:32:51,169): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_2326_B2.html
+WARNING (2023-08-07 05:32:51,345): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_2020_B2.html
+WARNING (2023-08-07 05:32:51,609): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_1917_B2.html
+WARNING (2023-08-07 05:32:51,993): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_1906_B2.html
+WARNING (2023-08-07 05:32:52,172): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_1904_B2.html
+WARNING (2023-08-07 05:32:52,426): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_1854_B2.html
+WARNING (2023-08-07 05:32:52,584): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_1847_B2.html
+WARNING (2023-08-07 05:32:52,824): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_1845_B2.html
+WARNING (2023-08-07 05:32:52,998): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_1701_B2.html
+WARNING (2023-08-07 05:32:53,327): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_1540_B2.html
+WARNING (2023-08-07 05:32:53,572): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_1534_B3F.html
+WARNING (2023-08-07 05:32:53,822): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_1256_B2.html
+WARNING (2023-08-07 05:32:53,978): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_0928_B2.html
+WARNING (2023-08-07 05:32:54,244): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_0857_B2.html
+WARNING (2023-08-07 05:32:54,545): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_0743_B2.html
+WARNING (2023-08-07 05:32:59,825): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_0730_B2.html
+WARNING (2023-08-07 05:33:00,068): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_0655_B2.html
+WARNING (2023-08-07 05:33:00,237): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1116_0248_B2.html
+WARNING (2023-08-07 05:33:00,384): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_2339_B2.html
+WARNING (2023-08-07 05:33:00,630): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_2154_B2.html
+WARNING (2023-08-07 05:33:00,809): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_2134_B2.html
+WARNING (2023-08-07 05:33:00,978): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_1927_B2.html
+WARNING (2023-08-07 05:33:01,274): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_1740_B2.html
+WARNING (2023-08-07 05:33:01,455): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_1736_B2.html
+WARNING (2023-08-07 05:33:01,648): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_1701_B2.html
+WARNING (2023-08-07 05:33:01,838): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_1658_B2.html
+WARNING (2023-08-07 05:33:01,941): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_1615_B2.html
+WARNING (2023-08-07 05:33:02,130): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_1545_B2.html
+WARNING (2023-08-07 05:33:02,376): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_1427_B2.html
+WARNING (2023-08-07 05:33:02,619): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_1340_B2.html
+WARNING (2023-08-07 05:33:02,860): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_1201_B2.html
+WARNING (2023-08-07 05:33:03,102): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_1145_B2.html
+WARNING (2023-08-07 05:33:03,264): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_0933_B2.html
+WARNING (2023-08-07 05:33:03,522): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_0506_B2.html
+WARNING (2023-08-07 05:33:03,694): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_0447_B3.html
+WARNING (2023-08-07 05:33:03,930): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_0416_B2.html
+WARNING (2023-08-07 05:33:04,164): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_0408_B2.html
+WARNING (2023-08-07 05:33:04,340): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_0402_B2.html
+WARNING (2023-08-07 05:33:15,712): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_0301_B2.html
+WARNING (2023-08-07 05:33:27,126): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1115_0234_B1.html
+WARNING (2023-08-07 05:33:32,879): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_2119_B2.html
+WARNING (2023-08-07 05:33:33,216): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_2041_B2.html
+WARNING (2023-08-07 05:33:33,466): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_2025_B2.html
+WARNING (2023-08-07 05:33:33,826): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_2007_B2.html
+WARNING (2023-08-07 05:33:34,355): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1959_B2.html
+WARNING (2023-08-07 05:33:34,796): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1957_B2.html
+WARNING (2023-08-07 05:33:35,185): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1933_B2.html
+WARNING (2023-08-07 05:33:35,376): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1922_B2.html
+WARNING (2023-08-07 05:33:35,596): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1855_B1.html
+WARNING (2023-08-07 05:33:35,926): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1842_B2.html
+WARNING (2023-08-07 05:33:36,106): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1835_B2.html
+WARNING (2023-08-07 05:33:36,254): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1719_B2.html
+WARNING (2023-08-07 05:33:36,526): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1630_B2.html
+WARNING (2023-08-07 05:33:36,926): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1445_B2.html
+WARNING (2023-08-07 05:33:37,090): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1424_B2.html
+WARNING (2023-08-07 05:33:37,826): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1423_B2.html
+WARNING (2023-08-07 05:33:49,096): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1403_B2.html
+WARNING (2023-08-07 05:33:56,073): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1358_B2.html
+WARNING (2023-08-07 05:34:08,197): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1336_B2.html
+WARNING (2023-08-07 05:34:19,446): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1330_B2.html
+WARNING (2023-08-07 05:34:30,799): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1233_B2.html
+WARNING (2023-08-07 05:34:43,173): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1134_B2.html
+WARNING (2023-08-07 05:34:54,572): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1044_B2.html
+WARNING (2023-08-07 05:35:01,902): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1020_B2.html
+WARNING (2023-08-07 05:35:02,143): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_1017_B2.html
+WARNING (2023-08-07 05:35:02,388): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_0405_B2.html
+WARNING (2023-08-07 05:35:02,543): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_0318_B2.html
+WARNING (2023-08-07 05:35:02,766): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_0259_B2.html
+WARNING (2023-08-07 05:35:02,887): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1114_0049_B2.html
+WARNING (2023-08-07 05:35:03,195): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_2219_B2.html
+WARNING (2023-08-07 05:35:03,480): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1949_B2.html
+WARNING (2023-08-07 05:35:03,631): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1918_B2.html
+WARNING (2023-08-07 05:35:03,789): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1907_B2.html
+WARNING (2023-08-07 05:35:04,036): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1848_B2.html
+CRITICAL (2023-08-07 05:35:04,245): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1818_B2.html
+WARNING (2023-08-07 05:35:04,511): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1810_B2.html
+WARNING (2023-08-07 05:35:16,049): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1745_B2.html
+WARNING (2023-08-07 05:35:21,720): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1733_B3.html
+WARNING (2023-08-07 05:35:22,026): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1723_B2.html
+WARNING (2023-08-07 05:35:22,203): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1706_B2.html
+WARNING (2023-08-07 05:35:22,359): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1702_B2.html
+WARNING (2023-08-07 05:35:22,566): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1625_B2.html
+WARNING (2023-08-07 05:35:22,853): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1523_B2.html
+WARNING (2023-08-07 05:35:23,123): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1514_B2.html
+WARNING (2023-08-07 05:35:23,369): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1352_B2.html
+WARNING (2023-08-07 05:35:23,678): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1237_B2F.html
+WARNING (2023-08-07 05:35:23,927): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1211_B2.html
+WARNING (2023-08-07 05:35:24,180): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_1152_B2.html
+WARNING (2023-08-07 05:35:24,356): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_0838_B2.html
+WARNING (2023-08-07 05:35:24,643): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_0757_B2.html
+WARNING (2023-08-07 05:35:24,805): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_0607_B2.html
+WARNING (2023-08-07 05:35:25,085): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_0356_B2.html
+WARNING (2023-08-07 05:35:25,397): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1113_0226_B2.html
+WARNING (2023-08-07 05:35:25,604): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_2100_B2.html
+WARNING (2023-08-07 05:35:25,765): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_2029_B2.html
+WARNING (2023-08-07 05:35:26,003): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1926_B2.html
+WARNING (2023-08-07 05:35:26,330): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1918_B2.html
+WARNING (2023-08-07 05:35:31,756): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1842_B2.html
+WARNING (2023-08-07 05:35:35,203): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1839_B2.html
+WARNING (2023-08-07 05:35:35,462): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1759_B2.html
+WARNING (2023-08-07 05:35:35,777): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1744_B2.html
+WARNING (2023-08-07 05:35:36,043): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1727_B2.html
+WARNING (2023-08-07 05:35:36,193): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1727_B2_Burgos.html
+WARNING (2023-08-07 05:35:36,430): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1555_B2.html
+WARNING (2023-08-07 05:35:42,016): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1457_B2.html
+WARNING (2023-08-07 05:35:42,268): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1454_B3F.html
+WARNING (2023-08-07 05:35:42,675): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1449_B3F.html
+WARNING (2023-08-07 05:35:43,007): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1248_B2.html
+WARNING (2023-08-07 05:35:43,188): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1242_B2.html
+WARNING (2023-08-07 05:35:43,533): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1147_B2.html
+WARNING (2023-08-07 05:35:44,196): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1142_B2.html
+WARNING (2023-08-07 05:35:45,487): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1136_B2.html
+WARNING (2023-08-07 05:35:45,640): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_1032_B2.html
+WARNING (2023-08-07 05:35:45,903): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_0828_B2.html
+WARNING (2023-08-07 05:35:46,149): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_0633_B2.html
+WARNING (2023-08-07 05:35:46,313): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_0529_B2.html
+WARNING (2023-08-07 05:35:57,651): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_0221_B2.html
+WARNING (2023-08-07 05:36:09,019): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_0220_B2.html
+WARNING (2023-08-07 05:36:14,785): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_0213_B2.html
+WARNING (2023-08-07 05:36:15,052): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1112_0131_B2.html
+WARNING (2023-08-07 05:36:15,253): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1111_1943_B2.html
+WARNING (2023-08-07 05:36:15,393): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1111_1858_B2.html
+WARNING (2023-08-07 05:36:15,667): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1111_1710_B2.html
+WARNING (2023-08-07 05:36:15,947): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1111_1709_B2.html
+WARNING (2023-08-07 05:36:16,095): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1111_1649_B2.html
+WARNING (2023-08-07 05:36:16,404): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1111_1621_B2.html
+WARNING (2023-08-07 05:36:16,729): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1111_1546_B2.html
+WARNING (2023-08-07 05:36:17,083): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1111_1544_B2.html
+WARNING (2023-08-07 05:36:17,481): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1111_0927_B2F.html
+WARNING (2023-08-07 05:36:17,662): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1111_0557_B2.html
+WARNING (2023-08-07 05:36:17,824): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_2354_B2.html
+WARNING (2023-08-07 05:36:18,059): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_2312_B2.html
+WARNING (2023-08-07 05:36:18,302): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_2257_B2.html
+WARNING (2023-08-07 05:36:18,621): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_2043_B2.html
+WARNING (2023-08-07 05:36:18,785): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_1835_B2.html
+WARNING (2023-08-07 05:36:19,055): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_1822_B2.html
+WARNING (2023-08-07 05:36:19,421): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_1722_B2.html
+WARNING (2023-08-07 05:36:24,894): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_1627_B2.html
+WARNING (2023-08-07 05:36:25,215): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_1619_B2.html
+WARNING (2023-08-07 05:36:25,420): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_1601_B2.html
+WARNING (2023-08-07 05:36:25,628): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_1545_B2.html
+WARNING (2023-08-07 05:36:25,898): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_1504_B2.html
+WARNING (2023-08-07 05:36:26,207): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_1406_B2.html
+WARNING (2023-08-07 05:36:26,371): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_1212_B2.html
+WARNING (2023-08-07 05:36:26,764): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_1208_B2.html
+WARNING (2023-08-07 05:36:27,120): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_1143_B2.html
+WARNING (2023-08-07 05:36:27,352): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_1127_B3F.html
+WARNING (2023-08-07 05:36:27,674): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_1029_B2.html
+WARNING (2023-08-07 05:36:27,983): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_0733_B2.html
+WARNING (2023-08-07 05:36:28,342): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_0311_B2.html
+WARNING (2023-08-07 05:36:28,661): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_0302_B2.html
+WARNING (2023-08-07 05:36:28,926): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1110_0041_B2.html
+WARNING (2023-08-07 05:36:29,178): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_2352_B2.html
+WARNING (2023-08-07 05:36:29,500): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_2319_B2.html
+WARNING (2023-08-07 05:36:40,776): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_2054_B2.html
+WARNING (2023-08-07 05:36:52,114): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_2034_B2.html
+WARNING (2023-08-07 05:36:57,803): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1928_B2.html
+WARNING (2023-08-07 05:36:58,115): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1927_B2.html
+WARNING (2023-08-07 05:36:58,444): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1912_B3.html
+WARNING (2023-08-07 05:36:58,723): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1909_B2.html
+WARNING (2023-08-07 05:36:58,951): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1854_B2.html
+WARNING (2023-08-07 05:36:59,326): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1832_B2.html
+WARNING (2023-08-07 05:36:59,533): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1830_B1.html
+WARNING (2023-08-07 05:36:59,777): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1739_B1.html
+WARNING (2023-08-07 05:36:59,968): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1718_B2.html
+WARNING (2023-08-07 05:37:00,113): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1702_B2.html
+WARNING (2023-08-07 05:37:00,261): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1655_B2.html
+WARNING (2023-08-07 05:37:00,425): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1633_B2.html
+WARNING (2023-08-07 05:37:00,775): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1548_B2.html
+WARNING (2023-08-07 05:37:01,020): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1540_B2.html
+WARNING (2023-08-07 05:37:01,264): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1151_B2.html
+WARNING (2023-08-07 05:37:01,579): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1146_B2.html
+WARNING (2023-08-07 05:37:01,744): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1020_B2.html
+WARNING (2023-08-07 05:37:01,915): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_1002_B2.html
+WARNING (2023-08-07 05:37:02,151): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_0947_B2.html
+WARNING (2023-08-07 05:37:02,245): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_0809_B2.html
+WARNING (2023-08-07 05:37:02,426): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_0457_B2.html
+WARNING (2023-08-07 05:37:14,900): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_0441_B2.html
+WARNING (2023-08-07 05:37:20,841): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_0421_B2.html
+WARNING (2023-08-07 05:37:21,082): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_0136_B2.html
+WARNING (2023-08-07 05:37:21,413): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1109_0136_B2SL.html
+WARNING (2023-08-07 05:37:21,661): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_2144_B2.html
+WARNING (2023-08-07 05:37:21,824): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_2044_B2.html
+WARNING (2023-08-07 05:37:22,156): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_2018_B1.html
+WARNING (2023-08-07 05:37:22,330): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_2004_B2.html
+WARNING (2023-08-07 05:37:22,486): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1945_B2.html
+WARNING (2023-08-07 05:37:22,728): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1857_B2.html
+WARNING (2023-08-07 05:37:23,049): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1845_B2.html
+WARNING (2023-08-07 05:37:23,378): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1838_B2.html
+WARNING (2023-08-07 05:37:24,633): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1801_B2.html
+WARNING (2023-08-07 05:37:25,451): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1759_B2.html
+WARNING (2023-08-07 05:37:36,869): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1741_B2.html
+WARNING (2023-08-07 05:37:42,716): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1728_B2.html
+WARNING (2023-08-07 05:37:43,055): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1657_B2.html
+WARNING (2023-08-07 05:37:43,206): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1629_B2.html
+WARNING (2023-08-07 05:37:43,606): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1621_B2.html
+WARNING (2023-08-07 05:37:43,876): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1509_B2.html
+WARNING (2023-08-07 05:37:44,196): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1503_B2.html
+WARNING (2023-08-07 05:37:44,345): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1417_B2.html
+WARNING (2023-08-07 05:37:44,529): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1224_B2.html
+WARNING (2023-08-07 05:37:47,716): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1144_B2.html
+WARNING (2023-08-07 05:37:59,149): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1143_B2.html
+WARNING (2023-08-07 05:38:04,936): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1137_B2.html
+WARNING (2023-08-07 05:38:05,165): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1117_B2.html
+WARNING (2023-08-07 05:38:05,479): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1110_B2.html
+WARNING (2023-08-07 05:38:05,750): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1105_B2.html
+WARNING (2023-08-07 05:38:06,081): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1048_B2.html
+WARNING (2023-08-07 05:38:06,349): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_1030_B2.html
+WARNING (2023-08-07 05:38:06,725): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_0910_B2.html
+WARNING (2023-08-07 05:38:06,901): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_0830_B2.html
+WARNING (2023-08-07 05:38:07,140): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_0708_B2.html
+WARNING (2023-08-07 05:38:07,313): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_0648_B2.html
+WARNING (2023-08-07 05:38:07,478): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_0632_B2.html
+WARNING (2023-08-07 05:38:07,872): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_0343_B3F.html
+WARNING (2023-08-07 05:38:08,151): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_0321_B2.html
+WARNING (2023-08-07 05:38:08,301): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_0256_B2.html
+WARNING (2023-08-07 05:38:08,463): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1108_0041_B2.html
+WARNING (2023-08-07 05:38:08,705): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_2035_B2.html
+WARNING (2023-08-07 05:38:09,024): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_2012_B2.html
+WARNING (2023-08-07 05:38:09,275): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1955_B2.html
+WARNING (2023-08-07 05:38:20,729): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1942_B2.html
+WARNING (2023-08-07 05:38:32,076): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1914_B2.html
+WARNING (2023-08-07 05:38:37,883): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1902_B2.html
+WARNING (2023-08-07 05:38:38,079): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1747_B2.html
+WARNING (2023-08-07 05:38:38,255): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1738_B2.html
+WARNING (2023-08-07 05:38:38,405): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1653_B2.html
+WARNING (2023-08-07 05:38:38,630): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1623_B2.html
+WARNING (2023-08-07 05:38:38,804): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1618_B2.html
+WARNING (2023-08-07 05:38:39,065): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1537_B2.html
+CRITICAL (2023-08-07 05:38:39,220): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1456_B2.html
+WARNING (2023-08-07 05:38:39,402): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1441_B2.html
+WARNING (2023-08-07 05:38:39,555): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1440_B2.html
+WARNING (2023-08-07 05:38:39,876): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1438_B2.html
+WARNING (2023-08-07 05:38:40,151): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1411_B2.html
+WARNING (2023-08-07 05:38:40,489): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_1211_B2.html
+WARNING (2023-08-07 05:38:41,951): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_0401_B2.html
+WARNING (2023-08-07 05:38:42,277): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_0042_B2.html
+WARNING (2023-08-07 05:38:53,801): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1107_0041_B2.html
+WARNING (2023-08-07 05:38:59,813): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_2205_B2.html
+WARNING (2023-08-07 05:39:00,128): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_2153_B2.html
+WARNING (2023-08-07 05:39:00,478): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_2148_B2.html
+WARNING (2023-08-07 05:39:00,863): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_2013_B2.html
+WARNING (2023-08-07 05:39:01,365): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_1937_B2.html
+WARNING (2023-08-07 05:39:01,610): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_1653_B2.html
+WARNING (2023-08-07 05:39:01,866): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_1633_B2.html
+WARNING (2023-08-07 05:39:02,014): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_1550_B2.html
+WARNING (2023-08-07 05:39:02,276): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_1332_B2.html
+WARNING (2023-08-07 05:39:02,521): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_1234_B2.html
+WARNING (2023-08-07 05:39:02,673): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_1229_B2.html
+WARNING (2023-08-07 05:39:02,856): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_1104_B2.html
+WARNING (2023-08-07 05:39:03,079): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_1032_B2.html
+WARNING (2023-08-07 05:39:03,345): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_1028_B2.html
+WARNING (2023-08-07 05:39:03,499): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_0527_B1.html
+WARNING (2023-08-07 05:39:03,889): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_0332_B2.html
+WARNING (2023-08-07 05:39:04,157): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_0319_B2.html
+WARNING (2023-08-07 05:39:04,324): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_0237_B2.html
+WARNING (2023-08-07 05:39:15,616): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1106_0209_B2.html
+WARNING (2023-08-07 05:39:27,046): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_2223_B2.html
+WARNING (2023-08-07 05:39:38,548): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_2149_B2.html
+WARNING (2023-08-07 05:39:50,206): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_2135_B2F.html
+WARNING (2023-08-07 05:40:01,663): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_2123_B2.html
+WARNING (2023-08-07 05:40:13,002): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_2004_B2.html
+WARNING (2023-08-07 05:40:24,520): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1956_B2.html
+WARNING (2023-08-07 05:40:32,092): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1925_B2F.html
+WARNING (2023-08-07 05:40:32,396): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1907_B2.html
+WARNING (2023-08-07 05:40:32,617): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1755_B2.html
+WARNING (2023-08-07 05:40:32,814): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1722_B2.html
+WARNING (2023-08-07 05:40:33,079): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1707_B2.html
+WARNING (2023-08-07 05:40:33,277): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1635_B2.html
+WARNING (2023-08-07 05:40:33,415): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1548_B2.html
+WARNING (2023-08-07 05:40:33,566): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1531_B2.html
+WARNING (2023-08-07 05:40:33,827): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1357_B2.html
+WARNING (2023-08-07 05:40:33,983): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1244_B2.html
+WARNING (2023-08-07 05:40:34,389): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1229_B3F.html
+WARNING (2023-08-07 05:40:45,829): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1151_B2F.html
+WARNING (2023-08-07 05:40:57,248): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1113_B2.html
+WARNING (2023-08-07 05:41:08,688): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1049_B2.html
+WARNING (2023-08-07 05:41:14,857): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_1002_B2.html
+WARNING (2023-08-07 05:41:15,117): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0927_B2.html
+WARNING (2023-08-07 05:41:15,264): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0742_B2.html
+WARNING (2023-08-07 05:41:15,451): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0700_B2.html
+CRITICAL (2023-08-07 05:41:15,597): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0540_B2.html
+WARNING (2023-08-07 05:41:15,871): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0610_B2.jpg
+WARNING (2023-08-07 05:41:16,095): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0607_B2.html
+WARNING (2023-08-07 05:41:16,360): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0603_B2.html
+WARNING (2023-08-07 05:41:16,502): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0559_B2.html
+WARNING (2023-08-07 05:41:16,687): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0546_B2.html
+WARNING (2023-08-07 05:41:16,821): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0513_B3.html
+WARNING (2023-08-07 05:41:17,152): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0436_B2.html
+WARNING (2023-08-07 05:41:17,414): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0409_B3.html
+WARNING (2023-08-07 05:41:17,748): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0409_B2_cagayan.html
+WARNING (2023-08-07 05:41:17,921): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0406_B2.html
+WARNING (2023-08-07 05:41:18,057): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0349_B2.html
+WARNING (2023-08-07 05:41:18,461): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0348_B2.html
+WARNING (2023-08-07 05:41:18,641): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0331_B3.html
+WARNING (2023-08-07 05:41:18,978): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0322_B2.html
+WARNING (2023-08-07 05:41:19,162): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0305_B2.html
+WARNING (2023-08-07 05:41:19,298): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0254_B4F.html
+WARNING (2023-08-07 05:41:30,744): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0242_B2.html
+WARNING (2023-08-07 05:41:42,306): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0122_B3.html
+WARNING (2023-08-07 05:41:53,668): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0118_B3.html
+WARNING (2023-08-07 05:41:59,843): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1105_0046_B3.html
+WARNING (2023-08-07 05:42:00,036): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_2346_B4F.html
+WARNING (2023-08-07 05:42:00,748): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_2329_B2.html
+WARNING (2023-08-07 05:42:00,996): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_2326_B2.html
+WARNING (2023-08-07 05:42:01,153): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_2320_B2.html
+WARNING (2023-08-07 05:42:01,337): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_2309_B2.html
+WARNING (2023-08-07 05:42:01,583): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_2148_B2.html
+WARNING (2023-08-07 05:42:01,738): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_2137_B2.html
+WARNING (2023-08-07 05:42:01,928): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_2059_B2.html
+WARNING (2023-08-07 05:42:02,069): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_1802_B2.html
+WARNING (2023-08-07 05:42:02,242): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_1726_B2.html
+WARNING (2023-08-07 05:42:02,493): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_1721_B2.html
+WARNING (2023-08-07 05:42:02,641): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_1452_B2.html
+WARNING (2023-08-07 05:42:02,823): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_1332_B2.html
+WARNING (2023-08-07 05:42:02,949): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_1327_B2.html
+WARNING (2023-08-07 05:42:03,153): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_1302_B2Claveria.html
+WARNING (2023-08-07 05:42:03,295): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_1302_B2.html
+WARNING (2023-08-07 05:42:03,484): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_1047_B2.html
+WARNING (2023-08-07 05:42:03,625): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_1027_B3F.html
+WARNING (2023-08-07 05:42:03,766): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_1009_B2.html
+WARNING (2023-08-07 05:42:03,876): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_0807_B2.html
+WARNING (2023-08-07 05:42:04,018): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_0755_B3.html
+WARNING (2023-08-07 05:42:04,128): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_0527_B2.html
+WARNING (2023-08-07 05:42:04,391): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_0254_B2.html
+WARNING (2023-08-07 05:42:10,550): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_0242_B2.html
+WARNING (2023-08-07 05:42:10,881): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1104_0034_B2.html
+WARNING (2023-08-07 05:42:11,200): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_2208_B2.html
+WARNING (2023-08-07 05:42:11,295): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_2135_B2F.html
+WARNING (2023-08-07 05:42:11,530): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_2121_B3.html
+WARNING (2023-08-07 05:42:11,688): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_2119_B2.html
+WARNING (2023-08-07 05:42:11,924): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1915_B2.html
+WARNING (2023-08-07 05:42:12,128): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1836_B2.html
+WARNING (2023-08-07 05:42:12,207): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1710_B2.html
+WARNING (2023-08-07 05:42:12,506): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1708_B2.html
+WARNING (2023-08-07 05:42:12,764): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1653_B2.html
+WARNING (2023-08-07 05:42:12,852): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1651_B2.html
+WARNING (2023-08-07 05:42:13,166): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1634_B2.html
+WARNING (2023-08-07 05:42:13,367): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1538_B2.html
+WARNING (2023-08-07 05:42:13,688): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1533_B2.html
+WARNING (2023-08-07 05:42:13,821): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1430_B2.html
+WARNING (2023-08-07 05:42:14,010): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1417_B2.html
+WARNING (2023-08-07 05:42:14,150): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1340_B2.html
+WARNING (2023-08-07 05:42:14,339): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1337_B2.html
+WARNING (2023-08-07 05:42:19,854): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1321_B2.html
+WARNING (2023-08-07 05:42:20,176): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1318_B2.html
+WARNING (2023-08-07 05:42:20,579): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1303_B2.html
+WARNING (2023-08-07 05:42:20,906): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1239_B2.html
+WARNING (2023-08-07 05:42:21,235): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1233_B2.html
+WARNING (2023-08-07 05:42:21,495): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_1204_B2.html
+WARNING (2023-08-07 05:42:21,813): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_0925_B2.html
+WARNING (2023-08-07 05:42:22,142): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_0908_B2.html
+WARNING (2023-08-07 05:42:22,459): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_0632_B2.html
+WARNING (2023-08-07 05:42:22,711): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_0354_B2.html
+WARNING (2023-08-07 05:42:23,025): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_0311_B2.html
+WARNING (2023-08-07 05:42:23,198): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1103_0116_B2.html
+WARNING (2023-08-07 05:42:23,449): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_2218_B2.html
+WARNING (2023-08-07 05:42:23,701): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_2109_B2.html
+WARNING (2023-08-07 05:42:23,951): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_2108_B2.html
+WARNING (2023-08-07 05:42:24,203): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_2107_B2.html
+WARNING (2023-08-07 05:42:24,360): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_2053_B2.html
+WARNING (2023-08-07 05:42:29,736): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_2043_B2.html
+WARNING (2023-08-07 05:42:29,830): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_2039_B2.html
+WARNING (2023-08-07 05:42:29,956): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_2029_B2.html
+WARNING (2023-08-07 05:42:30,129): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_1704_B2_Davao_Occidental2.html
+WARNING (2023-08-07 05:42:30,365): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_1704_B2_Davao_Occidental1.html
+WARNING (2023-08-07 05:42:30,522): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_1617_B2.html
+WARNING (2023-08-07 05:42:30,726): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_1609_B2.html
+WARNING (2023-08-07 05:42:30,852): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_1517_B2.html
+WARNING (2023-08-07 05:42:31,043): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_1434_B2.html
+WARNING (2023-08-07 05:42:31,197): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_1423_B2.html
+WARNING (2023-08-07 05:42:31,373): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_1009_B2.html
+WARNING (2023-08-07 05:42:31,515): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_0905_B2.html
+WARNING (2023-08-07 05:42:31,766): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_0318_B2.html
+WARNING (2023-08-07 05:42:32,002): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_0048_B2F.html
+CRITICAL (2023-08-07 05:42:32,160): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1102_0039_B2.html
+WARNING (2023-08-07 05:42:32,349): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_2224_B1.html
+WARNING (2023-08-07 05:42:32,601): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_2216_B2F.html
+WARNING (2023-08-07 05:42:32,726): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_1959_B2.html
+WARNING (2023-08-07 05:42:32,931): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_1825_B2.html
+WARNING (2023-08-07 05:42:33,104): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_1759_B2.html
+WARNING (2023-08-07 05:42:33,245): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_1717_B2.html
+WARNING (2023-08-07 05:42:33,403): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_1654_B2.html
+WARNING (2023-08-07 05:42:33,560): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_1635_B2.html
+WARNING (2023-08-07 05:42:33,717): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_1620_B2.html
+WARNING (2023-08-07 05:42:33,890): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_1524_B2.html
+WARNING (2023-08-07 05:42:34,158): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_1429_B2.html
+WARNING (2023-08-07 05:42:34,377): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_1151_B2.html
+WARNING (2023-08-07 05:42:46,265): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_0758_B2.html
+WARNING (2023-08-07 05:42:51,905): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_0738_B2.html
+WARNING (2023-08-07 05:42:52,094): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_0658_B2.html
+WARNING (2023-08-07 05:42:52,424): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_0601_B2.html
+WARNING (2023-08-07 05:42:52,565): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_0559_B2.html
+WARNING (2023-08-07 05:42:52,754): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_0457_B2.html
+WARNING (2023-08-07 05:42:52,895): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_0337_B2.html
+WARNING (2023-08-07 05:42:53,163): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_0322_B2.html
+WARNING (2023-08-07 05:42:53,336): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_0156_B2.html
+WARNING (2023-08-07 05:42:53,658): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/November/2018_1101_0014_B2.html
+WARNING (2023-08-07 05:42:53,807): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_2124_B2.html
+WARNING (2023-08-07 05:42:53,996): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_2113_B2.html
+WARNING (2023-08-07 05:42:54,137): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_1952_B2.html
+WARNING (2023-08-07 05:42:54,389): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_1942_B2.html
+WARNING (2023-08-07 05:42:54,578): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_1927_B2.html
+WARNING (2023-08-07 05:42:54,892): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_1909_B2.html
+WARNING (2023-08-07 05:42:54,986): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_1857_B2.html
+WARNING (2023-08-07 05:42:55,284): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_1747_B2.html
+WARNING (2023-08-07 05:42:55,520): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_1729_B2.html
+WARNING (2023-08-07 05:42:55,693): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_1640_B1.html
+WARNING (2023-08-07 05:42:55,947): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/October/2018_1031_1606_B2.html

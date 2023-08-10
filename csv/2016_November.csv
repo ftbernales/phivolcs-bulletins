@@ -1,0 +1,350 @@
+,datetime,lat,lon,depth_km,mag,location,mag_type,event_type
+0,2016-11-30 15:46:38+00:00,14.28,119.06,33,2.5,124 km N 68° W of Lubang (Occidental Mindoro),Ms,TECTONIC
+1,2016-11-30 15:41:50+00:00,18.6,120.81,23,2.4,003 km S 31° E of Pagudpud (Ilocos Norte),Ms,TECTONIC
+2,2016-11-30 15:21:53+00:00,14.23,119.08,39,2.5,120 km N 70° W of Lubang (Occidental Mindoro),Ms,TECTONIC
+3,2016-11-30 12:35:54+00:00,9.57,124.04,33,3.3,006 km S 72° W of Lila (Bohol),Ms,TECTONIC
+4,2016-11-30 11:51:46+00:00,10.09,123.68,19,2.6,010 km N 49° E of Sibonga (Cebu),Ms,TECTONIC
+5,2016-11-30 04:12:54+00:00,15.28,119.63,31,2.4,034 km S 60° W of Palauig (Zambales),Ms,TECTONIC
+6,2016-11-29 15:51:27+00:00,14.79,119.49,26,2.6,067 km S 74° W of San Antonio (Zambales),Ms,TECTONIC
+7,2016-11-29 15:36:20+00:00,9.88,125.3,29,2.7,010 km S 38° E of Pintuyan (Southern Leyte),Ms,TECTONIC
+8,2016-11-29 15:18:31+00:00,10.39,125.33,22,2.4,010 km N 64° E of Hinundayan (Southern Leyte),Ms,TECTONIC
+9,2016-11-29 14:30:32+00:00,5.93,126.64,36,2.6,101 km S 38° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+10,2016-11-29 13:20:42+00:00,6.07,126.65,11,3.1,090 km S 45° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+11,2016-11-29 10:37:59+00:00,8.07,126.58,45,3.2,019 km N 80° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+12,2016-11-29 09:11:18+00:00,9.5,126.16,31,3.2,025 km S 58° E of Socorro (Surigao Del Norte),Ms,TECTONIC
+13,2016-11-29 02:29:10+00:00,14.63,123.15,36,3.3,055 km N 46° E of Paracale (Camarines Norte),Ms,TECTONIC
+14,2016-11-29 02:10:19+00:00,8.25,125.87,17,2.2,007 km N 14° E of Loreto (Agusan Del Sur),Ms,TECTONIC
+15,2016-11-28 21:49:15+00:00,16.72,120.14,29,2.3,023 km S 89° W of Bacnotan (La Union),Ms,TECTONIC
+16,2016-11-28 20:54:56+00:00,13.86,120.51,84,2.0,013 km N 78° W of Calatagan (Batangas),Ms,TECTONIC
+17,2016-11-28 18:50:26+00:00,13.59,121.72,6,3.1,020 km N 39° W of Boac (Marinduque),Ms,TECTONIC
+18,2016-11-28 18:40:23+00:00,10.93,124.4,16,2.3,004 km S 89° W of Isabel (Leyte),Ms,TECTONIC
+19,2016-11-28 18:06:37+00:00,9.64,126.71,5,2.7,063 km S 76° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+20,2016-11-28 14:45:14+00:00,15.7,119.91,18,2.4,007 km S 03° W of Santa Cruz (Zambales),Ms,TECTONIC
+21,2016-11-28 13:53:47+00:00,9.55,126.7,6,2.7,063 km N 61° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+22,2016-11-28 12:54:39+00:00,9.16,126.03,96,4.0,008 km S 22° E of Lanuza (Surigao Del Sur),Ms,TECTONIC
+23,2016-11-28 11:47:26+00:00,4.8,126.02,153,2.4,093 km S 41° E of Sarangani (Davao Occidental),Ms,TECTONIC
+24,2016-11-28 11:37:09+00:00,10.29,126.4,32,2.1,047 km N 50° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+25,2016-11-28 11:20:32+00:00,10.07,125.99,4,2.3,013 km N 09° W of San Benito (Surigao Del Norte),Ms,TECTONIC
+26,2016-11-28 09:29:33+00:00,13.84,124.22,11,2.0,009 km S 67° W of Viga (Catanduanes),Ms,TECTONIC
+27,2016-11-28 08:23:50+00:00,6.16,126.56,12,2.9,077 km S 45° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+28,2016-11-28 03:10:58+00:00,12.2,125.66,3,2.6,016 km N 82° E of San Policarpo (Eastern Samar),Ms,TECTONIC
+29,2016-11-28 00:24:25+00:00,13.0,124.3,36,2.1,023 km N 47° E of Barcelona (Sorsogon),Ms,TECTONIC
+30,2016-11-27 21:55:18+00:00,11.81,124.17,8,2.7,015 km N 54° E of Esperanza (Masbate),Ms,TECTONIC
+31,2016-11-27 20:30:24+00:00,7.53,127.24,47,2.6,078 km N 73° E of Caraga (Davao Oriental),Ms,TECTONIC
+32,2016-11-27 16:55:58+00:00,6.65,126.28,55,2.3,023 km S 89° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+33,2016-11-27 16:03:19+00:00,9.33,126.21,33,2.4,006 km N 15° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+34,2016-11-27 11:00:24+00:00,9.6,126.57,19,4.1,050 km S 66° E of General Luna (Surigao del Norte),Ms,TECTONIC
+35,2016-11-27 08:44:34+00:00,9.61,126.8,18,3.2,073 km N 61° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+36,2016-11-27 08:36:51+00:00,9.55,126.48,21,3.1,044 km N 46° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+37,2016-11-27 08:17:14+00:00,10.46,125.05,17,2.5,039 km N 42° W of Maasin (Southern Leyte),Ms,TECTONIC
+38,2016-11-27 07:59:46+00:00,12.62,123.68,32,2.4,002 km S 05° E of Monreal (Masbate),Ms,TECTONIC
+39,2016-11-27 05:25:13+00:00,14.84,122.6,20,2.5,028 km N 62° E of Jomalig (Quezon),Ms,TECTONIC
+40,2016-11-27 04:50:25+00:00,14.23,120.45,119,2.3,023 km S 08° W of Mariveles (Bataan),Ms,TECTONIC
+41,2016-11-27 03:21:04+00:00,13.93,120.55,117,2.2,014 km N 42° W of Calatagan (Batangas),Ms,TECTONIC
+42,2016-11-27 03:17:13+00:00,9.72,126.21,20,3.0,009 km S 42° E of General Luna (Surigao del Norte),Ms,TECTONIC
+43,2016-11-26 21:16:14+00:00,13.57,120.6,111,2.3,020 km N 46° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+44,2016-11-26 20:34:30+00:00,9.71,123.59,33,2.0,008 km S 44° E of Dalaguete (Cebu),Ms,TECTONIC
+45,2016-11-26 19:56:09+00:00,6.3,126.3,27,2.8,046 km S 32° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+46,2016-11-26 19:06:47+00:00,7.72,124.62,1,2.5,017 km N 59° W of Wao (Lanao Del Sur),Ms,TECTONIC
+47,2016-11-26 18:44:25+00:00,7.67,124.63,1,3.1,014 km N 76° W of Wao (Lanao Del Sur),Ms,TECTONIC
+48,2016-11-26 17:43:45+00:00,17.75,120.6,23,3.2,008 km N 40° W of Danglas (Abra),Ms,TECTONIC
+49,2016-11-26 16:16:21+00:00,9.49,126.31,26,3.0,027 km N 28° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+50,2016-11-26 13:54:01+00:00,6.66,126.77,11,2.5,069 km S 63° E of Mati (Davao Oriental),Ms,TECTONIC
+51,2016-11-26 12:15:29+00:00,13.14,119.73,32,2.1,086 km S 69° W of Paluan (Occidental Mindoro),Ms,TECTONIC
+52,2016-11-26 12:13:07+00:00,6.62,126.53,41,2.0,051 km S 43° E of Mati (Davao Oriental),Ms,TECTONIC
+53,2016-11-26 11:56:13+00:00,6.88,126.03,32,2.0,022 km S 68° W of Mati (Davao Oriental),Ms,TECTONIC
+54,2016-11-26 07:55:53+00:00,6.61,126.65,33,2.9,064 km N 89° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+55,2016-11-26 04:54:34+00:00,7.34,126.97,20,4.1,045 km N 88° E of Caraga (Davao Oriental),Ms,TECTONIC
+56,2016-11-26 04:03:36+00:00,10.2,125.07,12,2.1,007 km N 50° W of Liloan (Southern Leyte),Ms,TECTONIC
+57,2016-11-25 21:26:37+00:00,7.29,125.99,24,2.5,018 km N 35° E of Pantukan (Compostella Valley),Ms,TECTONIC
+58,2016-11-25 19:57:06+00:00,10.18,125.15,25,2.4,009 km S 15° W of Cabalian (San Juan) (Southern Leyte),Ms,TECTONIC
+59,2016-11-25 18:42:26+00:00,14.29,119.41,25,2.4,090 km N 58° W of Lubang (Occidental Mindoro),Ms,TECTONIC
+60,2016-11-25 13:51:49+00:00,12.32,120.55,28,2.1,048 km S 72° W of Rizal (Occidental Mindoro),Ms,TECTONIC
+61,2016-11-25 12:01:56+00:00,7.11,126.59,12,3.3,013 km S 29° E of Manay (Davao Oriental),Ms,TECTONIC
+62,2016-11-25 11:32:44+00:00,13.81,120.5,62,2.3,015 km N 80° W of Calatagan (Batangas),Ms,TECTONIC
+63,2016-11-25 07:48:24+00:00,13.34,120.37,7,4.5,028 km N 63° W of Mamburao (Occidental Mindoro),Ms,TECTONIC
+64,2016-11-25 03:30:42+00:00,9.83,124.03,32,2.2,004 km S 42° E of Catigbian (Bohol),Ms,TECTONIC
+65,2016-11-25 01:54:49+00:00,6.46,127.08,132,3.1,095 km S 47° E of Tarragona (Davai Oriental),Ms,TECTONIC
+66,2016-11-25 00:30:48+00:00,6.33,126.43,28,2.5,053 km S 48° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+67,2016-11-24 18:07:26+00:00,8.96,122.38,32,2.2,057 km S 30° W of Basay (Negros Oriental),Ms,TECTONIC
+68,2016-11-24 15:29:46+00:00,5.02,127.7,93,3.5,250 km S 67° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+69,2016-11-24 15:23:44+00:00,4.71,124.06,66,2.2,115 km S 24° W of Kiamba (Sarangani),Ms,TECTONIC
+70,2016-11-24 15:06:31+00:00,8.45,126.43,32,2.6,014 km N 52° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+71,2016-11-24 11:56:27+00:00,7.12,126.48,22,2.1,009 km N 24° E of Tarragona (Davao Oriental),Ms,TECTONIC
+72,2016-11-24 10:44:01+00:00,13.71,120.98,16,1.7,006 km S 42° E of Mabini (Batangas),Ms,TECTONIC
+73,2016-11-24 10:31:48+00:00,8.26,124.47,22,2.1,014 km N 21° E of Tagoloan li (Lanao Del Sur),Ms,TECTONIC
+74,2016-11-24 08:09:14+00:00,10.02,124.26,2,2.6,009 km N 28° E of Danao (Bohol),Ms,TECTONIC
+75,2016-11-24 05:38:22+00:00,18.07,122.23,23,2.2,033 km S 49° E of Gonzaga (Cagayan),Ms,TECTONIC
+76,2016-11-24 01:34:47+00:00,5.79,126.73,68,2.7,119 km S 38° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+77,2016-11-24 01:04:21+00:00,15.51,121.65,1,2.8,027 km S 32° E of San Luis (Aurora),Ms,TECTONIC
+78,2016-11-24 00:49:48+00:00,8.58,125.45,56,2.8,024 km S 64° W of Esperanza (Agusan Del Sur),Ms,TECTONIC
+79,2016-11-23 23:24:40+00:00,7.1,126.11,8,3.7,018 km N 34° E of Banaybanay (Davao Oriental),Ms,TECTONIC
+80,2016-11-23 17:17:27+00:00,4.32,126.38,108,4.4,159 km S 39° E of Sarangani (Davao Occidental),Ms,TECTONIC
+81,2016-11-23 15:40:54+00:00,13.49,126.39,8,2.2,012 km N 46° W of Paluan (Occidental Mindoro),Ms,TECTONIC
+82,2016-11-23 15:21:03+00:00,5.91,126.75,42,3.0,111 km S 42° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+83,2016-11-23 15:17:03+00:00,13.44,120.11,33,2.1,034 km S 26° W of Looc (Occidental Mindoro),Ms,TECTONIC
+84,2016-11-23 14:17:33+00:00,13.73,120.56,101,2.3,014 km S 33° W of Calatagan (Batangas),Ms,TECTONIC
+85,2016-11-23 10:36:59+00:00,6.21,126.44,26,2.4,064 km S 40° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+86,2016-11-23 07:54:51+00:00,6.43,126.04,21,2.5,025 km S 09° W of Governor Generoso (Davao Oriental),Ms,TECTONIC
+87,2016-11-23 06:58:40+00:00,19.92,121.34,15,3.6,072 km N 11° W of Calayan (Cagayan),Ms,TECTONIC
+88,2016-11-23 06:57:58+00:00,9.69,126.55,14,2.7,044 km S 77° E of General Luna (Surigao del Norte),Ms,TECTONIC
+89,2016-11-23 05:43:51+00:00,9.97,126.65,3,2.8,058 km N 69° E of General Luna (Surigao del Norte),Ms,TECTONIC
+90,2016-11-23 04:35:54+00:00,5.94,126.53,24,2.9,093 km S 33° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+91,2016-11-22 23:36:45+00:00,10.15,125.14,2,3.3,003 km S 57° E of Liloan (Southern Leyte),Ms,TECTONIC
+92,2016-11-22 16:33:35+00:00,15.5,119.81,55,2.3,012 km N 56° W of Palauig (Zambales),Ms,TECTONIC
+93,2016-11-22 15:25:18+00:00,6.32,126.44,59,2.4,054 km S 48° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+94,2016-11-22 15:25:18+00:00,10.26,125.21,10,3.1,004 km S 82° E of Cabalian (Southern Leyte),Ms,TECTONIC
+95,2016-11-22 14:58:22+00:00,13.58,120.46,20,2.3,018 km N 02° W of Paluan (Occidental Mindoro),Ms,TECTONIC
+96,2016-11-22 14:13:07+00:00,9.23,125.59,7,2.6,006 km S 40° E of Santiago (Agusan del Norte),Ms,TECTONIC
+97,2016-11-22 13:21:45+00:00,13.31,124.17,21,2.5,032 km S 12° W of Virac (Catanduanes),Ms,TECTONIC
+98,2016-11-22 11:05:46+00:00,10.32,125.2,11,3.5,009 km N 22° E of Cabalian (San Juan) (Southern Leyte),Ms,TECTONIC
+99,2016-11-22 10:58:36+00:00,12.01,125.76,46,3.7,030 km S 85° E of Dolores (Eastern Samar),Ms,TECTONIC
+100,2016-11-22 08:44:18+00:00,16.69,120.04,23,2.6,030 km N 76° W of San Fernando (La Union),Ms,TECTONIC
+101,2016-11-22 05:45:57+00:00,10.13,125.11,21,2.6,003 km S 11° W of Liloan (Southern Leyte),Ms,TECTONIC
+102,2016-11-22 04:28:18+00:00,8.97,125.7,10,2.5,016 km N 03° W of Sibagat (Agusan Del Sur),Ms,TECTONIC
+103,2016-11-21 19:05:27+00:00,10.07,125.11,2,3.4,010 km S 03° W of Liloan (Southern Leyte),Ms,TECTONIC
+104,2016-11-21 17:55:30+00:00,6.54,126.64,24,2.1,066 km S 46° E of Mati (Davao Oriental),Ms,TECTONIC
+105,2016-11-21 17:27:31+00:00,9.9,126.08,16,2.4,016 km N 32° W of General Luna (Surigao Del Norte),Ms,TECTONIC
+106,2016-11-21 17:19:55+00:00,10.02,126.16,20,2.7,010 km S 88° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+107,2016-11-21 15:33:54+00:00,9.79,122.66,28,2.0,007 km S 68° E of Candoni (Negros Occidental),Ms,TECTONIC
+108,2016-11-21 14:39:42+00:00,17.31,120.24,32,2.4,022 km N 85° W of Santiago (Ilocos Sur),Ms,TECTONIC
+109,2016-11-21 13:51:02+00:00,10.25,125.24,33,1.5,017 km S 18° E of Hinunangan (Southern Leyte),Ms,TECTONIC
+110,2016-11-21 13:03:23+00:00,14.37,120.0,20,2.2,045 km S 40° W of Morong (Bataan),Ms,TECTONIC
+111,2016-11-21 10:02:46+00:00,9.39,125.66,24,2.6,012 km S 55° E of Kitcharo (Agusan Del Norte),Ms,TECTONIC
+112,2016-11-21 08:17:49+00:00,9.75,124.0,10,2.6,004 km S 86° E of Balilihan (Bohol),Ms,TECTONIC
+113,2016-11-21 08:11:46+00:00,10.32,125.13,1,4.9,011 km S 42° W of Hinunangan (Southern Leyte),Ms,TECTONIC
+114,2016-11-21 08:08:15+00:00,13.58,120.48,24,2.1,019 km N 05° E of Paluan (Occidental Mindoro),Ms,TECTONIC
+115,2016-11-21 07:50:30+00:00,10.33,125.27,6,2.1,004 km S 38° E of Hinundayan (Southern Leyte),Ms,TECTONIC
+116,2016-11-21 05:17:27+00:00,,126.02,129,2.6,038 km N 73° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+117,2016-11-21 00:41:09+00:00,6.09,125.98,116,3.0,034 km S 69° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+118,2016-11-20 17:33:28+00:00,10.0,126.29,15,2.8,024 km S 85° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+119,2016-11-20 16:29:57+00:00,9.59,123.6,21,2.1,014 km S 74° E of Boljoon (Cebu),Ms,TECTONIC
+120,2016-11-20 15:06:49+00:00,10.18,125.2,27,2.2,009 km N 72° E of Liloan (Southern Leyte),Ms,TECTONIC
+121,2016-11-20 14:56:18+00:00,13.56,124.82,4,2.0,064 km S 87° E of Virac (Catanduanes),Ms,TECTONIC
+122,2016-11-20 13:35:30+00:00,6.74,126.5,20,1.7,035 km S 10° E of Tarragona (Davao Oriental),Ms,TECTONIC
+123,2016-11-20 03:40:25+00:00,9.81,123.94,2,4.0,006 km N 52° E of Antequera (Bohol),Ms,TECTONIC
+124,2016-11-19 23:01:14+00:00,3.72,123.08,546,4.7,314 km S 40° W of Kalingalan Caluang (Sulu),Ms,TECTONIC
+125,2016-11-19 21:20:21+00:00,8.36,126.33,40,2.2,001 km S 25° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+126,2016-11-19 19:31:03+00:00,5.46,127.95,37,4.7,246 km S 58° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+127,2016-11-19 18:05:56+00:00,6.54,125.93,24,2.5,020 km S 52° W of Governor Generoso (Davao Oriental),Ms,TECTONIC
+128,2016-11-19 17:36:25+00:00,3.61,125.9,108,4.7,207 km S 13° E of Sarangani (Davao Occidental),Ms,TECTONIC
+129,2016-11-19 16:44:18+00:00,6.35,126.64,21,2.5,070 km S 62° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+130,2016-11-19 13:33:54+00:00,7.02,125.81,21,2.9,018 km S 33° W of Pantukan (Compostela Valley),Ms,TECTONIC
+131,2016-11-19 13:28:45+00:00,13.1,120.35,33,2.1,030 km S 62° W of Mamburao (Occidental Mindoro),Ms,TECTONIC
+132,2016-11-19 09:25:07+00:00,19.21,121.11,24,4.1,039 km S 77° W of Calayan (Cagayan),Ms,TECTONIC
+133,2016-11-19 08:22:25+00:00,9.86,122.46,15,1.7,013 km N 26° E of Sipalay (Negros Occidental),Ms,TECTONIC
+134,2016-11-19 04:45:53+00:00,10.41,124.71,3,2.5,004 km S 25° W of Hindang (Leyte),Ms,TECTONIC
+135,2016-11-19 04:05:52+00:00,8.41,125.73,28,2.0,007 km S 58° W of Talacogon (Agusan Del Sur),Ms,TECTONIC
+136,2016-11-18 21:20:34+00:00,10.42,124.78,5,2.2,006 km N 41° E of Hilongos (Leyte),Ms,TECTONIC
+137,2016-11-18 14:28:36+00:00,9.89,124.03,33,2.5,005 km N 45° E of Catigbian (Bohol),Ms,TECTONIC
+138,2016-11-18 09:29:04+00:00,6.66,126.13,31,2.7,006 km N 75° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+139,2016-11-18 09:19:47+00:00,13.59,120.57,165,2.4,024 km N 48° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+140,2016-11-18 04:59:07+00:00,14.14,120.4,70,1.6,025 km N 75° W of Nasugbu (Batangas),Ms,TECTONIC
+141,2016-11-18 04:02:48+00:00,9.81,124.67,22,2.6,013 km N 52° E of Anda (Bohol),Ms,TECTONIC
+142,2016-11-17 21:04:07+00:00,18.26,120.44,33,2.0,017 km N 64° W of Laoag City (Ilocos Norte),Ms,TECTONIC
+143,2016-11-17 16:55:04+00:00,9.75,123.87,8,2.3,003 km N 62° E of Maribojoc (Bohol),Ms,TECTONIC
+144,2016-11-17 16:30:37+00:00,9.77,123.86,2,3.2,004 km N 33° E of Maribojoc (Bohol),Ms,TECTONIC
+145,2016-11-17 15:44:06+00:00,12.66,124.52,22,2.1,015 km N 16° W of Bobon (Northern Samar),Ms,TECTONIC
+146,2016-11-17 15:06:19+00:00,8.66,126.24,32,2.5,009 km S 16° E of San Agustin (Surigao Del Sur),Ms,TECTONIC
+147,2016-11-17 14:40:14+00:00,8.94,126.35,9,3.1,005 km N 68° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+148,2016-11-17 10:19:21+00:00,13.97,120.93,4,2.2,003 km N 11° W of Agoncillo (Batangas),Ms,TECTONIC
+149,2016-11-17 05:15:25+00:00,7.43,126.22,27,2.6,039 km N 74° W of Caraga (Davao Oriental),Ms,TECTONIC
+150,2016-11-17 03:53:51+00:00,20.85,120.22,7,3.4,169 km N 88° W of Itbayat (Batanes),Ms,TECTONIC
+151,2016-11-17 00:58:08+00:00,8.92,126.6,42,4.8,033 km S 89° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+152,2016-11-17 00:58:08+00:00,10.14,124.73,35,2.2,011 km N 87° W of Maasin (Southern Leyte),Ms,TECTONIC
+153,2016-11-16 21:20:32+00:00,10.36,124.83,33,2.3,005 km N 46° E of Bato (Leyte),Ms,TECTONIC
+154,2016-11-16 20:08:43+00:00,5.63,126.62,55,2.6,115 km S 76° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+155,2016-11-16 20:07:45+00:00,11.4,124.45,10,2.4,008 km S 18° W of Biliran (Biliran),Ms,TECTONIC
+156,2016-11-16 18:34:10+00:00,8.13,126.13,40,3.0,008 km N 16° E of San Isidro (Surigao Del Sur),Ms,TECTONIC
+157,2016-11-16 18:09:41+00:00,9.19,125.72,21,3.5,020 km N 70° E of Cabadbaran (Agusan Del Norte),Ms,TECTONIC
+158,2016-11-16 18:02:05+00:00,10.05,124.23,5,2.0,012 km N 05° E of Danao (Bohol),Ms,TECTONIC
+159,2016-11-16 16:28:39+00:00,13.57,120.66,106,2.3,016 km N 30° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+160,2016-11-16 14:28:16+00:00,19.06,121.28,2,2.4,031 km S 38° W of Calayan (Cagayan),Ms,TECTONIC
+161,2016-11-16 11:42:42+00:00,7.0,126.16,24,3.5,008 km N 52° W of Mati (Davao Oriental),Ms,TECTONIC
+162,2016-11-16 09:27:16+00:00,13.3,124.62,33,2.4,048 km S 34° E of Baras (Catanduanes),Ms,TECTONIC
+163,2016-11-16 08:42:11+00:00,13.72,120.51,71,2.7,018 km S 48° W of Calatagan (Batangas),Ms,TECTONIC
+164,2016-11-16 08:36:19+00:00,13.72,120.55,65,2.5,016 km S 36° W of Calatagan (Batangas),Ms,TECTONIC
+165,2016-11-16 05:55:32+00:00,8.94,126.31,45,3.3,003 km N 16° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+166,2016-11-15 23:18:37+00:00,13.89,120.53,10,2.2,013 km N 62° W of Calatagan (Batangas),Ms,TECTONIC
+167,2016-11-15 20:01:53+00:00,13.21,122.81,2,2.3,019 km S 49° E of San Andres (Quezon),Ms,TECTONIC
+168,2016-11-15 19:58:05+00:00,9.85,122.36,50,2.2,012 km N 28° W of Sipalay (Negros Occidental),Ms,TECTONIC
+169,2016-11-15 19:54:07+00:00,6.4,126.68,87,2.3,073 km S 67° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+170,2016-11-15 19:42:53+00:00,9.04,126.34,26,2.4,014 km N 16° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+171,2016-11-15 19:38:29+00:00,14.25,120.46,119,2.3,021 km S 06° W of Mariveles (Bataan),Ms,TECTONIC
+172,2016-11-15 19:37:10+00:00,12.99,124.45,33,2.1,029 km S 76° E of Prieto Diaz (Sorsogon),Ms,TECTONIC
+173,2016-11-15 19:15:10+00:00,8.85,126.7,97,2.3,003 km N 11° W of Sibagat (Agusan Del Sur),Ms,TECTONIC
+174,2016-11-15 19:03:59+00:00,10.33,122.37,1,2.1,029 km S 40° W of Nueva Valencia (Guimaras),Ms,TECTONIC
+175,2016-11-15 18:55:24+00:00,15.61,119.77,42,2.3,017 km S 83° W of Candelaria (Zambales),Ms,TECTONIC
+176,2016-11-15 18:26:12+00:00,8.38,127.49,8,3.0,125 km N 72° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+177,2016-11-15 15:13:34+00:00,10.26,122.18,3,2.2,034 km S 55° E of Anini-y (Antique),Ms,TECTONIC
+178,2016-11-15 14:48:07+00:00,13.69,125.4,50,2.7,110 km S 85° E of Gigmoto (Catanduanes),Ms,TECTONIC
+179,2016-11-15 14:46:18+00:00,15.59,120.0,24,2.1,008 km S 61° E of Candelaria (Zambales),Ms,TECTONIC
+180,2016-11-15 08:04:27+00:00,10.16,125.16,23,2.5,005 km N 87° E of Liloan (Southern Leyte),Ms,TECTONIC
+181,2016-11-15 07:57:34+00:00,10.13,125.11,32,2.4,003 km S 08° W of Liloan (Southern Leyte),Ms,TECTONIC
+182,2016-11-15 07:14:02+00:00,11.61,125.75,12,2.0,032 km N 03° E of Hernani (Eastern Samar),Ms,TECTONIC
+183,2016-11-15 03:12:28+00:00,6.96,125.89,23,2.9,013 km S 87° W of Banaybanay (Davao Oriental),Ms,TECTONIC
+184,2016-11-15 00:44:05+00:00,8.31,126.74,13,3.0,048 km N 77° E of Bislig City (Surigao Del Sur),Ms,TECTONIC
+185,2016-11-14 18:37:03+00:00,6.02,126.57,1,2.8,089 km S 38° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+186,2016-11-14 18:25:45+00:00,6.69,126.13,17,2.1,007 km N 55° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+187,2016-11-14 17:07:34+00:00,13.28,124.65,19,2.5,052 km S 36° E of Baras (Catanduanes),Ms,TECTONIC
+188,2016-11-14 14:18:44+00:00,16.48,120.78,35,1.5,008 km N 73° E of Bokod (Benguet),Ms,TECTONIC
+189,2016-11-14 13:49:07+00:00,10.2,125.11,27,2.0,005 km N 11° W of Liloan (Southern Leyte),Ms,TECTONIC
+190,2016-11-14 13:27:47+00:00,8.67,126.47,49,2.3,024 km S 54° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+191,2016-11-14 10:32:51+00:00,19.0,121.19,13,2.5,042 km S 42° W of Calayan (Cagayan),Ms,TECTONIC
+192,2016-11-14 10:29:33+00:00,7.24,125.62,10,2.3,008 km S 50° W of Panabo City (Davao Del Norte),Ms,TECTONIC
+193,2016-11-14 09:05:15+00:00,5.96,126.51,65,3.1,090 km S 32° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+194,2016-11-14 08:25:58+00:00,12.49,124.93,25,2.7,008 km S 07° E of Pambujan (Northern Samar),Ms,TECTONIC
+195,2016-11-14 04:38:34+00:00,11.52,125.74,2,2.1,025 km N 77° E of Balangkayan (Eastern Samar),Ms,TECTONIC
+196,2016-11-14 04:37:30+00:00,11.671,126.0,5,2.4,059 km N 44° E of Hernani (Eastern Samar),Ms,TECTONIC
+197,2016-11-14 04:31:54+00:00,11.62,125.58,15,2.9,016 km N 33° E of Maydolong (Eastern Samar),Ms,TECTONIC
+198,2016-11-14 01:22:45+00:00,11.6,125.75,17,4.0,034 km N 24° E of Hernani (Eastern Samar),Ms,TECTONIC
+199,2016-11-14 00:59:24+00:00,13.93,120.52,3,2.1,020 km S 34° W of Nasugbu (Batangas),Ms,TECTONIC
+200,2016-11-13 23:56:41+00:00,13.78,120.46,104,4.5,020 km S 72° W of Calatagan (Batangas),Ms,TECTONIC
+201,2016-11-13 23:47:49+00:00,16.89,121.61,10,4.2,010 km S 38° W of Cabatuan (Isabela),Ms,TECTONIC
+202,2016-11-13 22:33:14+00:00,7.31,126.82,18,3.9,031 km S 59° E of Baculin (Davao Oriental),Ms,TECTONIC
+203,2016-11-13 22:06:06+00:00,14.17,125.19,39,3.3,096 km N 64° E of Gigmoto (Catanduanes),Ms,TECTONIC
+204,2016-11-13 19:10:49+00:00,9.71,126.44,20,3.3,033 km S 75° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+205,2016-11-13 18:27:09+00:00,6.99,125.83,10,2.4,025 km S 72° E of Davao City (Davao Del Sur),Ms,TECTONIC
+206,2016-11-13 18:13:07+00:00,10.89,125.5,16,2.2,026 km S 11° E of Giporlos (Eastern Samar),Ms,TECTONIC
+207,2016-11-13 17:30:03+00:00,15.28,120.12,55,2.5,015 km N 28° E of Cabangan (Zambales),Ms,TECTONIC
+208,2016-11-13 15:09:37+00:00,9.65,126.17,28,2.6,015 km S 07° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+209,2016-11-13 06:36:34+00:00,9.68,126.26,14,2.8,016 km S 46° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+210,2016-11-13 04:35:59+00:00,7.04,126.57,137,2.0,014 km S 89° E of Tarragona (Davao Oriental),Ms,TECTONIC
+211,2016-11-12 21:33:40+00:00,10.16,125.07,36,2.1,005 km S 88° W of Liloan (Southern Leyte),Ms,TECTONIC
+212,2016-11-12 18:54:47+00:00,6.69,126.7,111,2.8,061 km S 61° E of Mati (Davao Oriental),Ms,TECTONIC
+213,2016-11-12 18:26:20+00:00,13.89,120.44,78,2.5,022 km N 74° W of Calatagan (Batangas),Ms,TECTONIC
+214,2016-11-12 17:16:54+00:00,10.2,124.96,26,2.0,018 km N 77° W of Liloan (Southern Leyte),Ms,TECTONIC
+215,2016-11-12 16:19:38+00:00,12.95,124.71,1,2.5,048 km N 28° W of Pambujan (Northern Samar),Ms,TECTONIC
+216,2016-11-12 13:58:03+00:00,8.68,123.96,34,2.0,025 km N 57° E of Lopez Jaena (Misamis Occidental),Ms,TECTONIC
+217,2016-11-12 08:26:59+00:00,6.65,126.56,40,2.7,051 km S 48° E of Mati (Davao Oriental),Ms,TECTONIC
+218,2016-11-12 07:28:09+00:00,8.85,126.43,5,3.6,016 km S 60° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+219,2016-11-12 05:37:12+00:00,11.22,124.48,7,2.7,019 km S 64° W of Capoocan (Leyte),Ms,TECTONIC
+220,2016-11-12 04:05:18+00:00,6.83,125.84,20,1.9,020 km S 67° W of Lupon (Davao Oriental),Ms,TECTONIC
+221,2016-11-12 02:45:07+00:00,13.22,122.65,29,2.3,013 km S 14° W of San Andres (Quezon),Ms,TECTONIC
+222,2016-11-12 01:32:18+00:00,6.15,125.16,24,2.5,004 km N 13° W of General Santos City (South Cotabato),Ms,TECTONIC
+223,2016-11-12 01:25:50+00:00,14.85,121.74,32,2.3,011 km S 33° W of Panukalan (Quezon),Ms,TECTONIC
+224,2016-11-12 01:18:40+00:00,10.13,125.09,29,2.8,004 km S 46° W of Liloan (Southern Leyte),Ms,TECTONIC
+225,2016-11-11 22:34:28+00:00,13.04,120.85,3,2.4,014 km S 78° E of Santa Cruz (Occidental Mindoro),Ms,TECTONIC
+226,2016-11-11 18:21:52+00:00,17.82,120.46,24,2.5,006 km S 04° E of Sinait (Ilocos Sur),Ms,TECTONIC
+227,2016-11-11 17:35:06+00:00,6.81,125.74,11,1.8,031km S 05° E of Samal (Island Garden City of Samal) (Davao Del Norte),Ms,TECTONIC
+228,2016-11-11 15:10:00+00:00,13.02,120.6,33,2.9,015km S 67° W of Santa Cruz (Occidental Mindoro),Ms,TECTONIC
+229,2016-11-11 13:43:53+00:00,5.65,126.05,76,3.0,055km S 62° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+230,2016-11-11 13:42:40+00:00,18.75,120.96,23,3.0,020km N 41° W of Claveria (Cagayan),Ms,TECTONIC
+231,2016-11-11 13:37:30+00:00,3.11,126.43,20,3.5,278km S 22° E of Sarangani (Davao Occidental),Ms,TECTONIC
+232,2016-11-10 20:07:46+00:00,20.92,121.54,13,2.8,035km N 66° W of Itbayat (Batanes),Ms,TECTONIC
+233,2016-11-10 18:46:22+00:00,8.9,123.62,11,2.4,025km S 02° W of Lazi (Siquijor),Ms,TECTONIC
+234,2016-11-10 18:01:37+00:00,14.11,120.4,124,2.2,022km N 81° W of Nasugbu (Batangas),Ms,TECTONIC
+235,2016-11-10 17:37:19+00:00,6.6,126.43,42,3.1,040km S 82° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+236,2016-11-10 17:14:37+00:00,8.25,123.43,17,2.3,012km N 73° W of Josefina (Zamboanga Del Sur),Ms,TECTONIC
+237,2016-11-10 16:08:38+00:00,10.0,125.09,29,2.3,018km S 08° W of Liloan (Southern Leyte),Ms,TECTONIC
+238,2016-11-10 15:03:17+00:00,10.12,122.76,10,2.1,010km N 04° W of Ilog (Negros Occidental),Ms,TECTONIC
+239,2016-11-10 10:22:18+00:00,12.57,125.41,5,2.5,020km N 59° E of Mapanas (Northern Samar),Ms,TECTONIC
+240,2016-11-10 07:18:27+00:00,14.84,121.47,20,2.1,019km N 62° W of General Nakar (Quezon),Ms,TECTONIC
+241,2016-11-10 07:15:11+00:00,14.85,121.41,18,2.6,025km N 66° W of General Nakar (Quezon),Ms,TECTONIC
+242,2016-11-10 07:10:59+00:00,14.83,121.4,11,5.0,025km N 71° W of General Nakar (Quezon),Ms,TECTONIC
+243,2016-11-10 03:48:33+00:00,13.64,120.51,49,2.0,025km N 09° E of Paluan (Occidental Mindoro),Ms,TECTONIC
+244,2016-11-10 02:26:00+00:00,6.69,126.89,75,2.3,063km S 51° E of Tarragona (Davao Oriental),Ms,TECTONIC
+245,2016-11-09 19:53:28+00:00,10.24,125.09,32,2.0,007km N 83° E of Padre Burgos (Southern Leyte),Ms,TECTONIC
+246,2016-11-09 17:33:21+00:00,6.18,126.32,3,2.9,058km S 28° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+247,2016-11-09 16:41:52+00:00,12.67,123.17,30,2.8,027km S 44° W of Claveria (Masbate),Ms,TECTONIC
+248,2016-11-09 15:42:18+00:00,13.6,120.51,16,2.4,031km S 64° E of Looc (Occidental Mindoro),Ms,TECTONIC
+249,2016-11-09 13:11:19+00:00,6.41,126.08,1,2.8,043km S 24° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+250,2016-11-09 12:41:11+00:00,6.33,126.15,1,2.8,036km S 14° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+251,2016-11-09 11:58:28+00:00,12.5,125.18,33,2.3,008km N 73° W of Mapanas (Northern Samar),Ms,TECTONIC
+252,2016-11-09 09:27:33+00:00,8.76,125.97,10,3.2,021km N 16° E of Prosperidad (Agusan del Sur),Ms,TECTONIC
+253,2016-11-08 23:40:06+00:00,8.88,125.75,13,2.6,007km N 32° E of Sibagat (Agusan del Sur),Ms,TECTONIC
+254,2016-11-08 19:29:37+00:00,13.79,120.88,34,2.1,007km N 59° W of Mabini (Batangas),Ms,TECTONIC
+255,2016-11-08 18:00:59+00:00,5.78,126.88,18,3.2,131km S 43° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+256,2016-11-08 16:43:58+00:00,5.79,126.27,118,2.3,074km S 82° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+257,2016-11-08 16:26:38+00:00,6.08,126.01,144,2.7,038km S 70° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+258,2016-11-08 09:57:38+00:00,16.65,119.6,33,2.4,042km N 47° W of Bolinao (Pangasinan),Ms,TECTONIC
+259,2016-11-08 09:40:20+00:00,13.57,120.56,87,2.4,020km N 30° E of Paluan (Occidental Mindoro),Ms,TECTONIC
+260,2016-11-08 08:03:12+00:00,11.14,124.73,1,2.6,008km S 48° W of Jaro (Leyte),Ms,TECTONIC
+261,2016-11-07 22:47:48+00:00,15.36,122.72,33,2.1,080km N 28° E of Jomalig (Quezon),Ms,TECTONIC
+262,2016-11-07 21:09:42+00:00,14.22,120.44,122,2.1,025km N 53° W of Nasugbu (Batangas),Ms,TECTONIC
+263,2016-11-07 20:47:36+00:00,15.28,122.56,9,3.7,065km N 18° E of Jomalig (Quezon),Ms,TECTONIC
+264,2016-11-07 17:35:08+00:00,6.89,125.9,21,2.8,012km S 85° W of Lupon (Davao Oriental),Ms,TECTONIC
+265,2016-11-07 17:01:50+00:00,13.94,120.55,115,3.1,015km N 39° W of Calatagan (Batangas),Ms,TECTONIC
+266,2016-11-07 15:31:49+00:00,11.63,124.38,20,3.0,001km N 33° E of Almeria (Biliran),Ms,TECTONIC
+267,2016-11-07 12:33:45+00:00,15.28,122.57,22,2.6,066km N 19° E of Jomalig (Quezon),Ms,TECTONIC
+268,2016-11-07 12:29:54+00:00,9.35,124.26,508,2.6,030km S 08° W of Garcia Hernandez (Bohol),Ms,TECTONIC
+269,2016-11-07 10:18:51+00:00,13.29,124.69,15,2.8,054km S 40° E of Baras (Catanduanes),Ms,TECTONIC
+270,2016-11-07 09:11:39+00:00,9.59,126.25,61,2.7,024km S 25° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+271,2016-11-07 08:47:05+00:00,14.64,119.98,27,2.3,032km S 81° W of Morong (Bataan),Ms,TECTONIC
+272,2016-11-07 07:29:49+00:00,4.32,126.02,147,3.4,137km S 26° E of Sarangani (Davao Occidental),Ms,TECTONIC
+273,2016-11-07 04:37:46+00:00,15.27,122.61,32,2.0,067km N 23° E of Jomalig (Quezon),Ms,TECTONIC
+274,2016-11-07 04:37:45+00:00,15.3,122.67,28,3.0,073km N 26° E of Jomalig (Quezon),Ms,TECTONIC
+275,2016-11-06 20:20:53+00:00,14.58,120.07,20,2.3,024km S 63° W of Morong (Bataan),Ms,TECTONIC
+276,2016-11-06 19:56:56+00:00,7.07,123.74,25,2.3,047km N 83° W of Upi (Maguindanao),Ms,TECTONIC
+277,2016-11-06 18:40:57+00:00,8.49,125.74,46,2.5,001km N 59° W of San Luis (Agusan Del Sur),Ms,TECTONIC
+278,2016-11-06 16:03:15+00:00,11.06,126.78,19,3.1,115km N 89° E of Guiuan (Eastern Samar),Ms,TECTONIC
+279,2016-11-06 14:15:31+00:00,9.26,122.43,21,2.1,028km S 54° W of Basay (Negros Oriental),Ms,TECTONIC
+280,2016-11-06 11:22:02+00:00,6.28,127.06,66,2.7,109km S 39° E of Tarragona (Davao Oriental),Ms,TECTONIC
+281,2016-11-06 06:33:50+00:00,12.03,120.59,13,2.3,063km S 55° W of San Jose (Occidental Mindoro),Ms,TECTONIC
+282,2016-11-06 04:45:24+00:00,9.91,126.79,5,3.0,071km S 79° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+283,2016-11-05 23:35:23+00:00,12.28,121.87,5,2.0,011km S 47° W of Looc (Romblon),Ms,TECTONIC
+284,2016-11-05 21:05:57+00:00,17.17,120.0,15,2.7,048km S 87° W of Candon City (Ilocos Sur),Ms,TECTONIC
+285,2016-11-05 20:57:22+00:00,10.43,125.22,11,2.5,004km N 39° W of Hinunangan (Southern Leyte),Ms,TECTONIC
+286,2016-11-05 20:08:04+00:00,10.06,124.2,18,2.4,009km S 79 E of Buenavista (Bohol),Ms,TECTONIC
+287,2016-11-05 16:07:20+00:00,12.36,123.61,17,2.2,002km S 47° W of Masbate (Masbate),Ms,TECTONIC
+288,2016-11-05 14:31:37+00:00,6.26,127.04,50,4.1,108km S 37° E of Tarragona (Davao Oriental),Ms,TECTONIC
+289,2016-11-05 14:15:38+00:00,14.96,119.99,28,2.2,011km N 85° W of San Antonio (Zambales),Ms,TECTONIC
+290,2016-11-05 13:51:09+00:00,15.21,122.45,10,2.1,055km N 08° E of Jomalig (Quezon),Ms,TECTONIC
+291,2016-11-05 13:20:38+00:00,7.44,125.43,5,2.1,022km N 88° W of Santo Tomas (Davao del Norte),Ms,TECTONIC
+292,2016-11-05 12:54:31+00:00,8.27,126.39,52,2.9,010km N 54° E of Bislig City (Surigao del Sur),Ms,TECTONIC
+293,2016-11-05 07:07:36+00:00,14.18,120.41,111,2.0,026km N 64° W of Nasugbu (Batangas),Ms,TECTONIC
+294,2016-11-05 06:27:09+00:00,11.15,125.21,181,1.7,011km N 86° W of Lawaan (Eastern Samar),Ms,TECTONIC
+295,2016-11-05 05:40:53+00:00,9.75,126.71,11,4.6,061km S 86° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+296,2016-11-05 05:32:07+00:00,9.9,126.82,8,2.8,074km N 80° E of Generel Luna (Surigao Del Norte),Ms,TECTONIC
+297,2016-11-05 04:36:18+00:00,9.76,126.2,25,2.6,005km S 68° E of General Luna (Surigao del Norte),Ms,TECTONIC
+298,2016-11-05 00:45:23+00:00,10.05,126.42,12,3.0,038km N 85° E of Burgos (Surigao del Norte),Ms,TECTONIC
+299,2016-11-05 00:36:43+00:00,10.04,126.34,14,2.9,030km N 85° E of Burgos (Surigao del Norte),Ms,TECTONIC
+300,2016-11-05 00:08:28+00:00,10.16,126.32,4,3.1,031km N 61° E of Burgos (Surigao del Norte),Ms,TECTONIC
+301,2016-11-04 21:37:29+00:00,9.59,122.22,20,2.1,031km N 83° W of Hinoba-an (Negros Occidental),Ms,TECTONIC
+302,2016-11-04 19:44:36+00:00,10.07,126.35,13,4.2,031km N 79° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+303,2016-11-04 18:24:02+00:00,10.07,126.44,12,3.5,041km N 82° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+304,2016-11-04 16:50:19+00:00,9.15,125.62,8,2.3,011km N 20° E of Remedios Romualdez (Agusan Del Norte),Ms,TECTONIC
+305,2016-11-04 16:04:00+00:00,7.0,125.32,4,2.8,025km S 88° E of Kidapawan (North Cotabato),Ms,TECTONIC
+306,2016-11-04 15:27:56+00:00,8.03,123.149,32,2.0,010km N 63° W of Midsalip (Zamboanga del Sur),Ms,TECTONIC
+307,2016-11-04 12:35:13+00:00,8.07,126.82,8,2.9,051km N 53° E of Cateel (Davao Oriental),Ms,TECTONIC
+308,2016-11-04 11:30:59+00:00,15.15,119.95,51,2.5,020km S 07° W of Iba (Zambales),Ms,TECTONIC
+309,2016-11-04 11:14:46+00:00,6.85,126.03,30,2.8,020km S 45° W of Mati (Davao Oriental),Ms,TECTONIC
+310,2016-11-04 09:35:11+00:00,9.08,126.45,33,2.7,022km N 55° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+311,2016-11-04 09:22:28+00:00,6.73,125.99,21,2.3,013km N 50° W of Governor Generoso (Davao Oriental),Ms,TECTONIC
+312,2016-11-04 07:09:51+00:00,13.62,120.95,2,2.1,010km S 62° E of Tingloy (Batangas),Ms,TECTONIC
+313,2016-11-04 06:39:37+00:00,6.32,125.83,148,2.0,021km N 47° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+314,2016-11-04 06:17:38+00:00,13.44,121.39,1,3.1,015km N 35° E of Naujan (Antique),Ms,TECTONIC
+315,2016-11-03 21:13:38+00:00,10.2,122.2,33,2.3,040km S 49° E of Anini-y (Antique),Ms,TECTONIC
+316,2016-11-03 19:50:32+00:00,7.51,127.07,22,2.8,055km N 84° E of Baculin (Davao Oriental),Ms,TECTONIC
+317,2016-11-03 18:35:50+00:00,14.0,120.67,146,2.4,005km S 20° E of Lian (Batangas),Ms,TECTONIC
+318,2016-11-03 18:16:46+00:00,6.93,126.65,23,2.5,027km S 60° E of Don Tarragona (Davao Oriental),Ms,TECTONIC
+319,2016-11-03 15:21:07+00:00,5.88,126.17,10,5.3,063km S 56° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+320,2016-11-03 13:56:42+00:00,14.35,120.41,108,2.0,013km S 40° W of Mariveles (Bataan),Ms,TECTONIC
+321,2016-11-03 08:57:16+00:00,14.42,124.84,15,2.5,80km N 49° E of Bagamanoc (Catanduanes),Ms,TECTONIC
+322,2016-11-03 04:30:49+00:00,14.88,119.13,48,2.4,103km S 54° W of Palauig (Zambales),Ms,TECTONIC
+323,2016-11-02 22:31:47+00:00,9.08,125.42,27,3.2,011km N 05° E of Buenavista (Agusan Del Norte),Ms,TECTONIC
+324,2016-11-02 18:56:39+00:00,9.82,125.76,117,3.0,015km S 40° E of Cagdiano (Dinagat),Ms,TECTONIC
+325,2016-11-02 18:44:33+00:00,12.26,121.87,1,2.8,012km S 38° W of Looc (Romblon),Ms,TECTONIC
+326,2016-11-02 18:39:11+00:00,14.06,120.42,93,2.8,023km S 83° W of Nasugbu (Batangas),Ms,TECTONIC
+327,2016-11-02 09:08:49+00:00,12.43,120.75,11,2.0,025km S 83° W of Rizal (Occidental Mindoro),Ms,TECTONIC
+328,2016-11-02 07:52:12+00:00,9.62,125.98,28,3.6,002km S 77° E of Socorro (Surigao Del Norte),Ms,TECTONIC
+329,2016-11-02 06:14:25+00:00,7.22,126.43,28,2.4,012km N 85° W of Manay (Davao Oriental),Ms,TECTONIC
+330,2016-11-02 04:32:24+00:00,20.01,121.95,28,2.6,037km S 12° W of Sabtang (Batanes),Ms,TECTONIC
+331,2016-11-02 01:19:02+00:00,13.7,120.65,126,2.8,014km S 05° E of Calatagan (Batangas),Ms,TECTONIC
+332,2016-11-01 23:08:29+00:00,9.79,123.4,23,2.7,010km N 47° E of Alegria (Cebu),Ms,TECTONIC
+333,2016-11-01 18:00:30+00:00,13.62,123.93,28,2.3,015km S 04° W of Caramoan (Camarines Sur),Ms,TECTONIC
+334,2016-11-01 17:02:45+00:00,15.38,119.03,30,2.6,094km S 86° W of Palauig (Zambales),Ms,TECTONIC
+335,2016-11-01 14:46:21+00:00,12.38,124.89,21,2.1,009km N 26° E of Silvino Lobos (Northern Samar),Ms,TECTONIC
+336,2016-11-01 13:47:35+00:00,6.6,126.62,33,2.6,060km S 49° E of Mati (Davao Oriental),Ms,TECTONIC
+337,2016-11-01 13:38:10+00:00,6.28,126.38,18,2.8,053km S 39° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+338,2016-11-01 12:45:31+00:00,13.58,120.31,2,2.2,017km S 24° E of Looc (Occidental Mindoro),Ms,TECTONIC
+339,2016-11-01 11:19:16+00:00,6.88,126.24,33,2.3,009km S 20° E of Mati (Davao Oriental),Ms,TECTONIC
+340,2016-11-01 04:47:39+00:00,15.94,120.01,28,2.3,022km N 30° E of Santa Cruz (Zambales),Ms,TECTONIC
+341,2016-11-01 03:32:05+00:00,6.68,126.53,29,2.7,046km S 49° E of Mati (Davao Oriental),Ms,TECTONIC
+342,2016-11-01 00:22:28+00:00,7.99,125.79,52,2.5,018km S 70° E of Trento (Agusan Del Sur),Ms,TECTONIC
+343,2016-11-01 00:22:17+00:00,13.55,120.89,1,2.4,009km N 54° W of Puerto Galera (Oriental Mindoro),Ms,TECTONIC
+344,2016-10-31 23:36:42+00:00,5.78,126.5,15,3.5,107km S 26° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+345,2016-10-31 20:14:37+00:00,15.45,118.96,23,3.2,101km N 89° W of Palauig (Zambales),Ms,TECTONIC
+346,2016-10-31 18:02:48+00:00,9.81,123.92,8,3.1,004km N 31° E of Antequera (Bohol),Ms,TECTONIC
+347,2016-10-31 17:52:41+00:00,14.0,120.47,115,2.8,019km S 64° W of Nasugbu (Batangas),Ms,TECTONIC
+348,2016-10-31 16:26:17+00:00,6.19,126.93,71,3.5,107km S 62° E of Governor Generoso (Davao Oriental),Ms,TECTONIC

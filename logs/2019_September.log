@@ -1,12 +1,12 @@
-WARNING (2023-08-01 03:42:47,195): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/September/2019_0920_1157_B2.html
-WARNING (2023-08-01 03:43:23,159): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/September/2019_0920_1124_B2.html
-WARNING (2023-08-01 03:44:05,347): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/September/2019_0920_1030_B2.html
-WARNING (2023-08-01 03:44:54,168): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/September/2019_0920_0714_B2.html
-WARNING (2023-08-01 03:47:56,165): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/September/2019_0831_2348_B2.html
-WARNING (2023-08-01 03:48:32,175): 
-Max retries exceeded with url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/September/2019_0831_2105_B2.html
+CRITICAL (2023-08-08 01:11:52,132): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/September/2019_0920_1157_B2.html
+CRITICAL (2023-08-08 01:11:52,303): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/September/2019_0920_1124_B2.html
+CRITICAL (2023-08-08 01:11:52,461): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/September/2019_0920_1030_B2.html
+CRITICAL (2023-08-08 01:11:52,623): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/September/2019_0920_0714_B2.html
+CRITICAL (2023-08-08 01:21:18,632): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/September/2019_0831_2348_B2.html
+CRITICAL (2023-08-08 01:21:18,963): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2019_Earthquake_Information/September/2019_0831_2105_B2.html

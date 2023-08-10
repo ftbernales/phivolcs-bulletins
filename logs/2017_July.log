@@ -1,0 +1,12 @@
+WARNING (2023-08-10 01:08:18,560): 
+Cannot output event info from file:///Z:/2017_Earthquake_Information/July/2017_0721_0927_B2.html
+CRITICAL (2023-08-10 01:12:31,879): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2017_Earthquake_Information/July/2017_0710_1655_B2.html
+CRITICAL (2023-08-10 01:12:32,408): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2017_Earthquake_Information/July/2017_0710_1637_B2F.html
+CRITICAL (2023-08-10 01:12:44,724): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2017_Earthquake_Information/July/2017_0710_1241_B2.html
+CRITICAL (2023-08-10 01:12:50,471): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2017_Earthquake_Information/July/2017_0710_1237_B2.html
+CRITICAL (2023-08-10 01:13:41,211): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2017_Earthquake_Information/July/2017_0708_1251_B2.html

@@ -1,0 +1,9 @@
+CRITICAL (2023-08-07 17:23:54,466): 
+404 Client Error: Not Found for url: https://tsunami.phivolcs.dost.gov.ph/2016_Earthquake_Bulletins/December/2016_1229_2359_B2.html
+CRITICAL (2023-08-07 17:24:18,959): 
+404 Client Error: Not Found for url: https://tsunami.phivolcs.dost.gov.ph/2016_Earthquake_Bulletins/December/2016_1229_2023_B2.html
+CRITICAL (2023-08-07 17:24:49,243): 
+404 Client Error: Not Found for url: https://tsunami.phivolcs.dost.gov.ph/2016_Earthquake_Bulletins/December/2016_1229_1333_B2.html
+CRITICAL (2023-08-07 17:29:30,965): 
+404 Client Error: Not Found for url: https://tsunami.phivolcs.dost.gov.ph/2016_Earthquake_Bulletins/December/2016_1222_0318_B2.html
+WARNING (2023-08-07 17:30:07,038): Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002A60E501330>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /2016_Earthquake_Bulletins/December/2016_1217_0842_B2.html

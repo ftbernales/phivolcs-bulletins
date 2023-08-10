@@ -1,0 +1,4 @@
+CRITICAL (2023-08-07 14:32:07,760): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2017/2017_Earthquake_Information/November/2017_1107_1549_B2..html
+WARNING (2023-08-07 14:35:17,068): 
+Cannot output event info from https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2017/2017_Earthquake_Information/October/2017_1031_1952_B2.jpg

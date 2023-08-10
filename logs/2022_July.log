@@ -1,0 +1,21 @@
+CRITICAL (2023-08-10 13:42:42,540): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2022_Earthquake_Information/July/2022_0729_1825_B2.html
+CRITICAL (2023-08-10 13:42:42,634): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2022_Earthquake_Information/July/2022_0729_1824_B2.html
+CRITICAL (2023-08-10 13:42:42,852): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2022_Earthquake_Information/July/2022_0729_1812_B2.html
+CRITICAL (2023-08-10 13:43:01,713): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2022_Earthquake_Information/July/2022_0729_0206_B1.html
+CRITICAL (2023-08-10 13:43:10,849): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2022_Earthquake_Information/July/2022_0728_1652_B1F.html
+CRITICAL (2023-08-10 13:43:15,145): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2022_Earthquake_Information/July/2022_0728_1557_B2F.html
+CRITICAL (2023-08-10 13:43:26,461): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2022_Earthquake_Information/July/2022_0728_0649_B1.html
+CRITICAL (2023-08-10 13:44:37,016): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2022_Earthquake_Information/July/2022_0719_2105_B2.html
+WARNING (2023-08-10 13:45:01,762): Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /2022_Earthquake_Information/July/2022_0715_2117_B2.html
+CRITICAL (2023-08-10 13:45:11,357): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2022_Earthquake_Information/July/2022_0715_0209_B02.html
+CRITICAL (2023-08-10 13:45:18,424): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2022_Earthquake_Information/July/2022_0712_2212_B2_%20Cebu.html

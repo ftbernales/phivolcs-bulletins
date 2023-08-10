@@ -1,0 +1,121 @@
+CRITICAL (2023-08-07 13:24:30,949): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0329_2358_B3.html
+CRITICAL (2023-08-07 13:25:14,799): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0329_0310_B2.html
+CRITICAL (2023-08-07 13:25:34,704): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0328_1646_B2.html
+CRITICAL (2023-08-07 13:27:06,331): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0323_0912_B2.html
+CRITICAL (2023-08-07 13:29:10,527): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0315_1315_B3F.html
+CRITICAL (2023-08-07 13:29:34,171): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0315_1047_B2F.html
+CRITICAL (2023-08-07 13:29:45,477): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0315_0938_B2F.html
+WARNING (2023-08-07 13:32:41,544): Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002841DE61F90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /2018_Earthquake_Information/March/2018_0310_0317_B2.html
+WARNING (2023-08-07 13:32:43,560): Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002841E012B00>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /2018_Earthquake_Information/March/2018_0310_0317_B2.html
+WARNING (2023-08-07 13:32:47,569): Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002841E0132E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /2018_Earthquake_Information/March/2018_0310_0317_B2.html
+CRITICAL (2023-08-07 13:34:17,511): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0308_1157_B1.html
+CRITICAL (2023-08-07 13:34:50,183): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0306_1042_B2.html
+CRITICAL (2023-08-07 13:34:50,414): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0306_0948_B2.html
+CRITICAL (2023-08-07 13:34:55,704): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0306_0816_B2.html
+CRITICAL (2023-08-07 13:34:55,864): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0306_0249_B3F.html
+CRITICAL (2023-08-07 13:34:56,043): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0305_2303_B2.html
+CRITICAL (2023-08-07 13:34:57,524): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0305_0616_B2.html
+CRITICAL (2023-08-07 13:34:57,824): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0305_0601_B2.html
+CRITICAL (2023-08-07 13:34:58,004): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0305_0153_B2.html
+CRITICAL (2023-08-07 13:34:58,654): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0305_0056_B2.html
+CRITICAL (2023-08-07 13:34:58,804): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_2347_B2.html
+CRITICAL (2023-08-07 13:34:58,985): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_2109_B2.html
+CRITICAL (2023-08-07 13:34:59,173): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_1920_B2.html
+CRITICAL (2023-08-07 13:34:59,413): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_1900_B2.html
+CRITICAL (2023-08-07 13:34:59,554): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_1612_B2.html
+CRITICAL (2023-08-07 13:34:59,729): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_1556_B2.html
+CRITICAL (2023-08-07 13:35:00,045): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_1500_B2.html
+CRITICAL (2023-08-07 13:35:00,384): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_1402_B2.html
+CRITICAL (2023-08-07 13:35:05,639): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_1348_B2.html
+CRITICAL (2023-08-07 13:35:06,014): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_1307_B3.html
+CRITICAL (2023-08-07 13:35:06,297): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_1248_B2.html
+CRITICAL (2023-08-07 13:35:06,455): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_1204_B2.html
+CRITICAL (2023-08-07 13:35:06,646): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_1201_B2.html
+CRITICAL (2023-08-07 13:35:06,969): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_1148_B2.html
+CRITICAL (2023-08-07 13:35:07,144): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_1145_B2.html
+CRITICAL (2023-08-07 13:35:07,374): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_0944_B1.html
+CRITICAL (2023-08-07 13:35:07,574): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_0926_B1.html
+CRITICAL (2023-08-07 13:35:07,787): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_0918_B3F.html
+CRITICAL (2023-08-07 13:35:08,024): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0304_0053_B2.html
+CRITICAL (2023-08-07 13:35:08,374): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0303_2352_B2.html
+CRITICAL (2023-08-07 13:35:08,604): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0303_2134_B2.html
+CRITICAL (2023-08-07 13:35:08,853): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0303_1906_B2.html
+CRITICAL (2023-08-07 13:35:09,054): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0303_1817_B2.html
+CRITICAL (2023-08-07 13:35:09,346): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0303_1502_B2.html
+CRITICAL (2023-08-07 13:35:09,748): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0303_1346_B2.html
+CRITICAL (2023-08-07 13:35:10,164): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0303_1339_B2F.html
+CRITICAL (2023-08-07 13:35:10,424): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0303_1335_B2.html
+CRITICAL (2023-08-07 13:35:21,685): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0303_1251_B3F.html
+CRITICAL (2023-08-07 13:35:33,184): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0303_1249_B2.html
+CRITICAL (2023-08-07 13:35:38,853): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0303_0656_B2.html
+CRITICAL (2023-08-07 13:35:39,120): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0303_0636_B2.html
+CRITICAL (2023-08-07 13:35:39,394): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0303_0629_B2.html
+CRITICAL (2023-08-07 13:35:39,614): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0303_0506_B2.html
+CRITICAL (2023-08-07 13:35:39,776): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0303_0007_B1.html
+CRITICAL (2023-08-07 13:35:40,103): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0302_1428_B1.html
+CRITICAL (2023-08-07 13:35:40,263): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0302_1428_B1.html
+CRITICAL (2023-08-07 13:35:40,534): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0302_1428_B1.html
+CRITICAL (2023-08-07 13:35:40,704): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0302_1428_B1.html
+CRITICAL (2023-08-07 13:35:40,844): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0302_1428_B1.html
+CRITICAL (2023-08-07 13:35:41,024): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0302_1428_B1.html
+CRITICAL (2023-08-07 13:35:41,305): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0302_1428_B1.html
+CRITICAL (2023-08-07 13:35:41,578): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2018_Earthquake_Information/March/2018_0302_1428_B1.html
