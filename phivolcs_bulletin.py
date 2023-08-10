@@ -54,7 +54,7 @@ def get_page(page_url):
     # Modifying the dataframe to remove blank cells, check headers, 
     # and then add Mag and Event Types 
     df_phivolcs.replace("", nan, inplace=True)
-    df_phivolcs.dropna(inplace=True)
+    df_phivolcs.dropna(inplace=True, thresh=3)
     df_phivolcs.reset_index(drop=True, inplace=True)
     if not any(list(map(lambda col,head: col in head, 
                     phivolcs_heads, list(df_phivolcs.columns)))):
