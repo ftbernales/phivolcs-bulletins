@@ -1,0 +1,1 @@
+WARNING (2023-08-10 07:45:02,078): Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))': /2020_Earthquake_Information/January/2020_0119_1835_B2.html
