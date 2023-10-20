@@ -21,7 +21,8 @@ def combine_from_csv(csv_files=None, csv_dir=None):
         os.chdir(csv_dir)
         all_csv = glob(csv_dir + "/*.csv")
         monthly_data = [f for f in all_csv 
-                        if os.path.basename(f).split('_')[0].isdigit()]
+                        if is_valid_year(os.path.basename(f).split('_')[0])]
+        
         df_phivolcs = _df_concat_from_csv_list(monthly_data)
         
     df_phivolcs.to_csv('combined.csv', encoding='windows-1252')
@@ -67,6 +68,18 @@ def _df_concat_from_csv_list(csv_list: list):
         df_comb = pd.concat([df_comb, df], ignore_index=True)
 
     return df_comb
+
+
+def is_valid_year(year_str, min_year=2014, max_year=2200):
+    try:
+        year = int(year_str)
+        if min_year <= year <= max_year:
+            return True
+        else:
+            return False
+    except ValueError:
+        return False
+
 
 if __name__ == '__main__':
     # set option later with argparse
