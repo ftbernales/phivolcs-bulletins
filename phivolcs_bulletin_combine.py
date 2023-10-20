@@ -19,8 +19,15 @@ def combine_from_csv(csv_files=None, csv_dir=None):
             raise FileNotFoundError("Directory does not exist")
         
         os.chdir(csv_dir)
-        df_phivolcs = _df_concat_from_csv_list(glob(csv_dir + "/*.csv"))
+        all_csv = glob(csv_dir + "/*.csv")
+        monthly_data = [f for f in all_csv 
+                        if os.path.basename(f).split('_')[0].isdigit()]
+        df_phivolcs = _df_concat_from_csv_list(monthly_data)
+        
     df_phivolcs.to_csv('combined.csv', encoding='windows-1252')
+
+    df_filtered = filter_df_phivolcs(df_phivolcs)
+    df_filtered.to_csv('combined_minM4pt5.csv', encoding='windows-1252')
     return df_phivolcs
     
 
@@ -49,7 +56,7 @@ def filter_df_phivolcs(df: pd.DataFrame):
            & (df['mag'] >= 5.5), 'mag_type'] = 'Mw'
     # Apply criteria on setting TECTONIC as assumed event type for unspec events
     df.loc[df['event_type'] == 'unspecified', 'event_type'] = 'TECTONIC'
-    
+
     return df
 
 
