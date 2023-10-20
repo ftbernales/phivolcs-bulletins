@@ -17,8 +17,7 @@ def get_xlsx(fname, sheets=None):
     
     df_phivolcs = pd.DataFrame()
     for sheet in df_dict:
-        df_phivolcs = pd.concat([df_phivolcs, df_dict[sheet]], 
-                                ignore_index=True)
+        df_phivolcs = df_dict[sheet]
         df_phivolcs = df_phivolcs.assign(mag_type='unspecified', 
                                          event_type='unspecified')
         year = df_phivolcs.at[0, 'datetime'].year
