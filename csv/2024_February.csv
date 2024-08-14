@@ -1,0 +1,1458 @@
+,datetime,lat,lon,depth_km,mag,location,mag_type,event_type
+0,2024-02-29 15:58:50+00:00,9.7,126.18,30,2.1,009 km S 18° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+1,2024-02-29 15:48:17+00:00,7.69,122.04,19,1.8,011 km S 83° W of Siocon (Zamboanga Del Norte),Ms,TECTONIC
+2,2024-02-29 15:46:49+00:00,8.77,126.81,19,2.6,057 km S 87° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+3,2024-02-29 15:32:10+00:00,7.91,127.0,11,1.8,061 km N 53° E of Baganga (Davao Oriental),Ms,TECTONIC
+4,2024-02-29 15:32:01+00:00,13.71,120.64,107,1.8,013 km S 02° E of Calatagan (Batangas),Ms,TECTONIC
+5,2024-02-29 15:27:14+00:00,12.51,123.69,20,2.3,009 km N 70° W of San Fernando (Masbate),Ms,TECTONIC
+6,2024-02-29 15:22:18+00:00,8.61,126.34,59,2.3,022 km S 12° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+7,2024-02-29 14:56:29+00:00,8.78,127.03,11,2.2,080 km S 88° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+8,2024-02-29 14:50:45+00:00,8.6,126.17,158,2.4,009 km N 38° E of Barobo (Surigao Del Sur),Ms,TECTONIC
+9,2024-02-29 14:49:52+00:00,8.8,127.0,20,3.0,077 km S 90° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+10,2024-02-29 14:47:05+00:00,5.17,126.54,19,2.7,123 km S 74° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+11,2024-02-29 14:32:56+00:00,8.75,126.87,20,2.0,072 km N 54° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+12,2024-02-29 14:27:36+00:00,8.77,126.94,4,3.5,072 km S 77° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+13,2024-02-29 14:23:03+00:00,8.73,126.95,8,2.2,072 km S 84° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+14,2024-02-29 14:16:51+00:00,10.13,125.28,16,2.5,016 km N 61° E of San Francisco (Southern Leyte),Ms,TECTONIC
+15,2024-02-29 14:11:07+00:00,8.64,126.54,39,3.8,031 km S 57° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+16,2024-02-29 14:08:52+00:00,8.84,126.9,2,3.5,066 km S 83° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+17,2024-02-29 13:39:38+00:00,8.66,126.91,1,2.0,069 km S 77° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+18,2024-02-29 13:21:26+00:00,8.87,126.58,18,1.6,031 km S 81° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+19,2024-02-29 13:04:57+00:00,8.7,126.98,1,2.2,076 km S 81° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+20,2024-02-29 12:58:40+00:00,19.07,121.12,22,2.8,010 km S 65° W of Dalupiri Island (Calayan) (Cagayan),Ms,TECTONIC
+21,2024-02-29 12:55:23+00:00,19.27,121.09,19,2.4,022 km N 35° W of Dalupiri Island (Calayan) (Cagayan),Ms,TECTONIC
+22,2024-02-29 12:41:51+00:00,9.63,126.21,26,1.9,018 km S 17° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+23,2024-02-29 12:35:34+00:00,8.71,126.8,25,1.7,058 km S 80° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+24,2024-02-29 12:04:30+00:00,8.83,126.29,9,1.5,004 km N 18° W of Marihatag (Surigao Del Sur),Ms,TECTONIC
+25,2024-02-29 11:41:59+00:00,8.71,126.78,11,1.9,054 km S 79° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+26,2024-02-29 10:40:23+00:00,14.79,119.33,7,2.1,083 km S 78° W of San Antonio (Zambales),Ms,TECTONIC
+27,2024-02-29 10:19:32+00:00,9.17,126.85,44,1.6,066 km N 70° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+28,2024-02-29 10:12:44+00:00,8.75,127.41,32,2.5,126 km N 70° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+29,2024-02-29 10:06:47+00:00,8.64,126.58,25,1.5,035 km S 60° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+30,2024-02-29 09:59:22+00:00,8.77,126.92,11,2.4,069 km S 87° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+31,2024-02-29 09:49:21+00:00,9.49,126.72,18,3.4,062 km N 68° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+32,2024-02-29 09:38:59+00:00,8.76,126.74,30,1.9,049 km S 85° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+33,2024-02-29 09:32:59+00:00,18.61,120.96,7,2.7,006 km N 35° W of Santa Praxedes (Cagayan),Ms,TECTONIC
+34,2024-02-29 09:22:36+00:00,7.89,126.78,27,1.6,038 km N 73° E of Cateel (Davao Oriental),Ms,TECTONIC
+35,2024-02-29 09:17:38+00:00,8.75,126.83,21,2.2,059 km S 85° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+36,2024-02-29 08:13:37+00:00,15.43,119.77,24,2.5,015 km S 88° W of Palauig (Zambales),Ms,TECTONIC
+37,2024-02-29 06:01:45+00:00,14.36,120.4,119,1.9,013 km S 51° W of Mariveles (Bataan),Ms,TECTONIC
+38,2024-02-29 05:36:54+00:00,8.56,126.72,19,2.6,048 km N 63° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+39,2024-02-29 05:32:31+00:00,8.59,126.42,20,1.9,027 km N 21° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+40,2024-02-29 02:11:58+00:00,8.52,126.57,30,2.5,030 km N 57° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+41,2024-02-29 02:07:51+00:00,8.65,126.24,36,2.1,011 km S 10° E of San Agustin (Surigao Del Sur),Ms,TECTONIC
+42,2024-02-29 02:05:04+00:00,8.72,126.88,2,3.0,067 km S 71° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+43,2024-02-29 02:03:53+00:00,8.74,126.78,27,2.1,056 km S 70° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+44,2024-02-29 02:01:02+00:00,9.94,126.25,34,1.6,018 km N 87° E of San Isidro (Surigao Del Norte),Ms,TECTONIC
+45,2024-02-29 01:59:26+00:00,6.32,126.07,29,3.5,036 km S 01° W of Governor Generoso (Davao Oriental),Ms,TECTONIC
+46,2024-02-29 01:53:02+00:00,8.86,127.03,2,3.1,081 km S 85° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+47,2024-02-29 01:40:37+00:00,8.74,126.97,12,4.5,074 km S 85° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+48,2024-02-29 01:26:09+00:00,8.77,126.97,1,3.0,074 km S 87° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+49,2024-02-29 01:05:35+00:00,8.83,126.44,27,4.1,016 km N 76° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+50,2024-02-29 00:49:10+00:00,8.73,126.76,33,2.4,052 km S 82° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+51,2024-02-29 00:33:45+00:00,8.83,126.93,11,2.8,070 km S 82° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+52,2024-02-29 00:31:49+00:00,8.82,127.0,9,3.1,078 km S 82° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+53,2024-02-29 00:23:57+00:00,8.81,126.97,12,5.4,074 km S 80° E of Cagwait (Surigao Del Sur),Mw,TECTONIC
+54,2024-02-29 00:16:39+00:00,8.67,126.91,18,2.7,069 km S 78° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+55,2024-02-29 00:10:12+00:00,8.76,126.88,3,5.3,066 km S 74° E of Cagwait (Surigao Del Sur),Mw,TECTONIC
+56,2024-02-28 23:53:29+00:00,12.46,123.67,9,1.7,011 km N 27° E of City Of Masbate (Masbate),Ms,TECTONIC
+57,2024-02-28 23:32:23+00:00,8.76,126.48,20,2.4,020 km S 77° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+58,2024-02-28 22:42:15+00:00,12.44,123.67,7,2.4,009 km N 31° E of City Of Masbate (Masbate),Ms,TECTONIC
+59,2024-02-28 21:06:56+00:00,7.38,123.55,17,2.2,018 km S 59° E of Tabina (Zamboanga Del Sur),Ms,TECTONIC
+60,2024-02-28 20:57:36+00:00,9.8,124.78,31,2.0,023 km N 73° E of Anda (Bohol),Ms,TECTONIC
+61,2024-02-28 20:48:29+00:00,17.25,121.4,26,2.1,008 km N 01° E of Paracelis (Mountain Province),Ms,TECTONIC
+62,2024-02-28 19:58:21+00:00,8.79,126.9,2,4.1,066 km S 89° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+63,2024-02-28 19:48:18+00:00,8.77,126.48,3,2.4,020 km S 81° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+64,2024-02-28 18:16:50+00:00,8.33,126.57,23,2.5,026 km S 82° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+65,2024-02-28 16:57:39+00:00,5.59,125.32,17,1.5,022 km N 52° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+66,2024-02-28 16:28:32+00:00,11.17,124.7,1,3.2,009 km S 75° W of Jaro (Leyte),Ms,TECTONIC
+67,2024-02-28 16:02:16+00:00,9.21,125.9,5,3.0,009 km S 51° W of Madrid (Surigao Del Sur),Ms,TECTONIC
+68,2024-02-28 15:30:03+00:00,17.29,119.98,7,2.8,050 km S 85° W of San Esteban (Ilocos Sur),Ms,TECTONIC
+69,2024-02-28 14:56:17+00:00,7.82,126.18,3,2.1,014 km S 88° E of Monkayo (Davao De Oro),Ms,TECTONIC
+70,2024-02-28 14:14:48+00:00,9.77,125.49,25,2.2,002 km S 03° W of City Of Surigao (Surigao Del Norte),Ms,TECTONIC
+71,2024-02-28 14:12:31+00:00,16.36,122.14,10,2.2,009 km N 11° E of Casiguran (Aurora),Ms,TECTONIC
+72,2024-02-28 13:43:49+00:00,7.81,126.88,23,2.0,043 km N 54° E of Baganga (Davao Oriental),Ms,TECTONIC
+73,2024-02-28 12:57:34+00:00,8.66,126.46,26,1.9,024 km S 48° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+74,2024-02-28 11:31:28+00:00,12.91,124.87,1,3.3,039 km N 10° W of Pambujan (Northern Samar),Ms,TECTONIC
+75,2024-02-28 10:14:07+00:00,7.61,127.13,1,2.4,063 km N 86° E of Baganga (Davao Oriental),Ms,TECTONIC
+76,2024-02-28 10:12:23+00:00,7.24,126.61,141,3.1,009 km N 69° E of Manay (Davao Oriental),Ms,TECTONIC
+77,2024-02-28 10:03:10+00:00,13.56,120.57,31,1.6,021 km N 52° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+78,2024-02-28 09:48:12+00:00,9.14,124.32,32,1.8,040 km N 87° W of Catarman (Camiguin),Ms,TECTONIC
+79,2024-02-28 09:39:59+00:00,7.84,127.26,1,3.3,083 km N 69° E of Baganga (Davao Oriental),Ms,TECTONIC
+80,2024-02-28 09:19:22+00:00,8.1,122.97,3,2.0,008 km S 42° E of Leon B. Postigo (Zamboanga Del Norte),Ms,TECTONIC
+81,2024-02-28 08:58:05+00:00,8.59,126.05,21,2.1,007 km S 46° W of Lianga (Surigao Del Sur),Ms,TECTONIC
+82,2024-02-28 08:49:53+00:00,8.39,126.57,23,3.6,026 km N 84° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+83,2024-02-28 07:28:54+00:00,9.17,125.68,31,2.4,016 km N 70° E of City Of Cabadbaran (Agusan Del Norte),Ms,TECTONIC
+84,2024-02-28 07:06:18+00:00,7.57,124.87,3,2.2,006 km S 51° W of Kadingilan (Bukidnon),Ms,TECTONIC
+85,2024-02-28 06:48:43+00:00,8.06,127.23,20,3.6,090 km N 71° E of Cateel (Davao Oriental),Ms,TECTONIC
+86,2024-02-28 06:24:22+00:00,6.49,123.33,33,2.2,080 km S 85° W of Kalamansig (Sultan Kudarat),Ms,TECTONIC
+87,2024-02-28 06:10:46+00:00,18.39,120.77,31,2.8,016 km S 61° W of Adams (Ilocos Norte),Ms,TECTONIC
+88,2024-02-28 06:07:26+00:00,9.17,127.53,26,1.8,085 km N 76° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+89,2024-02-28 05:46:42+00:00,11.15,125.96,11,2.6,027 km N 77° E of Mercedes (Eastern Samar),Ms,TECTONIC
+90,2024-02-28 05:42:35+00:00,8.72,126.12,24,1.7,010 km N 16° E of Lianga (Surigao Del Sur),Ms,TECTONIC
+91,2024-02-28 04:55:16+00:00,8.58,127.08,7,3.4,085 km N 74° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+92,2024-02-28 02:32:05+00:00,8.58,125.94,22,2.1,003 km S 50° E of Prosperidad (Agusan Del Sur),Ms,TECTONIC
+93,2024-02-28 01:24:46+00:00,8.48,126.93,20,1.7,066 km N 79° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+94,2024-02-27 23:05:38+00:00,10.95,124.06,1,2.3,003 km N 65° E of Tabogon (Cebu),Ms,TECTONIC
+95,2024-02-27 21:59:44+00:00,18.42,120.79,16,3.1,013 km S 10° E of Bangui (Ilocos Norte),Ms,TECTONIC
+96,2024-02-27 21:55:45+00:00,17.3,122.38,19,3.5,009 km S 74° E of Divilacan (Isabela),Ms,TECTONIC
+97,2024-02-27 20:23:25+00:00,10.41,124.78,33,1.9,005 km N 38° E of Hilongos (Leyte),Ms,TECTONIC
+98,2024-02-27 20:11:20+00:00,9.07,126.45,1,2.8,021 km N 57° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+99,2024-02-27 19:55:25+00:00,15.07,119.97,25,2.1,011 km N 82° W of San Felipe (Zambales),Ms,TECTONIC
+100,2024-02-27 19:49:48+00:00,5.93,126.04,128,2.1,044 km N 88° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+101,2024-02-27 19:48:20+00:00,8.77,126.5,18,2.7,023 km S 82° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+102,2024-02-27 18:59:34+00:00,10.23,124.93,7,2.6,010 km S 34° W of Tomas Oppus (Southern Leyte),Ms,TECTONIC
+103,2024-02-27 18:48:26+00:00,19.1,121.13,11,3.0,008 km S 87° W of Dalupiri Island (Calayan) (Cagayan),Ms,TECTONIC
+104,2024-02-27 18:08:23+00:00,13.91,124.04,14,3.8,013 km S 51° W of Caramoran (Catanduanes),Ms,TECTONIC
+105,2024-02-27 18:05:47+00:00,13.38,120.16,1,1.9,032 km S 82° W of Paluan (Occidental Mindoro),Ms,TECTONIC
+106,2024-02-27 17:36:22+00:00,9.13,125.66,10,2.6,012 km N 43° E of Remedios T. Romualdez (Agusan Del Norte),Ms,TECTONIC
+107,2024-02-27 17:22:22+00:00,13.46,120.1,19,1.7,033 km S 29° W of Looc (Occidental Mindoro),Ms,TECTONIC
+108,2024-02-27 17:15:08+00:00,18.39,120.98,9,2.7,012 km S 47° E of Adams (Ilocos Norte),Ms,TECTONIC
+109,2024-02-27 16:58:10+00:00,8.71,126.75,12,3.9,051 km S 78° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+110,2024-02-27 16:10:07+00:00,13.44,120.09,8,2.5,036 km S 29° W of Looc (Occidental Mindoro),Ms,TECTONIC
+111,2024-02-27 15:33:47+00:00,7.74,124.81,13,2.4,007 km N 87° E of Kalilangan (Bukidnon),Ms,TECTONIC
+112,2024-02-27 15:04:21+00:00,17.86,119.79,2,3.0,068 km N 64° W of Santa Catalina (Ilocos Sur),Ms,TECTONIC
+113,2024-02-27 14:29:38+00:00,10.31,126.28,11,3.4,039 km N 35° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+114,2024-02-27 14:05:59+00:00,8.83,127.02,1,3.5,080 km S 83° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+115,2024-02-27 12:53:25+00:00,11.32,124.55,7,4.2,009 km S 50° E of Leyte (Leyte),Ms,TECTONIC
+116,2024-02-27 12:17:27+00:00,7.42,122.86,11,2.3,004 km S 89° E of Mabuhay (Zamboanga Sibugay),Ms,TECTONIC
+117,2024-02-27 11:40:34+00:00,6.65,123.93,23,2.3,015 km N 84° W of Lebak (Sultan Kudarat),Ms,TECTONIC
+118,2024-02-27 11:22:26+00:00,9.15,126.88,8,2.6,069 km N 73° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+119,2024-02-27 10:31:45+00:00,8.82,126.65,19,2.3,038 km N 86° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+120,2024-02-27 09:15:11+00:00,8.74,126.66,19,2.3,040 km S 80° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+121,2024-02-27 09:14:39+00:00,13.61,120.55,1,1.6,024 km N 23° E of Paluan (Occidental Mindoro),Ms,TECTONIC
+122,2024-02-27 08:28:08+00:00,8.82,126.47,24,2.4,019 km N 82° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+123,2024-02-27 08:26:33+00:00,8.8,126.62,17,2.7,035 km N 90° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+124,2024-02-27 08:22:50+00:00,8.8,126.57,19,3.7,029 km S 89° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+125,2024-02-27 08:19:13+00:00,8.81,126.62,21,3.4,035 km N 88° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+126,2024-02-27 08:10:34+00:00,9.0,125.89,33,1.5,017 km N 69° W of San Miguel (Surigao Del Sur),Ms,TECTONIC
+127,2024-02-27 08:09:08+00:00,8.83,126.69,20,3.0,043 km N 86° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+128,2024-02-27 08:00:31+00:00,8.78,126.56,15,3.5,029 km S 85° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+129,2024-02-27 07:14:07+00:00,9.57,126.45,3,1.6,039 km S 52° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+130,2024-02-27 06:52:33+00:00,11.16,121.09,21,2.6,017 km N 86° E of Agutaya (Palawan),Ms,TECTONIC
+131,2024-02-27 06:24:01+00:00,13.48,120.28,11,2.1,027 km S 07° E of Looc (Occidental Mindoro),Ms,TECTONIC
+132,2024-02-27 06:11:19+00:00,6.21,124.99,33,1.5,008 km S 84° W of Polomolok (South Cotabato),Ms,TECTONIC
+133,2024-02-27 05:26:57+00:00,7.67,126.64,25,2.3,013 km N 38° E of Baganga (Davao Oriental),Ms,TECTONIC
+134,2024-02-27 03:47:33+00:00,2.69,126.49,53,3.9,324 km S 21° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+135,2024-02-27 03:21:37+00:00,9.42,126.18,30,1.7,016 km N 06° W of Cortes (Surigao Del Sur),Ms,TECTONIC
+136,2024-02-27 03:08:01+00:00,9.18,126.39,37,1.6,024 km S 63° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+137,2024-02-27 02:54:58+00:00,12.74,125.98,16,2.9,081 km N 40° E of San Policarpo (Eastern Samar),Ms,TECTONIC
+138,2024-02-27 02:33:05+00:00,11.94,125.7,14,2.9,030 km N 63° E of Sulat (Eastern Samar),Ms,TECTONIC
+139,2024-02-27 02:19:54+00:00,11.93,125.72,16,2.8,028 km S 65° E of Dolores (Eastern Samar),Ms,TECTONIC
+140,2024-02-27 02:12:31+00:00,15.22,122.72,23,2.4,071 km N 36° E of Jomalig (Quezon),Ms,TECTONIC
+141,2024-02-27 00:52:36+00:00,9.92,126.27,33,1.7,020 km N 39° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+142,2024-02-26 22:21:08+00:00,13.61,120.62,116,1.4,022 km N 31° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+143,2024-02-26 21:42:55+00:00,13.63,120.63,65,1.3,022 km S 01° W of Calatagan (Batangas),Ms,TECTONIC
+144,2024-02-26 20:38:51+00:00,8.99,126.59,23,2.0,033 km N 77° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+145,2024-02-26 20:06:19+00:00,8.59,125.74,45,2.3,010 km N 02° E of San Luis (Agusan Del Sur),Ms,TECTONIC
+146,2024-02-26 19:43:31+00:00,14.31,120.33,81,1.9,022 km S 51° W of Mariveles (Bataan),Ms,TECTONIC
+147,2024-02-26 19:23:22+00:00,5.18,124.95,1,1.9,058 km S 64° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+148,2024-02-26 19:05:32+00:00,5.88,124.46,32,3.0,021 km S 10° W of Maitum (Sarangani),Ms,TECTONIC
+149,2024-02-26 18:56:57+00:00,13.67,120.66,107,1.9,018 km S 09° E of Calatagan (Batangas),Ms,TECTONIC
+150,2024-02-26 18:37:20+00:00,7.3,124.68,30,2.3,016 km N 49° W of Carmen (Cotabato),Ms,TECTONIC
+151,2024-02-26 18:27:05+00:00,13.79,120.6,74,1.7,007 km S 38° W of Calatagan (Batangas),Ms,TECTONIC
+152,2024-02-26 18:22:20+00:00,8.64,127.09,1,2.8,088 km N 70° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+153,2024-02-26 18:14:02+00:00,5.37,126.72,26,2.7,133 km S 63° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+154,2024-02-26 17:58:19+00:00,16.38,121.24,12,2.1,014 km S 90° E of Bambang (Nueva Vizcaya),Ms,TECTONIC
+155,2024-02-26 17:20:35+00:00,10.77,126.85,33,3.0,119 km N 46° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+156,2024-02-26 17:04:44+00:00,5.63,127.16,132,3.4,165 km S 47° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+157,2024-02-26 16:28:48+00:00,7.31,124.61,38,1.6,010 km S 37° E of Alamada (Cotabato),Ms,TECTONIC
+158,2024-02-26 16:18:05+00:00,13.25,120.38,3,2.0,020 km S 28° W of Paluan (Occidental Mindoro),Ms,TECTONIC
+159,2024-02-26 16:16:16+00:00,9.76,125.73,19,2.2,017 km N 65° E of Taganaan (Surigao Del Norte),Ms,TECTONIC
+160,2024-02-26 15:41:31+00:00,14.0,120.42,107,1.6,024 km S 71° W of Nasugbu (Batangas),Ms,TECTONIC
+161,2024-02-26 15:13:50+00:00,13.87,120.55,79,1.7,010 km N 65° W of Calatagan (Batangas),Ms,TECTONIC
+162,2024-02-26 15:12:41+00:00,5.84,125.47,4,1.5,021 km S 67° W of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+163,2024-02-26 14:10:27+00:00,5.75,125.66,182,2.4,018 km S 05° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+164,2024-02-26 14:04:13+00:00,7.56,124.45,5,2.1,010 km N 62° E of Buldon (Maguindanao Del Norte),Ms,TECTONIC
+165,2024-02-26 14:00:33+00:00,8.88,127.2,18,2.4,100 km N 85° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+166,2024-02-26 13:19:23+00:00,13.87,120.4,55,1.7,023 km N 43° E of Looc (Occidental Mindoro),Ms,TECTONIC
+167,2024-02-26 13:09:11+00:00,6.3,125.66,169,2.8,013 km N 19° W of Don Marcelino (Davao Occidental),Ms,TECTONIC
+168,2024-02-26 13:04:50+00:00,10.12,126.09,13,3.1,013 km N 26° E of Santa Monica (Surigao Del Norte),Ms,TECTONIC
+169,2024-02-26 13:02:18+00:00,6.66,126.34,14,2.0,030 km N 89° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+170,2024-02-26 12:29:59+00:00,16.3,122.12,45,2.2,002 km North of Casiguran (Aurora),Ms,TECTONIC
+171,2024-02-26 12:07:59+00:00,8.49,127.0,7,1.9,081 km N 52° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+172,2024-02-26 11:38:06+00:00,8.43,125.94,11,2.3,009 km N 52° W of Rosario (Agusan Del Sur),Ms,TECTONIC
+173,2024-02-26 11:34:51+00:00,8.34,126.47,33,1.9,015 km S 78° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+174,2024-02-26 10:36:24+00:00,5.81,126.45,104,2.6,090 km S 82° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+175,2024-02-26 10:00:25+00:00,7.82,122.15,17,2.3,001 km N 11° E of Baliguian (Zamboanga Del Norte),Ms,TECTONIC
+176,2024-02-26 07:52:45+00:00,8.53,127.27,1,3.7,104 km N 80° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+177,2024-02-26 06:17:26+00:00,5.28,123.78,17,2.6,113 km S 24° W of Palimbang (Sultan Kudarat),Ms,TECTONIC
+178,2024-02-26 06:13:57+00:00,8.55,126.9,1,2.0,066 km N 72° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+179,2024-02-26 04:06:35+00:00,6.46,125.01,25,2.3,010 km N 78° E of Tampakan (South Cotabato),Ms,TECTONIC
+180,2024-02-26 04:00:37+00:00,9.04,126.2,53,1.7,003 km N 48° W of Tago (Surigao Del Sur),Ms,TECTONIC
+181,2024-02-26 03:49:56+00:00,12.15,125.15,39,3.4,011 km S 87° W of Maslog (Eastern Samar),Ms,TECTONIC
+182,2024-02-26 03:43:55+00:00,9.05,126.37,25,3.3,013 km N 49° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+183,2024-02-26 03:40:50+00:00,9.01,126.44,27,4.7,017 km N 75° E of Bayabas (Surigao Del Sur),Mw,TECTONIC
+184,2024-02-26 03:14:48+00:00,10.56,125.09,29,1.6,009 km N 67° W of Silago (Southern Leyte),Ms,TECTONIC
+185,2024-02-26 02:43:27+00:00,12.29,120.76,3,2.7,030 km S 50° W of Rizal (Occidental Mindoro),Ms,TECTONIC
+186,2024-02-26 01:48:22+00:00,12.12,125.17,47,3.5,018 km N 64° E of San Jose De Buan (Samar),Ms,TECTONIC
+187,2024-02-25 23:55:55+00:00,8.32,126.99,29,1.9,071 km N 64° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+188,2024-02-25 23:42:32+00:00,8.65,126.45,20,3.1,023 km S 45° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+189,2024-02-25 22:09:58+00:00,4.75,127.69,71,4.8,259 km S 72° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+190,2024-02-25 20:21:02+00:00,15.59,120.22,100,1.5,017 km S 79° W of Mayantoc (Tarlac),Ms,TECTONIC
+191,2024-02-25 20:15:10+00:00,8.42,126.63,24,2.5,033 km N 80° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+192,2024-02-25 19:58:16+00:00,8.74,126.53,26,1.9,026 km S 75° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+193,2024-02-25 19:46:32+00:00,8.77,127.03,5,2.4,080 km S 87° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+194,2024-02-25 19:27:34+00:00,8.97,126.3,33,1.9,006 km N 03° W of Cagwait (Surigao Del Sur),Ms,TECTONIC
+195,2024-02-25 19:16:11+00:00,9.87,126.26,21,1.8,015 km N 50° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+196,2024-02-25 18:59:58+00:00,8.67,126.74,6,2.0,051 km S 73° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+197,2024-02-25 18:58:41+00:00,10.39,126.3,29,2.0,048 km N 31° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+198,2024-02-25 18:32:19+00:00,8.31,126.45,33,2.0,014 km S 62° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+199,2024-02-25 18:20:51+00:00,8.68,126.74,3,2.3,051 km S 75° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+200,2024-02-25 17:57:21+00:00,9.74,124.15,10,1.6,004 km S 10° E of Batuan (Bohol),Ms,TECTONIC
+201,2024-02-25 17:42:17+00:00,15.38,119.38,7,2.1,057 km S 84° W of Palauig (Zambales),Ms,TECTONIC
+202,2024-02-25 17:21:52+00:00,9.64,126.2,34,1.8,016 km S 18° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+203,2024-02-25 17:18:40+00:00,6.84,125.06,9,3.7,013 km S 14° W of Makilala (Cotabato),Ms,TECTONIC
+204,2024-02-25 17:10:06+00:00,5.87,124.74,31,2.3,018 km S 45° E of Kiamba (Sarangani),Ms,TECTONIC
+205,2024-02-25 17:07:48+00:00,8.52,126.54,27,2.2,028 km N 52° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+206,2024-02-25 16:58:50+00:00,8.51,126.67,21,2.8,040 km N 66° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+207,2024-02-25 16:38:19+00:00,13.85,119.91,33,4.1,024 km West of Lubang (Occidental Mindoro),Mw,TECTONIC
+208,2024-02-25 16:23:16+00:00,5.29,126.29,4,3.7,093 km S 78° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+209,2024-02-25 16:09:00+00:00,9.71,126.74,20,3.0,064 km S 83° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+210,2024-02-25 15:22:47+00:00,7.7,124.54,2,1.9,019 km S 58° W of Amai Manabilang (Lanao Del Sur),Ms,TECTONIC
+211,2024-02-25 15:15:16+00:00,6.58,126.61,33,2.4,055 km S 19° E of Tarragona (Davao Oriental),Ms,TECTONIC
+212,2024-02-25 15:00:19+00:00,8.66,126.86,2,2.4,064 km S 76° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+213,2024-02-25 14:45:41+00:00,13.02,124.4,5,3.1,022 km S 85° E of Prieto Diaz (Sorsogon),Ms,TECTONIC
+214,2024-02-25 14:39:09+00:00,14.39,123.08,1,3.6,018 km S 56° E of Tinaga Island (Vinzons) (Camarines Norte),Ms,TECTONIC
+215,2024-02-25 14:29:39+00:00,16.93,120.83,6,2.0,009 km N 28° E of Mankayan (Benguet),Ms,TECTONIC
+216,2024-02-25 13:53:57+00:00,8.6,127.16,17,2.8,094 km N 74° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+217,2024-02-25 12:24:25+00:00,9.14,125.66,16,2.2,012 km N 42° E of Remedios T. Romualdez (Agusan Del Norte),Ms,TECTONIC
+218,2024-02-25 11:38:07+00:00,8.75,126.83,7,2.3,059 km S 85° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+219,2024-02-25 11:36:31+00:00,8.76,126.83,17,2.2,058 km S 86° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+220,2024-02-25 10:41:07+00:00,18.43,120.75,22,2.3,012 km S 08° W of Bangui (Ilocos Norte),Ms,TECTONIC
+221,2024-02-25 10:39:01+00:00,5.59,126.85,29,3.4,138 km S 75° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+222,2024-02-25 10:21:05+00:00,9.68,123.65,13,1.8,016 km S 53° E of Dalaguete (Cebu),Ms,TECTONIC
+223,2024-02-25 09:59:58+00:00,8.33,126.64,26,2.5,033 km S 84° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+224,2024-02-25 09:48:43+00:00,8.94,126.46,13,2.1,019 km N 83° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+225,2024-02-25 09:38:35+00:00,5.7,126.8,33,2.8,130 km S 79° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+226,2024-02-25 06:18:53+00:00,8.45,126.91,2,3.5,064 km N 82° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+227,2024-02-25 06:14:11+00:00,12.14,125.16,45,4.3,017 km N 59 E of San Jose de Buan (Samar),Mw,TECTONIC
+228,2024-02-25 06:11:47+00:00,6.39,126.78,20,2.3,084 km S 69° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+229,2024-02-25 05:55:06+00:00,15.68,121.04,31,2.1,003 km N 60° E of Llanera (Nueva Ecija),Ms,TECTONIC
+230,2024-02-25 05:50:51+00:00,8.27,125.95,3,3.0,016 km S 86° E of La Paz (Agusan Del Sur),Ms,TECTONIC
+231,2024-02-25 05:43:24+00:00,6.16,126.85,9,2.7,101 km S 57° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+232,2024-02-25 04:54:53+00:00,13.05,120.61,29,2.7,013 km S 72° W of Santa Cruz (Occidental Mindoro),Ms,TECTONIC
+233,2024-02-25 04:53:52+00:00,17.55,120.91,9,2.5,020 km S 69° E of Lagangilang (Abra),Ms,TECTONIC
+234,2024-02-25 04:04:02+00:00,8.31,126.0,2,3.0,008 km S 02° W of Rosario (Agusan Del Sur),Ms,TECTONIC
+235,2024-02-25 03:38:51+00:00,8.97,126.46,17,2.6,018 km N 73° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+236,2024-02-25 03:16:29+00:00,8.73,126.58,28,2.6,032 km S 77° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+237,2024-02-25 03:08:32+00:00,13.69,120.64,116,1.4,015 km S 02° E of Calatagan (Batangas),Ms,TECTONIC
+238,2024-02-25 02:39:10+00:00,13.66,120.6,81,1.8,019 km S 11° W of Calatagan (Batangas),Ms,TECTONIC
+239,2024-02-25 01:30:20+00:00,6.02,124.61,34,1.6,004 km N 26° W of Kiamba (Sarangani),Ms,TECTONIC
+240,2024-02-25 01:28:22+00:00,6.06,124.66,32,1.7,008 km N 25° E of Kiamba (Sarangani),Ms,TECTONIC
+241,2024-02-25 01:05:12+00:00,8.06,123.18,13,2.2,015 km N 79° W of Midsalip (Zamboanga Del Sur),Ms,TECTONIC
+242,2024-02-25 00:45:13+00:00,6.55,126.73,208,2.7,064 km S 29° E of Tarragona (Davao Oriental),Ms,TECTONIC
+243,2024-02-25 00:26:36+00:00,13.22,120.32,10,2.3,026 km S 36° W of Paluan (Occidental Mindoro),Ms,TECTONIC
+244,2024-02-24 23:04:36+00:00,8.36,125.85,44,1.6,010 km N 25° E of La Paz (Agusan Del Sur),Ms,TECTONIC
+245,2024-02-24 23:00:20+00:00,9.46,124.2,32,1.4,017 km S 01° W of Valencia (Bohol),Ms,TECTONIC
+246,2024-02-24 22:49:09+00:00,7.67,125.97,25,2.1,004 km S 35° W of Montevista (Davao De Oro),Ms,TECTONIC
+247,2024-02-24 21:58:52+00:00,8.3,126.01,1,2.0,010 km S 08° E of Rosario (Agusan Del Sur),Ms,TECTONIC
+248,2024-02-24 21:42:13+00:00,15.23,119.9,34,1.4,014 km S 37° W of Iba (Zambales),Ms,TECTONIC
+249,2024-02-24 21:39:15+00:00,10.74,126.47,1,3.8,081 km East of Homonhon Island (Guiuan) (Eastern Samar),Ms,TECTONIC
+250,2024-02-24 20:40:26+00:00,18.61,120.9,3,2.9,010 km N 62° W of Santa Praxedes (Cagayan),Ms,TECTONIC
+251,2024-02-24 20:14:54+00:00,8.64,126.97,1,3.2,076 km N 67° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+252,2024-02-24 19:44:04+00:00,8.26,126.58,26,2.9,029 km S 67° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+253,2024-02-24 19:04:00+00:00,5.19,124.99,11,2.7,053 km S 63° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+254,2024-02-24 19:00:49+00:00,5.97,124.97,13,1.5,012 km N 14° W of Maasim (Sarangani),Ms,TECTONIC
+255,2024-02-24 18:57:37+00:00,7.34,126.67,101,2.5,011 km N 85° E of Caraga (Davao Oriental),Ms,TECTONIC
+256,2024-02-24 18:47:40+00:00,12.12,125.08,26,5.0,025 km S 42° W of Jipapad (Eastern Samar),Mw,TECTONIC
+257,2024-02-24 18:34:46+00:00,8.3,126.04,4,3.1,011 km S 25° E of Rosario (Agusan Del Sur),Ms,TECTONIC
+258,2024-02-24 18:28:52+00:00,11.85,125.42,43,4.4,006 km S 03° W of Taft (Eastern Samar),Mw,TECTONIC
+259,2024-02-24 17:39:47+00:00,8.52,126.56,21,3.3,030 km N 55° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+260,2024-02-24 16:50:08+00:00,15.61,120.39,33,1.9,005 km S 80° W of Santa Ignacia (Tarlac),Ms,TECTONIC
+261,2024-02-24 16:42:13+00:00,16.95,121.42,34,1.9,008 km N 66° W of Alfonso Lista (Ifugao),Ms,TECTONIC
+262,2024-02-24 15:59:48+00:00,8.32,126.01,5,3.0,007 km S 05° E of Rosario (Agusan Del Sur),Ms,TECTONIC
+263,2024-02-24 14:58:03+00:00,6.84,126.35,24,2.9,019 km S 48° E of City Of Mati (Davao Oriental),Ms,TECTONIC
+264,2024-02-24 14:04:53+00:00,9.51,126.19,34,1.8,026 km N 01° W of Cortes (Surigao Del Sur),Ms,TECTONIC
+265,2024-02-24 13:53:45+00:00,6.45,125.12,40,2.0,018 km N 65° W of Malungon (Sarangani),Ms,TECTONIC
+266,2024-02-24 13:26:04+00:00,12.33,125.23,28,2.7,005 km N 05° W of Jipapad (Eastern Samar),Ms,TECTONIC
+267,2024-02-24 13:13:59+00:00,8.27,126.81,8,2.9,051 km S 79° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+268,2024-02-24 12:47:31+00:00,12.32,123.77,8,2.4,011 km S 05° W of Batuan (Masbate),Ms,TECTONIC
+269,2024-02-24 12:03:27+00:00,6.21,124.92,33,2.3,011 km East of T'boli (South Cotabato),Ms,TECTONIC
+270,2024-02-24 11:50:12+00:00,8.4,126.57,26,1.6,026 km N 81° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+271,2024-02-24 11:23:55+00:00,7.15,125.58,25,1.8,017 km N 60° W of Island Garden City Of Samal (Davao Del Norte),Ms,TECTONIC
+272,2024-02-24 10:23:38+00:00,8.37,126.51,39,3.1,019 km East of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+273,2024-02-24 10:19:24+00:00,8.5,126.78,1,3.8,051 km N 73° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+274,2024-02-24 09:58:36+00:00,13.7,120.16,11,2.7,010 km S 75° W of Looc (Occidental Mindoro),Ms,TECTONIC
+275,2024-02-24 09:03:52+00:00,8.6,126.53,24,2.2,034 km N 40° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+276,2024-02-24 08:19:51+00:00,8.4,126.79,29,2.0,050 km N 86° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+277,2024-02-24 08:19:09+00:00,8.25,123.13,32,1.6,002 km S 76° E of Siayan (Zamboanga Del Norte),Ms,TECTONIC
+278,2024-02-24 08:03:17+00:00,8.69,126.44,21,2.0,020 km S 54° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+279,2024-02-24 08:00:46+00:00,8.68,126.44,28,2.2,020 km S 48° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+280,2024-02-24 08:00:35+00:00,4.56,124.3,15,2.5,156 km S 53° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+281,2024-02-24 07:58:51+00:00,13.76,120.7,88,1.7,011 km S 43° E of Calatagan (Batangas),Ms,TECTONIC
+282,2024-02-24 07:56:25+00:00,8.99,126.43,11,2.3,016 km N 61° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+283,2024-02-24 07:49:52+00:00,8.98,126.43,19,3.4,015 km N 66° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+284,2024-02-24 07:44:15+00:00,8.74,127.49,36,2.4,131 km S 87° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+285,2024-02-24 04:19:52+00:00,4.15,126.03,146,4.6,155 km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+286,2024-02-24 03:43:53+00:00,8.69,127.55,33,2.9,138 km N 75° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+287,2024-02-24 03:25:30+00:00,8.48,126.64,15,3.0,036 km N 70° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+288,2024-02-24 03:11:54+00:00,8.7,127.46,39,2.2,129 km N 74° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+289,2024-02-24 03:09:53+00:00,13.03,122.6,2,2.6,034 km S 14° W of San Andres (Quezon),Ms,TECTONIC
+290,2024-02-24 02:45:19+00:00,5.74,125.89,85,2.3,033 km S 55° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+291,2024-02-24 02:26:52+00:00,13.56,120.7,98,2.0,013 km N 11° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+292,2024-02-24 02:05:42+00:00,8.13,125.78,35,2.1,010 km S 57° W of Loreto (Agusan Del Sur),Ms,TECTONIC
+293,2024-02-24 02:01:51+00:00,8.03,126.16,41,1.7,011 km S 85° E of Trento (Agusan Del Sur),Ms,TECTONIC
+294,2024-02-24 01:56:28+00:00,7.75,126.55,25,2.5,011 km S 67° E of Cateel (Davao Oriental),Ms,TECTONIC
+295,2024-02-24 00:51:33+00:00,4.7,128.44,41,4.8,337 km S 66° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+296,2024-02-24 00:28:11+00:00,8.43,126.61,28,1.5,031 km N 78° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+297,2024-02-23 21:17:58+00:00,7.92,126.31,9,2.7,009 km N 56° W of Boston (Davao Oriental),Ms,TECTONIC
+298,2024-02-23 21:06:48+00:00,13.49,120.67,1,1.9,008 km N 55° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+299,2024-02-23 20:55:19+00:00,5.51,126.44,63,3.0,099 km S 63° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+300,2024-02-23 20:20:01+00:00,7.76,126.59,30,1.7,015 km S 77° E of Cateel (Davao Oriental),Ms,TECTONIC
+301,2024-02-23 20:04:35+00:00,6.1,126.99,174,2.5,119 km S 59° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+302,2024-02-23 19:57:11+00:00,18.22,120.9,18,1.5,012 km N 42° E of Carasi (Ilocos Norte),Ms,TECTONIC
+303,2024-02-23 19:30:56+00:00,8.09,127.14,5,2.5,080 km N 86° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+304,2024-02-23 18:36:58+00:00,4.93,127.18,60,2.2,199 km S 72° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+305,2024-02-23 17:55:38+00:00,10.72,122.78,15,2.0,013 km S 33° E of Dumangas (Iloilo),Ms,TECTONIC
+306,2024-02-23 16:49:37+00:00,10.35,126.1,25,2.0,037 km N 04° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+307,2024-02-23 16:35:17+00:00,13.45,120.71,1,2.0,002 km N 61° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+308,2024-02-23 16:25:51+00:00,12.36,120.8,7,2.1,021 km S 60° W of Rizal (Occidental Mindoro),Ms,TECTONIC
+309,2024-02-23 16:05:25+00:00,5.88,125.82,134,2.0,020 km S 78° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+310,2024-02-23 15:29:19+00:00,17.25,121.45,31,1.5,010 km N 34° E of Paracelis (Mountain Province),Ms,TECTONIC
+311,2024-02-23 15:28:46+00:00,17.2,121.39,28,1.7,003 km N 38° W of Paracelis (Mountain Province),Ms,TECTONIC
+312,2024-02-23 15:12:13+00:00,14.36,123.04,1,2.9,016 km S 37° E of Tinaga Island (Vinzons) (Camarines Norte),Ms,TECTONIC
+313,2024-02-23 15:06:51+00:00,8.35,126.61,30,2.2,030 km S 86° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+314,2024-02-23 15:03:08+00:00,3.92,126.74,29,3.4,221 km S 41° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+315,2024-02-23 14:04:03+00:00,3.57,126.35,20,2.8,228 km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+316,2024-02-23 13:52:17+00:00,5.98,126.18,19,3.1,060 km N 83° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+317,2024-02-23 13:46:55+00:00,6.6,126.61,11,2.7,053 km S 20° E of Tarragona (Davao Oriental),Ms,TECTONIC
+318,2024-02-23 12:44:27+00:00,9.16,126.56,13,2.0,037 km N 55° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+319,2024-02-23 12:12:26+00:00,8.94,126.33,31,2.1,004 km N 52° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+320,2024-02-23 11:50:54+00:00,19.17,121.1,13,3.1,013 km N 59° W of Dalupiri Island (Calayan) (Cagayan),Ms,TECTONIC
+321,2024-02-23 11:08:54+00:00,16.34,122.15,19,2.7,008 km S 51° W of Dilasag (Aurora),Ms,TECTONIC
+322,2024-02-23 11:04:02+00:00,12.38,124.54,120,3.4,013 km N 45° W of Lope De Vega (Northern Samar),Ms,TECTONIC
+323,2024-02-23 10:19:05+00:00,5.82,125.11,25,1.8,011 km S 89° W of Glan (Sarangani),Ms,TECTONIC
+324,2024-02-23 10:04:56+00:00,6.4,123.89,23,2.4,025 km S 47° W of Kalamansig (Sultan Kudarat),Ms,TECTONIC
+325,2024-02-23 09:44:30+00:00,8.56,127.14,17,3.4,091 km N 76° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+326,2024-02-23 09:23:23+00:00,13.76,120.61,124,1.7,008 km S 19° W of Calatagan (Batangas),Ms,TECTONIC
+327,2024-02-23 09:05:51+00:00,13.87,120.62,155,1.9,004 km N 22° W of Calatagan (Batangas),Ms,TECTONIC
+328,2024-02-23 08:53:59+00:00,8.32,126.66,2,2.4,036 km S 81° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+329,2024-02-23 06:54:15+00:00,10.58,125.68,23,2.1,021 km S 18° W of Homonhon Island (Guiuan) (Eastern Samar),Ms,TECTONIC
+330,2024-02-23 06:41:02+00:00,9.09,126.79,9,2.2,057 km N 77° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+331,2024-02-23 05:56:09+00:00,17.7,120.76,6,2.0,004 km N 63° E of San Juan (Abra),Ms,TECTONIC
+332,2024-02-23 04:56:30+00:00,5.64,125.04,27,2.0,025 km S 10° E of Maasim (Sarangani),Ms,TECTONIC
+333,2024-02-23 04:39:21+00:00,5.17,126.14,54,2.1,081 km S 66° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+334,2024-02-23 04:15:17+00:00,9.64,126.09,13,3.7,014 km S 17° E of Dapa (Surigao Del Norte),Ms,TECTONIC
+335,2024-02-23 02:44:07+00:00,13.62,120.67,99,1.6,020 km N 18° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+336,2024-02-23 01:26:45+00:00,8.65,126.51,34,1.6,029 km S 54° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+337,2024-02-23 00:18:44+00:00,8.75,126.68,33,1.6,042 km S 82° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+338,2024-02-23 00:17:42+00:00,14.51,122.93,15,1.9,004 km N 23° W of Tinaga Island (Vinzons) (Camarines Norte),Ms,TECTONIC
+339,2024-02-22 23:41:42+00:00,8.46,126.31,32,1.7,011 km N 17° W of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+340,2024-02-22 23:15:12+00:00,11.92,121.55,17,2.3,002 km S 30° E of Caluya (Antique),Ms,TECTONIC
+341,2024-02-22 22:25:32+00:00,2.23,126.69,4,3.5,378 km S 22° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+342,2024-02-22 22:12:37+00:00,7.13,125.43,22,2.0,032 km N 80° W of Island Garden City Of Samal (Davao Del Norte),Ms,TECTONIC
+343,2024-02-22 21:30:39+00:00,10.58,122.54,25,1.4,006 km North of Nueva Valencia (Guimaras),Ms,TECTONIC
+344,2024-02-22 21:05:31+00:00,8.48,126.77,29,2.0,049 km N 75° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+345,2024-02-22 21:00:42+00:00,13.6,120.58,120,4.1,024 km N 43° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+346,2024-02-22 20:23:28+00:00,8.37,126.71,34,1.8,041 km S 90° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+347,2024-02-22 20:16:01+00:00,7.76,126.19,33,1.5,015 km N 48° E of Compostela (Davao De Oro),Ms,TECTONIC
+348,2024-02-22 20:10:48+00:00,13.1,124.22,1,3.3,014 km S 44° E of Rapu-rapu (Albay),Ms,TECTONIC
+349,2024-02-22 19:54:20+00:00,8.46,126.68,26,2.2,039 km N 74° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+350,2024-02-22 19:35:16+00:00,15.26,121.4,35,1.6,014 km S 02° E of Dingalan (Aurora),Ms,TECTONIC
+351,2024-02-22 19:32:50+00:00,17.56,120.18,1,2.5,020 km S 80° W of Santa Catalina (Ilocos Sur),Ms,TECTONIC
+352,2024-02-22 19:30:09+00:00,5.95,125.37,31,1.6,009 km S 79° E of Malapatan (Sarangani),Ms,TECTONIC
+353,2024-02-22 19:26:16+00:00,5.68,125.31,19,1.6,020 km S 36° E of Glan (Sarangani),Ms,TECTONIC
+354,2024-02-22 19:15:09+00:00,11.0,123.91,1,2.7,009 km S 54° W of City Of Bogo (Cebu),Ms,TECTONIC
+355,2024-02-22 18:30:30+00:00,6.46,125.27,19,2.2,010 km N 01° E of Malungon (Sarangani),Ms,TECTONIC
+356,2024-02-22 18:18:41+00:00,8.12,126.54,29,1.7,017 km N 58° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+357,2024-02-22 17:59:44+00:00,10.09,122.24,13,2.4,042 km N 30° W of City Of Sipalay (Negros Occidental),Ms,TECTONIC
+358,2024-02-22 17:56:04+00:00,9.18,125.65,25,2.0,015 km N 25° E of Remedios T. Romualdez (Agusan Del Norte),Ms,TECTONIC
+359,2024-02-22 17:43:20+00:00,8.65,126.6,28,1.5,037 km S 64° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+360,2024-02-22 17:27:00+00:00,6.53,125.12,26,1.6,018 km S 56° W of Kiblawan (Davao Del Sur),Ms,TECTONIC
+361,2024-02-22 16:42:36+00:00,9.04,126.03,28,1.6,010 km N 08° W of San Miguel (Surigao Del Sur),Ms,TECTONIC
+362,2024-02-22 16:41:19+00:00,5.71,125.06,27,1.8,018 km S 23° E of Maasim (Sarangani),Ms,TECTONIC
+363,2024-02-22 16:29:57+00:00,8.63,126.27,26,1.7,014 km S 21° E of San Agustin (Surigao Del Sur),Ms,TECTONIC
+364,2024-02-22 16:23:05+00:00,5.0,126.58,3,2.8,134 km S 67° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+365,2024-02-22 15:53:49+00:00,5.72,126.58,26,2.3,105 km S 78° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+366,2024-02-22 15:36:15+00:00,10.76,122.9,14,2.3,010 km S 63° W of City Of Silay (Negros Occidental),Ms,TECTONIC
+367,2024-02-22 15:25:09+00:00,11.75,124.28,8,1.9,008 km S 68° W of Maripipi (Biliran),Ms,TECTONIC
+368,2024-02-22 15:16:29+00:00,17.83,120.51,25,1.7,007 km N 60° E of Cabugao (Ilocos Sur),Ms,TECTONIC
+369,2024-02-22 15:14:21+00:00,8.97,126.19,46,2.6,010 km S 89° W of Bayabas (Surigao Del Sur),Ms,TECTONIC
+370,2024-02-22 15:10:33+00:00,7.67,126.15,35,1.4,007 km S 88° E of Compostela (Davao De Oro),Ms,TECTONIC
+371,2024-02-22 15:02:06+00:00,8.76,126.42,23,1.9,014 km S 72° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+372,2024-02-22 14:43:46+00:00,8.76,126.54,24,1.7,027 km S 80° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+373,2024-02-22 14:00:26+00:00,8.7,126.25,30,2.0,006 km S 30° E of San Agustin (Surigao Del Sur),Ms,TECTONIC
+374,2024-02-22 13:53:45+00:00,8.82,126.56,20,3.0,029 km N 86° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+375,2024-02-22 13:50:54+00:00,11.01,126.27,34,2.3,060 km S 87° E of Guiuan (Eastern Samar),Ms,TECTONIC
+376,2024-02-22 13:34:33+00:00,7.62,124.7,26,1.6,003 km S 63° W of Wao (Lanao Del Sur),Ms,TECTONIC
+377,2024-02-22 13:28:42+00:00,13.11,123.23,35,1.7,024 km N 05° W of Claveria (Masbate),Ms,TECTONIC
+378,2024-02-22 13:26:28+00:00,8.98,126.29,49,2.5,007 km N 12° W of Cagwait (Surigao Del Sur),Ms,TECTONIC
+379,2024-02-22 12:31:25+00:00,8.71,126.49,28,1.9,023 km S 64° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+380,2024-02-22 12:31:18+00:00,18.73,120.92,14,2.0,021 km N 52° W of Claveria (Cagayan),Ms,TECTONIC
+381,2024-02-22 12:23:22+00:00,5.36,125.35,19,2.2,010 km S 52° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+382,2024-02-22 12:14:56+00:00,13.72,120.57,88,1.5,013 km S 28° W of Calatagan (Batangas),Ms,TECTONIC
+383,2024-02-22 11:46:38+00:00,8.99,126.24,29,2.6,005 km N 67° W of Bayabas (Surigao Del Sur),Ms,TECTONIC
+384,2024-02-22 11:43:16+00:00,8.97,126.25,48,4.9,004 km West of Bayabas (Surigao Del Sur),Mw,TECTONIC
+385,2024-02-22 11:33:05+00:00,8.3,122.94,34,1.6,010 km N 39° W of Sindangan (Zamboanga Del Norte),Ms,TECTONIC
+386,2024-02-22 11:24:23+00:00,6.76,125.04,3,2.3,012 km N 46° E of Columbio (Sultan Kudarat),Ms,TECTONIC
+387,2024-02-22 11:18:34+00:00,6.36,124.69,32,1.5,007 km S 72° W of Surallah (South Cotabato),Ms,TECTONIC
+388,2024-02-22 11:15:25+00:00,9.57,126.08,7,1.7,013 km S 65° E of Socorro (Surigao Del Norte),Ms,TECTONIC
+389,2024-02-22 11:03:44+00:00,7.72,122.25,11,1.9,012 km N 83° E of Siocon (Zamboanga Del Norte),Ms,TECTONIC
+390,2024-02-22 10:59:27+00:00,9.62,125.32,25,1.8,009 km N 87° W of Malimono (Surigao Del Norte),Ms,TECTONIC
+391,2024-02-22 10:29:03+00:00,9.53,125.46,31,1.9,008 km S 78° W of Mainit (Surigao Del Norte),Ms,TECTONIC
+392,2024-02-22 10:22:00+00:00,6.26,126.02,12,1.9,037 km N 80° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+393,2024-02-22 10:03:31+00:00,6.97,123.89,30,1.7,018 km S 53° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),Ms,TECTONIC
+394,2024-02-22 09:59:23+00:00,8.71,123.3,22,1.7,015 km N 20° W of City Of Dipolog (Zamboanga Del Norte),Ms,TECTONIC
+395,2024-02-22 09:24:43+00:00,13.2,122.42,9,2.3,020 km S 35° W of San Francisco (Quezon),Ms,TECTONIC
+396,2024-02-22 09:19:40+00:00,9.86,126.01,32,1.5,004 km S 79° E of Del Carmen (Surigao Del Norte),Ms,TECTONIC
+397,2024-02-22 08:18:35+00:00,13.65,120.63,118,2.1,020 km S 02° W of Calatagan (Batangas),Ms,TECTONIC
+398,2024-02-22 07:04:37+00:00,16.15,122.01,12,2.4,006 km N 77° E of Dinalungan (Aurora),Ms,TECTONIC
+399,2024-02-22 05:03:20+00:00,18.22,120.59,15,3.9,004 km S 32° W of Bacarra (Ilocos Norte),Ms,TECTONIC
+400,2024-02-22 04:46:02+00:00,8.36,126.73,32,1.5,043 km S 89° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+401,2024-02-22 04:19:14+00:00,7.64,126.76,27,2.5,023 km N 70° E of Baganga (Davao Oriental),Ms,TECTONIC
+402,2024-02-22 03:27:52+00:00,9.27,125.97,65,2.2,002 km N 17° E of Madrid (Surigao Del Sur),Ms,TECTONIC
+403,2024-02-22 03:04:44+00:00,13.82,120.56,82,1.9,008 km S 82° W of Calatagan (Batangas),Ms,TECTONIC
+404,2024-02-22 02:55:37+00:00,8.69,124.71,19,2.2,009 km S 50° W of Balingasag (Misamis Oriental),Ms,TECTONIC
+405,2024-02-22 02:47:25+00:00,10.87,124.86,41,1.5,011 km N 45° W of Javier (Leyte),Ms,TECTONIC
+406,2024-02-22 02:36:30+00:00,17.22,119.98,3,2.7,049 km N 84° W of City Of Candon (Ilocos Sur),Ms,TECTONIC
+407,2024-02-22 02:26:23+00:00,8.19,126.45,33,1.7,015 km S 79° E of City Of Bislig (Surigao Del Sur),Ms,TECTONIC
+408,2024-02-22 02:06:49+00:00,16.16,120.12,23,1.7,010 km N 13° E of Sual (Pangasinan),Ms,TECTONIC
+409,2024-02-22 01:53:20+00:00,10.24,124.85,2,1.7,009 km S 54° E of Matalom (Leyte),Ms,TECTONIC
+410,2024-02-22 01:51:18+00:00,13.88,120.51,83,2.3,014 km N 68° W of Calatagan (Batangas),Ms,TECTONIC
+411,2024-02-22 01:47:56+00:00,8.72,126.24,33,1.7,004 km S 34° E of San Agustin (Surigao Del Sur),Ms,TECTONIC
+412,2024-02-22 01:18:25+00:00,8.55,126.28,33,1.6,017 km N 52° E of Tagbina (Surigao Del Sur),Ms,TECTONIC
+413,2024-02-22 00:43:01+00:00,12.73,124.06,5,3.2,004 km N 42° E of Irosin (Sorsogon),ML,VOLCANO-TECTONIC
+414,2024-02-22 00:09:53+00:00,8.56,126.54,34,1.7,031 km N 46° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+415,2024-02-21 23:05:19+00:00,8.51,126.74,4,2.1,047 km N 71° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+416,2024-02-21 22:55:55+00:00,5.73,125.21,26,1.5,010 km S 03° E of Glan (Sarangani),Ms,TECTONIC
+417,2024-02-21 21:56:14+00:00,15.2,119.82,11,2.3,022 km S 52° W of Iba (Zambales),Ms,TECTONIC
+418,2024-02-21 20:56:34+00:00,7.53,122.17,5,2.0,006 km S 27° E of Sirawai (Zamboanga Del Norte),Ms,TECTONIC
+419,2024-02-21 20:39:06+00:00,18.87,121.08,7,3.8,029 km N 01° W of Claveria (Cagayan),Ms,TECTONIC
+420,2024-02-21 20:31:57+00:00,9.83,122.2,23,2.6,026 km N 76° W of City Of Sipalay (Negros Occidental),Ms,TECTONIC
+421,2024-02-21 19:27:45+00:00,14.59,122.21,4,1.8,017 km S 50° W of Jomalig (Quezon),Ms,TECTONIC
+422,2024-02-21 19:07:58+00:00,13.6,120.66,110,1.6,018 km N 24° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+423,2024-02-21 18:22:03+00:00,14.57,122.21,6,2.0,019 km S 43° W of Jomalig (Quezon),Ms,TECTONIC
+424,2024-02-21 17:57:59+00:00,8.96,126.26,27,2.4,003 km S 61° W of Bayabas (Surigao Del Sur),Ms,TECTONIC
+425,2024-02-21 17:31:00+00:00,6.14,126.4,49,2.3,068 km S 33° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+426,2024-02-21 17:02:17+00:00,8.16,126.91,1,2.3,057 km N 76° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+427,2024-02-21 16:59:31+00:00,6.5,124.61,33,1.3,006 km S 65° W of Norala (South Cotabato),Ms,TECTONIC
+428,2024-02-21 16:50:12+00:00,6.53,126.29,22,2.0,027 km S 61° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+429,2024-02-21 16:48:48+00:00,6.51,126.84,28,2.6,074 km S 36° E of Tarragona (Davao Oriental),Ms,TECTONIC
+430,2024-02-21 16:28:57+00:00,8.95,126.32,21,1.8,004 km N 38° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+431,2024-02-21 16:27:52+00:00,9.08,126.47,26,1.7,024 km N 59° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+432,2024-02-21 16:22:36+00:00,19.32,121.21,28,2.5,024 km N 01° E of Dalupiri Island (Calayan) (Cagayan),Ms,TECTONIC
+433,2024-02-21 15:56:56+00:00,13.83,120.5,97,2.6,014 km S 89° W of Calatagan (Batangas),Ms,TECTONIC
+434,2024-02-21 15:48:40+00:00,8.22,126.48,32,2.0,018 km N 86° E of City Of Bislig (Surigao Del Sur),Ms,TECTONIC
+435,2024-02-21 15:22:18+00:00,8.53,126.6,20,4.2,034 km N 58° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+436,2024-02-21 15:22:02+00:00,14.59,122.23,1,3.8,016 km S 44° W of Jomalig (Quezon),Ms,TECTONIC
+437,2024-02-21 14:59:50+00:00,14.75,122.33,1,3.0,006 km N 02° W of Jomalig (Quezon),Ms,TECTONIC
+438,2024-02-21 14:29:46+00:00,13.44,120.26,21,2.0,022 km N 84° W of Paluan (Occidental Mindoro),Ms,TECTONIC
+439,2024-02-21 13:59:46+00:00,6.4,126.2,74,2.1,032 km S 27° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+440,2024-02-21 13:59:12+00:00,6.06,124.41,33,1.5,009 km S 87° W of Maitum (Sarangani),Ms,TECTONIC
+441,2024-02-21 12:41:07+00:00,9.94,126.3,22,2.0,023 km N 41° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+442,2024-02-21 12:22:05+00:00,9.71,126.08,25,1.4,012 km S 46° W of General Luna (Surigao Del Norte),Ms,TECTONIC
+443,2024-02-21 12:07:04+00:00,7.28,122.9,1,2.5,007 km S 65° E of Olutanga (Zamboanga Sibugay),Ms,TECTONIC
+444,2024-02-21 12:03:34+00:00,5.1,126.55,58,3.2,129 km S 75° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+445,2024-02-21 10:18:27+00:00,13.93,120.52,74,1.7,016 km N 48° W of Calatagan (Batangas),Ms,TECTONIC
+446,2024-02-21 09:39:48+00:00,5.33,126.44,127,2.4,109 km S 54° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+447,2024-02-21 09:16:18+00:00,13.9,120.39,67,2.1,025 km N 37° E of Looc (Occidental Mindoro),Ms,TECTONIC
+448,2024-02-21 06:17:04+00:00,10.21,124.91,10,2.0,011 km N 42° E of City Of Maasin (Southern Leyte),Ms,TECTONIC
+449,2024-02-21 05:24:59+00:00,7.89,122.01,23,2.5,017 km N 61° W of Baliguian (Zamboanga Del Norte),Ms,TECTONIC
+450,2024-02-21 04:11:25+00:00,8.45,126.45,30,3.1,016 km N 53° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+451,2024-02-21 04:03:59+00:00,8.52,126.16,41,2.2,025 km N 49° W of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+452,2024-02-21 03:52:57+00:00,8.29,126.67,32,1.5,037 km S 78° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+453,2024-02-21 03:46:39+00:00,14.3,120.35,114,1.7,021 km S 46° W of Mariveles (Bataan),Ms,TECTONIC
+454,2024-02-21 02:53:17+00:00,8.41,126.19,27,1.5,006 km S 25° E of Tagbina (Surigao Del Sur),Ms,TECTONIC
+455,2024-02-21 02:25:01+00:00,10.23,124.95,2,2.2,009 km S 25° W of Tomas Oppus (Southern Leyte),Ms,TECTONIC
+456,2024-02-21 02:16:55+00:00,5.93,125.65,55,2.1,002 km N 25° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+457,2024-02-21 01:56:21+00:00,6.93,126.11,82,2.4,012 km S 77° W of City Of Mati (Davao Oriental),Ms,TECTONIC
+458,2024-02-21 01:09:46+00:00,8.06,126.62,14,1.7,022 km N 84° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+459,2024-02-20 23:21:07+00:00,9.07,126.42,24,2.8,018 km N 55° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+460,2024-02-20 20:52:42+00:00,10.21,124.95,1,4.0,008 km N 43° W of Malitbog (Southern Leyte),Ms,TECTONIC
+461,2024-02-20 20:15:24+00:00,10.28,124.89,1,3.2,010 km S 76° W of Tomas Oppus (Southern Leyte),Ms,TECTONIC
+462,2024-02-20 20:14:41+00:00,10.27,124.98,1,2.8,004 km S 05° E of Tomas Oppus (Southern Leyte),Ms,TECTONIC
+463,2024-02-20 20:01:54+00:00,11.59,125.79,16,3.3,033 km N 73° E of Maydolong (Eastern Samar),Ms,TECTONIC
+464,2024-02-20 19:48:37+00:00,10.24,124.97,1,3.8,008 km S 06° W of Tomas Oppus (Southern Leyte),Ms,TECTONIC
+465,2024-02-20 19:16:45+00:00,10.25,124.94,1,2.3,007 km S 34° W of Tomas Oppus (Southern Leyte),Ms,TECTONIC
+466,2024-02-20 19:15:49+00:00,6.21,126.97,75,2.5,109 km S 32° E of Tarragona (Davao Oriental),Ms,TECTONIC
+467,2024-02-20 19:07:09+00:00,10.25,124.91,1,2.3,010 km S 54° W of Tomas Oppus (Southern Leyte),Ms,TECTONIC
+468,2024-02-20 19:05:25+00:00,18.61,120.78,22,2.8,006 km N 09° W of Pagudpud (Ilocos Norte),Ms,TECTONIC
+469,2024-02-20 18:31:04+00:00,10.24,124.95,3,3.5,008 km S 27° W of Tomas Oppus (Southern Leyte),Ms,TECTONIC
+470,2024-02-20 18:29:29+00:00,10.27,124.96,1,2.2,005 km S 23° W of Tomas Oppus (Southern Leyte),Ms,TECTONIC
+471,2024-02-20 18:11:09+00:00,13.94,120.45,134,2.1,023 km N 58° W of Calatagan (Batangas),Ms,TECTONIC
+472,2024-02-20 17:58:34+00:00,20.58,120.16,33,2.8,176 km S 82° W of Itbayat (Batanes),Ms,TECTONIC
+473,2024-02-20 17:57:41+00:00,10.27,124.95,1,3.4,005 km S 39° W of Tomas Oppus (Southern Leyte),Ms,TECTONIC
+474,2024-02-20 16:16:27+00:00,17.28,120.46,3,4.2,005 km N 18° W of Banayoyo (Ilocos Sur),Ms,TECTONIC
+475,2024-02-20 14:31:27+00:00,8.46,127.04,1,1.9,078 km N 83° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+476,2024-02-20 14:30:12+00:00,9.03,126.03,57,1.7,010 km N 06° W of San Miguel (Surigao Del Sur),Ms,TECTONIC
+477,2024-02-20 13:44:03+00:00,8.77,126.74,10,3.5,049 km S 87° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+478,2024-02-20 12:30:18+00:00,7.08,126.93,8,2.9,045 km S 72° E of Manay (Davao Oriental),Ms,TECTONIC
+479,2024-02-20 10:57:18+00:00,5.41,126.61,23,3.0,120 km S 63° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+480,2024-02-20 09:51:43+00:00,8.36,126.72,1,2.4,043 km S 89° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+481,2024-02-20 07:32:06+00:00,8.59,126.7,12,1.8,046 km N 59° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+482,2024-02-20 07:11:01+00:00,8.57,126.07,25,1.6,007 km N 53° W of Barobo (Surigao Del Sur),Ms,TECTONIC
+483,2024-02-20 07:07:29+00:00,8.83,127.29,32,2.8,109 km S 85° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+484,2024-02-20 06:55:10+00:00,14.16,120.54,1,1.4,014 km N 46° W of Nasugbu (Batangas),Ms,TECTONIC
+485,2024-02-20 05:58:33+00:00,8.43,126.31,32,1.4,008 km N 20° W of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+486,2024-02-20 02:28:49+00:00,19.0,120.04,13,3.2,084 km N 50° W of Burgos (Ilocos Norte),Ms,TECTONIC
+487,2024-02-20 01:22:21+00:00,9.25,126.16,5,1.4,004 km S 49° W of Cortes (Surigao Del Sur),Ms,TECTONIC
+488,2024-02-20 01:17:11+00:00,5.32,125.64,113,2.3,026 km S 48° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+489,2024-02-19 23:42:22+00:00,8.93,126.44,15,3.5,015 km N 84° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+490,2024-02-19 17:40:21+00:00,8.11,127.54,31,1.8,123 km N 62° E of Baganga (Davao Oriental),Ms,TECTONIC
+491,2024-02-19 17:38:44+00:00,6.6,126.51,32,2.3,049 km S 83° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+492,2024-02-19 16:28:04+00:00,18.16,120.58,28,2.0,003 km S 47° W of San Nicolas (Ilocos Norte),Ms,TECTONIC
+493,2024-02-19 15:58:45+00:00,17.62,120.52,6,2.2,007 km N 46° W of Langiden (Abra),Ms,TECTONIC
+494,2024-02-19 15:41:58+00:00,17.5,120.41,1,2.4,003 km N 61° W of Santa (Ilocos Sur),Ms,TECTONIC
+495,2024-02-19 15:40:36+00:00,13.56,120.19,12,2.4,019 km S 19° W of Looc (Occidental Mindoro),Ms,TECTONIC
+496,2024-02-19 15:34:59+00:00,13.61,120.27,6,2.3,013 km S 09° E of Looc (Occidental Mindoro),Ms,TECTONIC
+497,2024-02-19 15:18:05+00:00,9.91,126.42,10,3.5,032 km N 63° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+498,2024-02-19 15:01:48+00:00,10.17,126.35,12,2.5,034 km N 61° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+499,2024-02-19 14:12:17+00:00,15.18,122.02,10,2.3,035 km N 40° E of Panukulan (Quezon),Ms,TECTONIC
+500,2024-02-19 12:22:18+00:00,13.57,120.68,6,2.4,014 km N 19° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+501,2024-02-19 12:09:25+00:00,14.94,121.97,32,1.8,011 km N 01° W of Burdeos (Quezon),Ms,TECTONIC
+502,2024-02-19 11:15:23+00:00,10.08,125.22,6,2.3,007 km N 69° E of San Francisco (Southern Leyte),Ms,TECTONIC
+503,2024-02-19 11:08:18+00:00,13.89,120.41,61,2.9,026 km N 43° E of Looc (Occidental Mindoro),Ms,TECTONIC
+504,2024-02-19 11:07:41+00:00,6.71,127.34,14,3.4,104 km S 58° E of Manay (Davao Oriental),Ms,TECTONIC
+505,2024-02-19 10:27:00+00:00,5.71,126.74,25,3.5,116 km S 80° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+506,2024-02-19 09:44:36+00:00,8.13,126.98,10,3.0,064 km N 81° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+507,2024-02-19 08:59:03+00:00,5.91,124.76,11,3.1,017 km S 58° E of Kiamba (Sarangani),Ms,TECTONIC
+508,2024-02-19 08:31:23+00:00,15.09,122.11,1,3.4,031 km N 28° E of Burdeos (Quezon),Ms,TECTONIC
+509,2024-02-19 07:40:20+00:00,10.05,125.92,31,1.8,013 km N 73° W of Santa Monica (Surigao Del Norte),Ms,TECTONIC
+510,2024-02-19 07:14:44+00:00,11.17,125.63,9,2.6,004 km N 65° W of Salcedo (Eastern Samar),Ms,TECTONIC
+511,2024-02-19 04:53:10+00:00,8.58,127.04,9,2.8,081 km N 73° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+512,2024-02-19 04:13:33+00:00,15.07,122.08,1,3.0,028 km N 27° E of Burdeos (Quezon),Ms,TECTONIC
+513,2024-02-19 03:32:29+00:00,13.58,120.42,31,2.4,019 km N 16° W of Paluan (Occidental Mindoro),Ms,TECTONIC
+514,2024-02-19 03:25:16+00:00,8.73,126.37,29,2.7,011 km S 44° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+515,2024-02-19 03:18:38+00:00,15.01,122.1,2,2.3,023 km N 37° E of Burdeos (Quezon),Ms,TECTONIC
+516,2024-02-19 03:07:49+00:00,8.01,126.45,46,2.0,005 km S 56° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+517,2024-02-19 02:33:05+00:00,4.79,127.36,125,3.2,223 km S 70° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+518,2024-02-19 02:02:26+00:00,13.56,120.25,3,3.0,018 km S 01° E of Looc (Occidental Mindoro),Ms,TECTONIC
+519,2024-02-19 01:40:51+00:00,10.01,122.35,13,2.7,028 km N 19° W of City Of Sipalay (Negros Occidental),Ms,TECTONIC
+520,2024-02-19 01:22:42+00:00,9.74,125.89,38,3.0,015 km N 32° W of Socorro (Surigao Del Norte),Ms,TECTONIC
+521,2024-02-19 01:05:39+00:00,9.28,125.62,20,2.9,007 km N 72° E of Santiago (Agusan Del Norte),Ms,TECTONIC
+522,2024-02-19 00:57:21+00:00,16.36,122.08,28,2.1,010 km N 29° W of Casiguran (Aurora),Ms,TECTONIC
+523,2024-02-18 23:13:26+00:00,8.49,127.09,25,2.5,084 km N 81° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+524,2024-02-18 22:56:33+00:00,8.87,127.33,1,3.5,114 km S 87° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+525,2024-02-18 22:54:38+00:00,9.91,126.32,13,3.3,023 km N 52° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+526,2024-02-18 22:46:22+00:00,8.8,126.9,21,2.0,066 km S 90° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+527,2024-02-18 21:58:41+00:00,8.35,125.91,9,2.9,014 km N 55° E of La Paz (Agusan Del Sur),Ms,TECTONIC
+528,2024-02-18 21:32:10+00:00,8.52,126.86,1,2.6,060 km N 73° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+529,2024-02-18 21:13:15+00:00,8.36,126.5,30,1.7,018 km S 89° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+530,2024-02-18 21:11:07+00:00,12.5,123.61,4,2.0,013 km N 73° E of Baleno (Masbate),Ms,TECTONIC
+531,2024-02-18 20:56:30+00:00,6.52,124.33,49,2.0,007 km N 05° E of Senator Ninoy Aquino (Sultan Kudarat),Ms,TECTONIC
+532,2024-02-18 20:48:36+00:00,18.85,120.93,2,2.4,036 km N 26° E of Pagudpud (Ilocos Norte),Ms,TECTONIC
+533,2024-02-18 20:42:56+00:00,8.26,125.26,4,2.5,020 km N 12° W of Cabanglasan (Bukidnon),Ms,TECTONIC
+534,2024-02-18 20:13:31+00:00,10.21,124.97,2,4.0,006 km N 36° W of Malitbog (Southern Leyte),Ms,TECTONIC
+535,2024-02-18 20:00:28+00:00,8.51,126.13,7,2.0,003 km S 17° E of Barobo (Surigao Del Sur),Ms,TECTONIC
+536,2024-02-18 19:50:10+00:00,8.35,126.87,6,2.8,058 km S 89° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+537,2024-02-18 19:49:32+00:00,17.0,121.09,25,1.7,004 km S 08° W of Barlig (Mountain Province),Ms,TECTONIC
+538,2024-02-18 19:18:58+00:00,9.77,124.88,23,2.9,027 km S 53° W of Limasawa (Southern Leyte),Ms,TECTONIC
+539,2024-02-18 18:59:55+00:00,8.7,127.01,12,2.4,079 km S 82° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+540,2024-02-18 18:49:37+00:00,9.18,126.3,7,1.6,016 km S 50° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+541,2024-02-18 18:35:26+00:00,9.54,126.55,24,2.1,049 km N 53° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+542,2024-02-18 18:22:46+00:00,19.09,120.72,15,4.7,051 km S 88° W of Dalupiri Island (Calayan) (Cagayan),Mw,TECTONIC
+543,2024-02-18 18:22:35+00:00,5.68,126.55,34,2.9,103 km S 76° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+544,2024-02-18 18:14:15+00:00,17.7,120.69,17,2.5,003 km S 44° W of Lagayan (Abra),Ms,TECTONIC
+545,2024-02-18 18:13:17+00:00,8.61,126.81,20,2.1,059 km N 63° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+546,2024-02-18 18:03:11+00:00,18.77,120.66,17,2.1,027 km N 30° W of Pagudpud (Ilocos Norte),Ms,TECTONIC
+547,2024-02-18 17:21:46+00:00,12.28,121.36,33,2.1,005 km S 14° E of Bulalacao (Oriental Mindoro),Ms,TECTONIC
+548,2024-02-18 16:55:47+00:00,9.88,124.33,7,2.3,005 km N 04° W of Pilar (Bohol),Ms,TECTONIC
+549,2024-02-18 15:57:58+00:00,8.58,121.96,1,2.7,082 km N 37° W of Gutalac (Zamboanga Del Norte),Ms,TECTONIC
+550,2024-02-18 14:54:32+00:00,11.79,125.68,16,2.5,025 km N 81° E of San Julian (Eastern Samar),Ms,TECTONIC
+551,2024-02-18 14:50:37+00:00,7.98,126.37,9,2.5,008 km S 33° W of Lingig (Surigao Del Sur),Ms,TECTONIC
+552,2024-02-18 14:44:55+00:00,7.69,127.17,1,2.1,069 km N 79° E of Baganga (Davao Oriental),Ms,TECTONIC
+553,2024-02-18 14:38:58+00:00,15.68,119.85,33,1.5,011 km N 58° W of Candelaria (Zambales),Ms,TECTONIC
+554,2024-02-18 14:34:16+00:00,9.53,126.77,16,3.2,070 km N 66° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+555,2024-02-18 14:27:24+00:00,15.36,120.6,22,1.5,002 km N 32° E of Capas (Tarlac),Ms,TECTONIC
+556,2024-02-18 14:13:58+00:00,8.76,126.56,13,1.8,029 km S 82° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+557,2024-02-18 14:13:06+00:00,8.33,126.64,30,1.8,034 km S 84° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+558,2024-02-18 13:41:04+00:00,8.83,126.44,22,3.3,016 km N 79° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+559,2024-02-18 13:04:38+00:00,8.9,126.59,19,2.7,032 km S 86° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+560,2024-02-18 12:39:07+00:00,6.28,127.16,74,2.1,116 km S 43° E of Tarragona (Davao Oriental),Ms,TECTONIC
+561,2024-02-18 12:12:13+00:00,8.6,126.52,7,2.4,033 km N 38° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+562,2024-02-18 11:55:32+00:00,8.46,127.05,11,3.5,080 km N 82° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+563,2024-02-18 11:50:13+00:00,9.26,126.42,24,1.9,025 km S 87° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+564,2024-02-18 11:48:09+00:00,9.31,125.89,117,4.3,010 km S 45° W of Carrascal (Surigao Del Sur),Ms,TECTONIC
+565,2024-02-18 11:10:06+00:00,7.02,126.71,63,3.4,028 km S 42° E of Manay (Davao Oriental),Ms,TECTONIC
+566,2024-02-18 08:21:06+00:00,16.1,120.12,3,2.7,004 km N 33° E of Sual (Pangasinan),Ms,TECTONIC
+567,2024-02-18 07:45:32+00:00,6.02,126.08,123,2.6,047 km S 65° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+568,2024-02-18 07:26:39+00:00,16.5,122.2,15,2.1,007 km S 63° W of Dinapigue (Isabela),Ms,TECTONIC
+569,2024-02-18 04:37:56+00:00,5.81,125.26,20,1.8,007 km S 83° E of Glan (Sarangani),Ms,TECTONIC
+570,2024-02-18 02:35:05+00:00,8.01,127.06,13,3.0,071 km S 87° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+571,2024-02-18 02:02:30+00:00,8.07,126.85,10,3.1,048 km N 86° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+572,2024-02-18 00:28:55+00:00,6.97,127.14,16,2.4,072 km S 68° E of Manay (Davao Oriental),Ms,TECTONIC
+573,2024-02-17 23:58:30+00:00,10.23,124.86,6,1.8,011 km N 13° E of City Of Maasin (Southern Leyte),Ms,TECTONIC
+574,2024-02-17 23:39:24+00:00,7.72,126.72,23,2.5,024 km N 47° E of Baganga (Davao Oriental),Ms,TECTONIC
+575,2024-02-17 23:07:54+00:00,5.78,124.97,62,2.2,009 km S 18° W of Maasim (Sarangani),Ms,TECTONIC
+576,2024-02-17 21:07:25+00:00,10.41,126.63,17,2.8,074 km N 55° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+577,2024-02-17 20:25:42+00:00,4.93,125.97,78,3.1,081 km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+578,2024-02-17 19:17:40+00:00,5.0,124.29,23,2.8,115 km S 19° W of Kiamba (Sarangani),Ms,TECTONIC
+579,2024-02-17 18:27:54+00:00,9.36,126.1,83,2.4,013 km N 48° W of Cortes (Surigao Del Sur),Ms,TECTONIC
+580,2024-02-17 18:24:25+00:00,7.31,126.74,118,2.1,019 km S 83° E of Caraga (Davao Oriental),Ms,TECTONIC
+581,2024-02-17 18:24:18+00:00,8.56,125.86,34,1.6,008 km S 56° W of Prosperidad (Agusan Del Sur),Ms,TECTONIC
+582,2024-02-17 18:20:29+00:00,8.56,125.57,22,2.3,016 km S 32° W of Esperanza (Agusan Del Sur),Ms,TECTONIC
+583,2024-02-17 17:11:17+00:00,8.4,125.94,19,3.1,007 km N 72° W of Rosario (Agusan Del Sur),Ms,TECTONIC
+584,2024-02-17 16:59:21+00:00,9.12,126.73,2,2.5,052 km N 71° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+585,2024-02-17 16:29:38+00:00,7.79,127.08,2,2.8,062 km N 68° E of Baganga (Davao Oriental),Ms,TECTONIC
+586,2024-02-17 16:08:26+00:00,13.47,120.15,17,3.0,030 km S 22° W of Looc (Occidental Mindoro),Ms,TECTONIC
+587,2024-02-17 15:37:07+00:00,6.55,126.42,23,3.3,040 km S 73° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+588,2024-02-17 15:21:08+00:00,8.07,126.58,23,2.6,019 km N 78° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+589,2024-02-17 13:28:21+00:00,8.82,126.65,29,2.1,047 km N 80° E of San Agustin (Surigao Del Sur),Ms,TECTONIC
+590,2024-02-17 12:52:08+00:00,9.01,126.42,27,2.2,016 km N 53° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+591,2024-02-17 11:08:31+00:00,12.21,125.93,19,2.9,046 km N 86° E of San Policarpo (Eastern Samar),Ms,TECTONIC
+592,2024-02-17 10:46:59+00:00,3.53,124.98,317,3.7,213 km S 13° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+593,2024-02-17 10:43:37+00:00,9.48,126.3,21,2.1,026 km N 27° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+594,2024-02-17 10:20:37+00:00,8.97,125.95,35,1.7,010 km N 75° W of San Miguel (Surigao Del Sur),Ms,TECTONIC
+595,2024-02-17 10:19:30+00:00,6.02,126.18,131,2.2,057 km S 70° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+596,2024-02-17 10:07:10+00:00,7.59,124.91,13,2.0,001 km S 22° E of Kadingilan (Bukidnon),Ms,TECTONIC
+597,2024-02-17 08:36:12+00:00,9.18,126.66,11,2.3,047 km N 61° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+598,2024-02-17 08:24:10+00:00,8.84,127.33,33,3.1,113 km N 88° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+599,2024-02-17 08:08:50+00:00,8.35,126.41,32,1.8,009 km S 77° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+600,2024-02-17 07:57:18+00:00,8.54,126.01,22,1.6,012 km N 82° W of Barobo (Surigao Del Sur),Ms,TECTONIC
+601,2024-02-17 07:28:13+00:00,8.36,126.64,30,2.0,033 km S 88° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+602,2024-02-17 06:18:59+00:00,16.97,119.9,16,3.1,053 km N 76° W of Luna (La Union),Ms,TECTONIC
+603,2024-02-17 05:24:18+00:00,9.2,126.33,23,2.9,017 km S 61° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+604,2024-02-17 03:32:12+00:00,8.9,127.22,33,1.8,101 km S 89° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+605,2024-02-17 03:22:54+00:00,13.34,121.25,36,1.6,006 km N 71° W of Naujan (Oriental Mindoro),Ms,TECTONIC
+606,2024-02-17 03:11:29+00:00,5.76,127.14,36,2.0,154 km S 50° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+607,2024-02-17 02:37:55+00:00,8.46,126.65,29,2.9,036 km N 73° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+608,2024-02-17 01:36:49+00:00,8.41,125.83,40,1.8,007 km S 44° E of Talacogon (Agusan Del Sur),Ms,TECTONIC
+609,2024-02-17 01:25:04+00:00,8.59,126.07,28,1.8,005 km S 24° W of Lianga (Surigao Del Sur),Ms,TECTONIC
+610,2024-02-17 01:19:58+00:00,8.75,126.24,33,1.6,001 km N 77° E of San Agustin (Surigao Del Sur),Ms,TECTONIC
+611,2024-02-17 01:10:52+00:00,13.74,120.6,100,2.0,011 km S 16° W of Calatagan (Batangas),Ms,TECTONIC
+612,2024-02-17 00:28:48+00:00,7.24,123.59,32,2.0,032 km S 39° E of Tabina (Zamboanga Del Sur),Ms,TECTONIC
+613,2024-02-16 22:28:44+00:00,8.11,126.96,8,3.3,061 km N 83° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+614,2024-02-16 22:08:46+00:00,17.22,120.65,16,2.7,008 km S 80° E of San Emilio (Ilocos Sur),Ms,TECTONIC
+615,2024-02-16 22:03:29+00:00,8.84,126.19,88,2.8,011 km N 18° W of San Agustin (Surigao Del Sur),Ms,TECTONIC
+616,2024-02-16 21:48:16+00:00,14.04,121.24,35,1.3,003 km S 11° W of Alaminos (Laguna),Ms,TECTONIC
+617,2024-02-16 21:14:13+00:00,15.58,119.97,49,1.7,005 km N 18° E of Masinloc (Zambales),Ms,TECTONIC
+618,2024-02-16 21:05:05+00:00,9.17,124.62,33,1.7,008 km N 51° W of Catarman (Camiguin),Ms,TECTONIC
+619,2024-02-16 20:31:32+00:00,17.22,120.2,29,2.2,027 km N 78° W of City Of Candon (Ilocos Sur),Ms,TECTONIC
+620,2024-02-16 20:12:56+00:00,8.31,126.46,34,1.9,015 km S 65° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+621,2024-02-16 20:07:35+00:00,5.48,126.26,27,2.5,084 km S 55° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+622,2024-02-16 19:41:04+00:00,8.69,127.31,22,4.0,112 km S 84° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+623,2024-02-16 19:19:54+00:00,14.14,121.2,6,1.7,005 km S 30° W of Los Baños (Laguna),Ms,TECTONIC
+624,2024-02-16 19:15:56+00:00,8.44,126.6,10,2.4,030 km N 75° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+625,2024-02-16 19:09:17+00:00,14.13,121.23,11,1.6,005 km S 05° E of Los Baños (Laguna),Ms,TECTONIC
+626,2024-02-16 19:07:44+00:00,14.15,121.21,34,1.7,003 km S 22° W of Los Baños (Laguna),Ms,TECTONIC
+627,2024-02-16 19:06:32+00:00,8.86,126.76,9,3.3,051 km S 83° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+628,2024-02-16 18:45:33+00:00,13.43,121.28,33,1.7,012 km N 62° E of City Of Calapan (Oriental Mindoro),Ms,TECTONIC
+629,2024-02-16 18:41:54+00:00,9.14,126.45,21,2.2,027 km N 44° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+630,2024-02-16 18:27:26+00:00,8.22,125.94,17,2.0,007 km N 57° W of Bunawan (Agusan Del Sur),Ms,TECTONIC
+631,2024-02-16 18:17:09+00:00,5.7,126.5,1,2.3,098 km S 76° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+632,2024-02-16 17:56:41+00:00,15.6,121.13,40,1.8,004 km S 29° W of Bongabon (Nueva Ecija),Ms,TECTONIC
+633,2024-02-16 17:54:17+00:00,9.26,125.73,6,2.8,019 km S 90° E of Santiago (Agusan Del Norte),Ms,TECTONIC
+634,2024-02-16 17:26:11+00:00,8.34,126.58,16,3.6,027 km S 83° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+635,2024-02-16 16:51:49+00:00,5.97,125.04,32,2.6,013 km N 23° E of Maasim (Sarangani),Ms,TECTONIC
+636,2024-02-16 15:46:46+00:00,9.76,124.66,25,2.0,010 km N 76° E of Anda (Bohol),Ms,TECTONIC
+637,2024-02-16 15:46:01+00:00,18.1,120.41,29,2.4,012 km N 44° W of Currimao (Ilocos Norte),Ms,TECTONIC
+638,2024-02-16 15:37:26+00:00,7.8,126.68,35,2.0,024 km N 88° E of Cateel (Davao Oriental),Ms,TECTONIC
+639,2024-02-16 15:35:38+00:00,8.61,126.53,27,1.7,034 km N 39° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+640,2024-02-16 15:34:38+00:00,8.26,126.68,31,1.8,039 km N 54° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+641,2024-02-16 15:31:52+00:00,8.25,122.86,24,2.5,013 km N 35° W of Leon B. Postigo (Zamboanga Del Norte),Ms,TECTONIC
+642,2024-02-16 15:25:13+00:00,8.29,126.85,5,3.0,056 km N 60° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+643,2024-02-16 15:05:56+00:00,18.59,120.85,21,2.3,007 km N 62° E of Pagudpud (Ilocos Norte),Ms,TECTONIC
+644,2024-02-16 15:03:00+00:00,7.88,126.77,14,2.0,037 km N 75° E of Cateel (Davao Oriental),Ms,TECTONIC
+645,2024-02-16 14:34:13+00:00,9.25,126.61,50,1.8,015 km N 88° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+646,2024-02-16 14:22:14+00:00,7.74,125.68,23,2.5,005 km S 75° W of San Isidro (Davao Del Norte),Ms,TECTONIC
+647,2024-02-16 13:50:11+00:00,8.07,126.75,15,3.3,037 km N 84° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+648,2024-02-16 13:35:28+00:00,7.93,126.52,24,1.7,017 km N 67° E of Boston (Davao Oriental),Ms,TECTONIC
+649,2024-02-16 13:24:40+00:00,9.52,126.87,33,2.2,079 km N 70° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+650,2024-02-16 13:17:09+00:00,10.04,122.25,24,2.5,036 km N 34° W of City Of Sipalay (Negros Occidental),Ms,TECTONIC
+651,2024-02-16 12:16:46+00:00,7.42,122.87,7,2.6,004 km N 86° E of Mabuhay (Zamboanga Sibugay),Ms,TECTONIC
+652,2024-02-16 11:34:05+00:00,8.33,126.6,28,2.0,029 km S 82° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+653,2024-02-16 10:32:27+00:00,13.87,120.3,52,2.9,017 km N 18° E of Looc (Occidental Mindoro),Ms,TECTONIC
+654,2024-02-16 10:05:10+00:00,6.74,123.63,1,3.5,049 km N 77° W of Lebak (Sultan Kudarat),Ms,TECTONIC
+655,2024-02-16 10:03:33+00:00,9.61,126.11,10,2.2,015 km S 85° E of Socorro (Surigao Del Norte),Ms,TECTONIC
+656,2024-02-16 09:36:49+00:00,9.14,126.91,6,2.1,071 km N 75° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+657,2024-02-16 08:01:38+00:00,9.33,126.39,15,3.7,022 km N 74° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+658,2024-02-16 06:05:40+00:00,3.28,125.85,157,4.1,241 km S 11° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+659,2024-02-16 05:20:52+00:00,12.27,123.82,3,2.2,006 km N 33° E of Uson (Masbate),Ms,TECTONIC
+660,2024-02-16 04:46:16+00:00,9.57,122.83,4,2.1,021 km N 13° E of City Of Bayawan (Negros Oriental),Ms,TECTONIC
+661,2024-02-16 04:30:06+00:00,10.47,126.3,23,2.5,056 km N 26° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+662,2024-02-16 02:36:07+00:00,7.62,124.72,7,2.4,002 km S 09° W of Wao (Lanao Del Sur),Ms,TECTONIC
+663,2024-02-16 02:33:58+00:00,8.67,127.18,26,3.0,098 km S 81° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+664,2024-02-16 01:42:41+00:00,9.87,124.88,8,2.3,022 km S 77° W of Limasawa (Southern Leyte),Ms,TECTONIC
+665,2024-02-16 01:24:28+00:00,13.74,120.61,94,1.8,011 km S 12° W of Calatagan (Batangas),Ms,TECTONIC
+666,2024-02-16 00:26:43+00:00,7.62,124.73,7,3.2,003 km S 23° E of Wao (Lanao Del Sur),Ms,TECTONIC
+667,2024-02-15 23:58:09+00:00,8.68,126.39,35,4.7,016 km S 36° E of Marihatag (Surigao Del Sur),Mw,TECTONIC
+668,2024-02-15 23:50:32+00:00,8.18,126.72,28,1.5,037 km N 64° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+669,2024-02-15 23:44:38+00:00,17.57,120.65,8,2.5,001 km N 75° E of Peñarrubia (Abra),Ms,TECTONIC
+670,2024-02-15 23:16:32+00:00,8.38,126.59,20,3.1,027 km N 87° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+671,2024-02-15 22:30:05+00:00,8.35,125.9,9,2.6,016 km S 49° E of Talacogon (Agusan Del Sur),Ms,TECTONIC
+672,2024-02-15 22:24:15+00:00,7.47,124.72,33,1.4,005 km S 37° E of Banisilan (Cotabato),Ms,TECTONIC
+673,2024-02-15 22:01:10+00:00,19.24,121.24,11,3.5,015 km N 12° E of Dalupiri Island (Calayan) (Cagayan),Ms,TECTONIC
+674,2024-02-15 21:55:15+00:00,19.3,121.08,1,3.8,025 km N 32° W of Dalupiri Island (Calayan) (Cagayan),Ms,TECTONIC
+675,2024-02-15 21:45:53+00:00,13.83,120.59,96,1.8,005 km N 89° W of Calatagan (Batangas),Ms,TECTONIC
+676,2024-02-15 20:59:01+00:00,9.2,126.43,29,1.6,027 km S 73° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+677,2024-02-15 20:49:09+00:00,5.85,125.07,19,1.8,009 km S 76° E of Maasim (Sarangani),Ms,TECTONIC
+678,2024-02-15 19:47:55+00:00,17.66,120.58,1,3.4,008 km N 30° W of Bangued (Abra),Ms,TECTONIC
+679,2024-02-15 19:34:02+00:00,5.68,124.33,26,3.3,045 km S 23° W of Maitum (Sarangani),Ms,TECTONIC
+680,2024-02-15 19:30:19+00:00,6.06,126.96,133,2.4,118 km S 56° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+681,2024-02-15 18:53:01+00:00,8.75,126.47,15,4.5,020 km S 73° E of Marihatag (Surigao Del Sur),Mw,TECTONIC
+682,2024-02-15 18:45:07+00:00,8.58,126.53,21,2.6,032 km N 42° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+683,2024-02-15 18:38:57+00:00,4.57,124.29,15,1.9,156 km S 54° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+684,2024-02-15 18:30:01+00:00,19.66,121.51,33,1.6,045 km N 68° W of Babuyan Island (Calayan) (Cagayan),Ms,TECTONIC
+685,2024-02-15 18:18:25+00:00,9.9,126.16,33,1.4,008 km N 60° E of Pilar (Surigao Del Norte),Ms,TECTONIC
+686,2024-02-15 18:03:20+00:00,18.8,120.91,21,2.9,028 km N 39° W of Claveria (Cagayan),Ms,TECTONIC
+687,2024-02-15 17:58:55+00:00,8.64,125.58,21,2.3,008 km S 60° W of Esperanza (Agusan Del Sur),Ms,TECTONIC
+688,2024-02-15 17:33:02+00:00,14.11,119.81,34,1.4,044 km N 50° W of Lubang (Occidental Mindoro),Ms,TECTONIC
+689,2024-02-15 17:30:33+00:00,8.7,126.43,24,1.8,018 km S 52° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+690,2024-02-15 17:28:14+00:00,10.16,122.24,19,2.3,046 km S 48° E of Anini-y (Antique),Ms,TECTONIC
+691,2024-02-15 16:59:35+00:00,18.57,119.96,38,2.3,075 km N 69° W of Pasuquin (Ilocos Norte),Ms,TECTONIC
+692,2024-02-15 16:49:26+00:00,6.79,124.91,1,1.9,006 km N 42° E of Datu Paglas (Maguindanao Del Sur),Ms,TECTONIC
+693,2024-02-15 16:36:23+00:00,5.19,127.23,38,2.4,193 km S 65° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+694,2024-02-15 16:12:17+00:00,8.41,126.37,29,1.6,006 km N 34° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+695,2024-02-15 16:00:56+00:00,8.27,127.08,8,3.1,078 km N 71° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+696,2024-02-15 15:07:09+00:00,6.1,125.86,126,2.6,021 km S 61° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+697,2024-02-15 15:00:52+00:00,8.17,126.72,16,2.2,037 km N 66° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+698,2024-02-15 14:55:57+00:00,8.26,126.79,14,1.6,048 km N 60° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+699,2024-02-15 14:53:41+00:00,8.29,126.88,15,2.8,059 km N 62° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+700,2024-02-15 13:45:52+00:00,17.0,120.37,18,2.3,013 km S 46° W of Santa Cruz (Ilocos Sur),Ms,TECTONIC
+701,2024-02-15 13:36:35+00:00,8.46,126.72,20,2.3,044 km N 76° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+702,2024-02-15 13:32:09+00:00,10.45,126.05,24,1.8,048 km N 03° W of Burgos (Surigao Del Norte),Ms,TECTONIC
+703,2024-02-15 12:18:47+00:00,9.04,126.67,14,1.6,042 km N 72° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+704,2024-02-15 12:02:09+00:00,18.88,120.97,26,3.3,033 km N 20° W of Claveria (Cagayan),Ms,TECTONIC
+705,2024-02-15 11:57:43+00:00,8.88,126.63,24,1.7,036 km S 83° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+706,2024-02-15 11:37:52+00:00,8.08,126.81,13,2.4,044 km N 84° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+707,2024-02-15 10:07:09+00:00,13.74,120.82,10,2.0,013 km S 86° W of Mabini (Batangas),Ms,TECTONIC
+708,2024-02-15 09:55:21+00:00,10.54,122.29,18,2.7,013 km S 30° E of Miagao (Iloilo),Ms,TECTONIC
+709,2024-02-15 09:48:43+00:00,8.69,126.24,32,1.5,007 km S 19° E of San Agustin (Surigao Del Sur),Ms,TECTONIC
+710,2024-02-15 09:17:55+00:00,7.35,126.29,34,1.8,019 km N 78° E of Maragusan (Davao De Oro),Ms,TECTONIC
+711,2024-02-15 07:49:21+00:00,8.34,126.65,25,2.1,034 km S 84° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+712,2024-02-15 07:44:28+00:00,8.02,126.41,26,1.9,003 km S 12° W of Lingig (Surigao Del Sur),Ms,TECTONIC
+713,2024-02-15 04:34:06+00:00,7.6,124.87,4,2.6,004 km S 89° W of Kadingilan (Bukidnon),Ms,TECTONIC
+714,2024-02-15 04:31:30+00:00,7.6,124.86,7,2.1,005 km S 89° W of Kadingilan (Bukidnon),Ms,TECTONIC
+715,2024-02-15 02:34:38+00:00,8.59,126.85,1,2.6,062 km N 66° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+716,2024-02-15 01:19:58+00:00,8.07,125.43,1,3.4,014 km S 86° E of Cabanglasan (Bukidnon),Ms,TECTONIC
+717,2024-02-14 21:54:37+00:00,8.21,122.22,33,2.4,033 km N 40° W of Gutalac (Zamboanga Del Norte),Ms,TECTONIC
+718,2024-02-14 20:57:01+00:00,17.32,122.55,33,3.1,027 km S 88° E of Divilacan (Isabela),Ms,TECTONIC
+719,2024-02-14 18:54:33+00:00,12.2,120.91,11,2.5,023 km S 45° W of San Jose (Occidental Mindoro),Ms,TECTONIC
+720,2024-02-14 18:42:03+00:00,9.02,126.27,48,3.8,006 km N 12° W of Bayabas (Surigao Del Sur),Ms,TECTONIC
+721,2024-02-14 18:38:00+00:00,13.85,120.74,30,1.8,011 km N 81° E of Calatagan (Batangas),Ms,TECTONIC
+722,2024-02-14 18:11:52+00:00,18.83,120.76,28,2.8,030 km N 06° W of Pagudpud (Ilocos Norte),Ms,TECTONIC
+723,2024-02-14 18:05:41+00:00,6.48,126.03,37,2.5,020 km S 14° W of Governor Generoso (Davao Oriental),Ms,TECTONIC
+724,2024-02-14 17:48:44+00:00,8.49,126.53,25,2.4,025 km N 58° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+725,2024-02-14 17:22:53+00:00,8.19,126.59,26,2.0,026 km N 50° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+726,2024-02-14 16:59:16+00:00,8.25,125.97,9,3.5,008 km N 20° W of Bunawan (Agusan Del Sur),Ms,TECTONIC
+727,2024-02-14 16:03:37+00:00,13.53,120.77,1,3.0,011 km N 28° E of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+728,2024-02-14 15:52:04+00:00,5.66,125.36,19,2.4,024 km N 31° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+729,2024-02-14 14:37:18+00:00,18.42,120.07,10,3.1,059 km N 81° W of Pasuquin (Ilocos Norte),Ms,TECTONIC
+730,2024-02-14 13:40:27+00:00,7.22,123.4,30,1.9,027 km S 02° W of Tabina (Zamboanga Del Sur),Ms,TECTONIC
+731,2024-02-14 13:37:58+00:00,13.89,120.56,70,2.3,010 km N 51° W of Calatagan (Batangas),Ms,TECTONIC
+732,2024-02-14 13:20:28+00:00,13.52,120.79,5,4.5,011 km N 42° E of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+733,2024-02-14 13:04:55+00:00,8.88,122.32,33,2.8,068 km S 30° W of Basay (Negros Oriental),Ms,TECTONIC
+734,2024-02-14 10:44:54+00:00,6.53,126.69,29,2.4,068 km S 28° E of Tarragona (Davao Oriental),Ms,TECTONIC
+735,2024-02-14 10:07:48+00:00,15.69,122.71,21,2.5,091 km S 44° E of Casiguran (Aurora),Ms,TECTONIC
+736,2024-02-14 09:28:49+00:00,6.52,126.5,62,2.4,050 km S 72° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+737,2024-02-14 07:59:35+00:00,8.31,126.62,31,4.4,032 km S 79° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+738,2024-02-14 07:46:56+00:00,8.88,126.64,33,1.8,037 km S 84° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+739,2024-02-14 07:21:13+00:00,11.87,125.72,16,4.7,032 km S 54° E of Dolores (Eastern Samar),Mw,TECTONIC
+740,2024-02-14 06:53:37+00:00,13.12,122.62,6,2.2,023 km S 16° W of San Andres (Quezon),Ms,TECTONIC
+741,2024-02-14 06:33:59+00:00,9.82,124.59,4,2.5,010 km S 57° E of Mabini (Bohol),Ms,TECTONIC
+742,2024-02-14 06:01:09+00:00,13.0,123.3,27,2.0,012 km N 27° E of Claveria (Masbate),Ms,TECTONIC
+743,2024-02-14 05:56:11+00:00,8.76,126.69,135,2.3,043 km S 84° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+744,2024-02-14 03:50:05+00:00,8.93,126.22,29,2.7,008 km S 58° W of Bayabas (Surigao Del Sur),Ms,TECTONIC
+745,2024-02-14 02:00:06+00:00,8.38,126.49,27,2.0,017 km N 84° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+746,2024-02-14 01:00:32+00:00,6.19,126.53,47,2.2,072 km S 45° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+747,2024-02-14 00:57:40+00:00,8.73,126.3,18,3.1,007 km S 03° W of Marihatag (Surigao Del Sur),Ms,TECTONIC
+748,2024-02-13 21:49:53+00:00,5.15,126.02,124,2.5,071 km S 59° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+749,2024-02-13 21:32:17+00:00,9.28,124.23,32,2.0,037 km S 12° E of Dimiao (Bohol),Ms,TECTONIC
+750,2024-02-13 21:10:37+00:00,10.0,126.12,16,2.7,005 km S 70° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+751,2024-02-13 20:58:15+00:00,6.51,127.02,12,3.6,087 km S 47° E of Tarragona (Davao Oriental),Ms,TECTONIC
+752,2024-02-13 20:50:40+00:00,15.21,122.57,8,3.1,062 km N 25° E of Jomalig (Quezon),Ms,TECTONIC
+753,2024-02-13 20:09:59+00:00,11.89,125.56,14,3.1,014 km N 52° E of Sulat (Eastern Samar),Ms,TECTONIC
+754,2024-02-13 19:54:43+00:00,8.64,126.53,33,2.6,031 km S 54° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+755,2024-02-13 18:26:14+00:00,8.62,125.58,19,2.4,010 km S 50° W of Esperanza (Agusan Del Sur),Ms,TECTONIC
+756,2024-02-13 18:02:58+00:00,8.6,126.62,10,2.4,040 km N 51° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+757,2024-02-13 17:48:29+00:00,15.5,121.74,7,2.7,034 km S 44° E of San Luis (Aurora),Ms,TECTONIC
+758,2024-02-13 17:45:12+00:00,16.88,121.68,21,1.8,012 km S 60° W of City Of Cauayan (Isabela),Ms,TECTONIC
+759,2024-02-13 17:43:10+00:00,9.11,126.44,18,4.1,023 km N 48° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+760,2024-02-13 16:12:19+00:00,8.26,126.6,21,2.7,032 km N 81° E of City Of Bislig (Surigao Del Sur),Ms,TECTONIC
+761,2024-02-13 15:42:44+00:00,5.96,124.54,20,2.2,009 km S 70° W of Kiamba (Sarangani),Ms,TECTONIC
+762,2024-02-13 15:07:22+00:00,13.41,120.38,6,2.1,009 km S 88° W of Paluan (Occidental Mindoro),Ms,TECTONIC
+763,2024-02-13 15:02:33+00:00,6.59,125.55,3,2.3,009 km N 65° E of Santa Maria (Davao Occidental),Ms,TECTONIC
+764,2024-02-13 14:44:45+00:00,18.22,120.31,16,2.5,029 km N 41° W of Currimao (Ilocos Norte),Ms,TECTONIC
+765,2024-02-13 14:01:39+00:00,8.62,126.56,23,2.3,035 km S 55° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+766,2024-02-13 13:51:55+00:00,5.14,126.6,122,3.3,136 km S 51° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+767,2024-02-13 11:02:29+00:00,18.38,120.92,27,2.7,005 km S 72° E of Adams (Ilocos Norte),Ms,TECTONIC
+768,2024-02-13 10:40:51+00:00,8.36,126.61,26,3.5,030 km S 90° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+769,2024-02-13 10:14:22+00:00,6.7,125.21,10,2.3,002 km S 47° W of Matanao (Davao Del Sur),Ms,TECTONIC
+770,2024-02-13 10:06:50+00:00,16.5,120.09,44,2.2,025 km N 59° E of Bolinao (Pangasinan),Ms,TECTONIC
+771,2024-02-13 09:17:03+00:00,8.61,126.83,1,2.2,060 km N 64° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+772,2024-02-13 09:16:37+00:00,17.86,120.58,8,2.0,010 km S 53° W of Nueva Era (Ilocos Norte),Ms,TECTONIC
+773,2024-02-13 09:13:46+00:00,8.64,126.73,1,2.5,052 km N 55° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+774,2024-02-13 09:02:26+00:00,8.42,126.73,31,2.2,044 km N 82° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+775,2024-02-13 09:00:09+00:00,8.61,126.79,4,4.4,056 km N 61° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+776,2024-02-13 07:31:13+00:00,3.67,126.59,33,4.0,233 km S 34° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+777,2024-02-13 07:21:37+00:00,8.45,126.84,1,2.2,056 km N 81° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+778,2024-02-13 07:16:57+00:00,8.19,126.37,81,2.0,007 km S 66° E of City Of Bislig (Surigao Del Sur),Ms,TECTONIC
+779,2024-02-13 07:09:32+00:00,18.6,121.0,3,1.7,004 km N 13° E of Santa Praxedes (Cagayan),Ms,TECTONIC
+780,2024-02-13 06:54:33+00:00,8.22,126.99,7,2.5,066 km N 72° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+781,2024-02-13 06:24:02+00:00,3.36,126.35,44,3.2,249 km S 24° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+782,2024-02-13 05:14:20+00:00,17.98,121.14,36,1.6,008 km S 44° W of Kabugao (Apayao),Ms,TECTONIC
+783,2024-02-13 04:53:05+00:00,18.58,120.87,11,2.0,009 km N 74° E of Pagudpud (Ilocos Norte),Ms,TECTONIC
+784,2024-02-13 04:14:30+00:00,8.72,126.48,18,2.3,022 km S 65° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+785,2024-02-13 04:03:21+00:00,8.56,126.56,28,1.8,032 km N 49° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+786,2024-02-13 03:13:07+00:00,8.93,126.34,32,1.6,004 km N 66° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+787,2024-02-13 02:49:07+00:00,18.49,120.97,16,1.6,008 km N 68° E of Adams (Ilocos Norte),Ms,TECTONIC
+788,2024-02-13 01:30:00+00:00,8.25,124.65,6,2.7,008 km S 28° W of Baungon (Bukidnon),Ms,TECTONIC
+789,2024-02-13 01:21:06+00:00,8.58,126.27,33,1.8,018 km N 70° E of Barobo (Surigao Del Sur),Ms,TECTONIC
+790,2024-02-13 01:18:40+00:00,8.59,126.54,30,2.2,034 km N 43° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+791,2024-02-13 01:18:09+00:00,8.89,126.49,19,1.7,021 km S 82° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+792,2024-02-13 00:50:38+00:00,9.71,126.18,23,1.8,008 km S 21° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+793,2024-02-13 00:34:02+00:00,4.72,125.51,1,4.8,078 km S 07° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+794,2024-02-13 00:09:35+00:00,15.39,120.22,23,2.2,024 km N 61° E of Botolan (Zambales),Ms,TECTONIC
+795,2024-02-12 23:55:10+00:00,13.77,120.58,91,1.9,009 km S 43° W of Calatagan (Batangas),Ms,TECTONIC
+796,2024-02-12 23:23:33+00:00,15.57,119.84,15,2.4,012 km S 59° W of Candelaria (Zambales),Ms,TECTONIC
+797,2024-02-12 22:32:00+00:00,8.45,126.72,5,2.3,044 km N 77° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+798,2024-02-12 21:14:19+00:00,7.95,125.42,15,2.5,011 km N 72° E of San Fernando (Bukidnon),Ms,TECTONIC
+799,2024-02-12 21:08:08+00:00,14.0,120.67,28,2.0,005 km S 23° E of Lian (Batangas),Ms,TECTONIC
+800,2024-02-12 20:55:46+00:00,9.08,126.8,7,2.3,058 km N 72° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+801,2024-02-12 20:45:38+00:00,3.0,126.13,74,4.5,294 km S 18° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+802,2024-02-12 19:22:40+00:00,8.27,126.82,1,1.9,051 km N 61° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+803,2024-02-12 19:20:58+00:00,16.65,122.41,2,3.2,021 km N 48° E of Dinapigue (Isabela),Ms,TECTONIC
+804,2024-02-12 19:12:11+00:00,13.49,120.81,2,4.1,010 km N 61° E of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+805,2024-02-12 18:32:20+00:00,15.38,119.83,33,2.5,010 km S 52° W of Palauig (Zambales),Ms,TECTONIC
+806,2024-02-12 16:42:16+00:00,9.91,126.28,11,2.7,020 km N 44° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+807,2024-02-12 15:39:20+00:00,9.77,126.1,28,1.5,006 km S 78° W of General Luna (Surigao Del Norte),Ms,TECTONIC
+808,2024-02-12 15:31:21+00:00,9.91,126.37,11,4.5,027 km N 59° E of General Luna (Surigao Del Norte),Mw,TECTONIC
+809,2024-02-12 15:23:59+00:00,9.84,125.78,61,2.7,021 km S 81° W of Del Carmen (Surigao Del Norte),Ms,TECTONIC
+810,2024-02-12 15:04:43+00:00,6.51,126.04,51,4.1,016 km S 12° W of Governor Generoso (Davao Oriental),Ms,TECTONIC
+811,2024-02-12 14:15:22+00:00,6.6,126.39,43,2.5,036 km S 80° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+812,2024-02-12 14:01:46+00:00,7.96,126.69,20,2.3,032 km N 54° E of Cateel (Davao Oriental),Ms,TECTONIC
+813,2024-02-12 13:28:38+00:00,8.61,125.67,46,3.1,009 km S 20° E of Esperanza (Agusan Del Sur),Ms,TECTONIC
+814,2024-02-12 13:15:06+00:00,10.27,125.82,27,2.0,028 km S 69° E of Loreto (Dinagat Islands),Ms,TECTONIC
+815,2024-02-12 13:00:50+00:00,8.49,126.56,22,1.7,028 km N 61° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+816,2024-02-12 11:55:06+00:00,18.77,119.6,15,4.5,113 km N 76° W of Burgos (Ilocos Norte),Ms,TECTONIC
+817,2024-02-12 11:06:02+00:00,17.49,122.39,26,2.0,020 km N 54° E of Maconacon (Isabela),Ms,TECTONIC
+818,2024-02-12 11:01:09+00:00,8.09,126.59,28,3.1,021 km N 74° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+819,2024-02-12 10:42:58+00:00,8.31,126.45,32,2.3,014 km S 65° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+820,2024-02-12 10:28:16+00:00,9.87,126.05,42,1.8,009 km S 87° E of Del Carmen (Surigao Del Norte),Ms,TECTONIC
+821,2024-02-12 10:13:36+00:00,13.11,120.48,22,1.9,018 km S 43° W of Mamburao (Occidental Mindoro),Ms,TECTONIC
+822,2024-02-12 10:00:07+00:00,18.22,122.57,2,3.1,052 km S 60° E of Santa Ana (Cagayan),Ms,TECTONIC
+823,2024-02-12 09:38:31+00:00,8.4,126.32,33,1.4,005 km N 24° W of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+824,2024-02-12 09:32:59+00:00,8.17,126.52,35,1.4,019 km N 39° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+825,2024-02-12 08:33:35+00:00,8.19,126.68,33,2.6,034 km N 60° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+826,2024-02-12 08:23:48+00:00,8.86,126.36,34,2.0,010 km N 46° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+827,2024-02-12 05:57:29+00:00,4.85,125.9,106,2.4,082 km S 41° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+828,2024-02-12 05:56:35+00:00,8.69,126.89,21,2.0,066 km S 79° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+829,2024-02-12 05:32:04+00:00,5.35,125.29,172,3.2,016 km S 65° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+830,2024-02-12 04:54:45+00:00,13.86,120.3,55,1.6,017 km N 20° E of Looc (Occidental Mindoro),Ms,TECTONIC
+831,2024-02-12 02:03:03+00:00,9.94,126.93,17,5.3,087 km N 79° E of General Luna (Surigao Del Norte),Mw,TECTONIC
+832,2024-02-12 02:01:12+00:00,8.24,126.61,22,2.7,031 km N 44° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+833,2024-02-12 00:57:58+00:00,10.1,126.16,26,2.0,016 km N 54° E of Santa Monica (Surigao Del Norte),Ms,TECTONIC
+834,2024-02-12 00:34:03+00:00,8.96,122.3,23,2.4,062 km S 37° W of Basay (Negros Oriental),Ms,TECTONIC
+835,2024-02-12 00:09:36+00:00,8.47,126.31,35,1.5,012 km N 16° W of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+836,2024-02-11 23:59:02+00:00,5.53,126.28,63,2.3,082 km S 59° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+837,2024-02-11 23:20:33+00:00,13.71,124.0,14,2.2,016 km N 39° W of San Andres (Catanduanes),Ms,TECTONIC
+838,2024-02-11 21:39:54+00:00,10.18,123.63,32,1.7,008 km N 06° W of City Of Carcar (Cebu),Ms,TECTONIC
+839,2024-02-11 21:30:09+00:00,14.15,125.17,6,4.3,094 km N 64° E of Gigmoto (Catanduanes),Mw,TECTONIC
+840,2024-02-11 21:28:08+00:00,16.44,120.81,2,2.4,006 km S 21° W of Bokod (Benguet),Ms,TECTONIC
+841,2024-02-11 21:10:23+00:00,5.02,126.2,15,2.8,097 km S 63° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+842,2024-02-11 19:59:18+00:00,9.79,125.51,33,1.6,002 km East of City Of Surigao (Surigao Del Norte),Ms,TECTONIC
+843,2024-02-11 19:11:35+00:00,8.5,126.8,1,3.3,053 km N 74° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+844,2024-02-11 18:23:09+00:00,5.1,126.11,4,3.4,082 km S 60° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+845,2024-02-11 16:56:36+00:00,6.98,123.9,20,1.8,016 km S 56° W of Datu Blah T. Sinsuat (Maguindanao Del Norte),Ms,TECTONIC
+846,2024-02-11 15:34:40+00:00,6.16,124.85,34,1.7,006 km S 33° E of T'boli (South Cotabato),Ms,TECTONIC
+847,2024-02-11 15:34:37+00:00,9.97,122.46,10,1.6,019 km S 88° W of Cauayan (Negros Occidental),Ms,TECTONIC
+848,2024-02-11 15:34:27+00:00,8.45,127.02,1,2.8,075 km N 83° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+849,2024-02-11 14:02:32+00:00,5.86,124.47,52,2.3,022 km S 51° W of Kiamba (Sarangani),Ms,TECTONIC
+850,2024-02-11 13:58:06+00:00,8.43,126.38,27,1.8,008 km N 31° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+851,2024-02-11 13:16:27+00:00,5.76,127.13,106,4.3,153 km S 50° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+852,2024-02-11 12:58:55+00:00,18.2,120.66,15,2.3,004 km S 12° E of Vintar (Ilocos Norte),Ms,TECTONIC
+853,2024-02-11 12:30:16+00:00,5.56,126.55,21,2.9,108 km S 68° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+854,2024-02-11 11:46:19+00:00,9.93,125.47,22,2.9,015 km N 12° W of City Of Surigao (Surigao Del Norte),Ms,TECTONIC
+855,2024-02-11 11:16:36+00:00,8.89,125.76,11,1.9,011 km N 44° E of Sibagat (Agusan Del Sur),Ms,TECTONIC
+856,2024-02-11 09:15:26+00:00,9.84,125.98,35,1.5,022 km S 29° W of Burgos (Surigao Del Norte),Ms,TECTONIC
+857,2024-02-11 09:11:14+00:00,7.98,125.54,34,2.3,024 km N 72° E of San Fernando (Bukidnon),Ms,TECTONIC
+858,2024-02-11 08:00:21+00:00,10.06,126.11,7,3.7,006 km N 38° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+859,2024-02-11 07:09:35+00:00,13.88,120.43,63,2.9,026 km N 46° E of Looc (Occidental Mindoro),Ms,TECTONIC
+860,2024-02-11 06:05:27+00:00,8.94,125.67,16,2.5,014 km N 10° W of Sibagat (Agusan Del Sur),Ms,TECTONIC
+861,2024-02-11 05:30:56+00:00,8.69,125.58,23,2.3,006 km S 22° W of Las Nieves (Agusan Del Norte),Ms,TECTONIC
+862,2024-02-11 05:00:48+00:00,8.22,127.11,6,2.3,085 km S 80° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+863,2024-02-11 04:55:24+00:00,8.62,126.47,24,2.7,031 km N 27° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+864,2024-02-11 04:27:21+00:00,8.25,126.71,8,2.2,041 km N 54° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+865,2024-02-11 04:15:11+00:00,6.87,127.57,27,3.0,120 km S 71° E of Manay (Davao Oriental),Ms,TECTONIC
+866,2024-02-11 03:31:29+00:00,9.19,126.78,7,3.3,059 km N 66° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+867,2024-02-11 02:03:14+00:00,8.65,125.57,27,2.9,009 km S 71° W of Esperanza (Agusan Del Sur),Ms,TECTONIC
+868,2024-02-11 01:53:02+00:00,11.15,125.53,13,2.8,001 km S 38° E of Quinapondan (Eastern Samar),Ms,TECTONIC
+869,2024-02-10 23:36:25+00:00,8.85,126.4,24,2.7,013 km S 57° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+870,2024-02-10 23:11:38+00:00,8.37,126.69,32,2.1,039 km N 90° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+871,2024-02-10 22:36:01+00:00,8.29,126.76,35,2.3,047 km S 80° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+872,2024-02-10 22:29:17+00:00,8.4,126.63,13,1.8,033 km N 84° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+873,2024-02-10 21:48:38+00:00,8.32,126.67,16,1.5,037 km S 82° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+874,2024-02-10 21:39:46+00:00,6.8,124.38,17,2.3,009 km S 65° W of Ampatuan (Maguindanao Del Sur),Ms,TECTONIC
+875,2024-02-10 20:24:07+00:00,8.56,125.65,32,2.4,013 km S 02° E of Esperanza (Agusan Del Sur),Ms,TECTONIC
+876,2024-02-10 20:19:58+00:00,19.12,121.12,15,2.9,010 km N 83° W of Dalupiri Island (Calayan) (Cagayan),Ms,TECTONIC
+877,2024-02-10 20:04:47+00:00,5.7,126.88,57,3.0,138 km S 40° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+878,2024-02-10 19:58:42+00:00,6.25,126.9,212,3.7,101 km S 29° E of Tarragona (Davao Oriental),Ms,TECTONIC
+879,2024-02-10 19:33:59+00:00,11.82,125.8,15,2.8,038 km N 89° E of Sulat (Eastern Samar),Ms,TECTONIC
+880,2024-02-10 17:27:41+00:00,8.9,126.92,21,2.4,068 km S 88° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+881,2024-02-10 17:08:42+00:00,8.15,126.83,9,2.2,047 km N 75° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+882,2024-02-10 17:03:23+00:00,5.3,126.07,88,4.5,083 km S 35° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+883,2024-02-10 16:22:16+00:00,8.19,127.11,15,2.4,087 km S 77° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+884,2024-02-10 16:15:23+00:00,6.33,125.81,151,2.5,020 km N 41° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+885,2024-02-10 15:39:55+00:00,4.36,125.83,137,3.6,125 km S 21° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+886,2024-02-10 15:26:51+00:00,9.07,124.5,8,2.1,020 km S 73° W of Catarman (Camiguin),Ms,TECTONIC
+887,2024-02-10 14:57:27+00:00,8.27,126.56,31,2.1,027 km S 68° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+888,2024-02-10 14:55:40+00:00,7.2,125.44,19,2.0,033 km N 66° W of Island Garden City Of Samal (Davao Del Norte),Ms,TECTONIC
+889,2024-02-10 14:36:57+00:00,6.11,125.61,114,2.2,013 km S 43° W of Don Marcelino (Davao Occidental),Ms,TECTONIC
+890,2024-02-10 14:32:18+00:00,8.08,126.71,19,1.8,034 km N 82° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+891,2024-02-10 13:59:52+00:00,8.65,125.61,21,2.4,005 km S 57° W of Esperanza (Agusan Del Sur),Ms,TECTONIC
+892,2024-02-10 13:56:38+00:00,17.86,120.09,22,2.3,039 km S 89° W of Sinait (Ilocos Sur),Ms,TECTONIC
+893,2024-02-10 13:41:52+00:00,9.25,126.49,7,1.7,033 km S 85° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+894,2024-02-10 13:17:30+00:00,9.5,126.68,16,2.5,066 km S 61° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+895,2024-02-10 13:04:22+00:00,12.68,124.91,24,2.8,013 km N 09° W of Pambujan (Northern Samar),Ms,TECTONIC
+896,2024-02-10 12:57:00+00:00,8.18,126.04,25,2.3,004 km S 87° E of Bunawan (Agusan Del Sur),Ms,TECTONIC
+897,2024-02-10 12:44:12+00:00,9.16,122.31,30,2.2,045 km S 52° W of Basay (Negros Oriental),Ms,TECTONIC
+898,2024-02-10 12:20:26+00:00,5.66,126.06,44,2.6,054 km S 59° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+899,2024-02-10 11:38:59+00:00,8.5,126.48,34,2.3,021 km N 47° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+900,2024-02-10 11:17:36+00:00,8.29,126.88,4,2.0,058 km N 61° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+901,2024-02-10 11:02:17+00:00,14.19,120.29,62,1.7,035 km S 38° W of Mariveles (Bataan),Ms,TECTONIC
+902,2024-02-10 09:43:54+00:00,17.83,120.74,9,2.5,012 km N 17° E of Lagayan (Abra),Ms,TECTONIC
+903,2024-02-10 09:21:08+00:00,12.83,124.98,5,4.7,028 km N 06° W of Laoang (Northern Samar),Ms,TECTONIC
+904,2024-02-10 09:08:15+00:00,8.09,125.95,4,2.6,002 km N 17° W of Veruela (Agusan Del Sur),Ms,TECTONIC
+905,2024-02-10 08:06:58+00:00,19.08,120.99,8,4.0,023 km S 83° W of Dalupiri Island (Calayan) (Cagayan),Ms,TECTONIC
+906,2024-02-10 07:46:06+00:00,8.09,126.86,8,2.3,050 km N 84° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+907,2024-02-10 07:02:57+00:00,7.52,127.27,33,1.5,079 km S 85° E of Baganga (Davao Oriental),Ms,TECTONIC
+908,2024-02-10 06:21:59+00:00,8.65,125.63,30,2.1,004 km S 26° W of Esperanza (Agusan Del Sur),Ms,TECTONIC
+909,2024-02-10 06:20:01+00:00,8.54,126.54,19,3.7,029 km N 50° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+910,2024-02-10 05:21:35+00:00,8.66,125.63,41,5.2,002 km S 35° W of Esperanza (Agusan Del Sur),Mw,TECTONIC
+911,2024-02-10 04:51:33+00:00,13.2,121.35,33,1.9,008 km N 67° E of Victoria (Oriental Mindoro),Ms,TECTONIC
+912,2024-02-10 04:30:57+00:00,8.62,125.64,22,2.9,006 km S 02° W of Esperanza (Agusan Del Sur),Ms,TECTONIC
+913,2024-02-10 04:07:11+00:00,8.64,125.65,32,2.0,005 km S 01° W of Esperanza (Agusan Del Sur),Ms,TECTONIC
+914,2024-02-10 04:05:26+00:00,8.62,125.62,25,2.7,007 km S 21° W of Esperanza (Agusan Del Sur),Ms,TECTONIC
+915,2024-02-10 03:55:20+00:00,8.68,125.58,25,2.7,007 km S 24° W of Las Nieves (Agusan Del Norte),Ms,TECTONIC
+916,2024-02-10 03:40:21+00:00,8.66,125.61,25,2.3,005 km S 60° W of Esperanza (Agusan Del Sur),Ms,TECTONIC
+917,2024-02-10 03:36:44+00:00,21.53,122.74,22,4.1,124 km N 49° E of Itbayat (Batanes),Ms,TECTONIC
+918,2024-02-10 03:28:22+00:00,8.62,126.43,32,3.5,025 km S 37° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+919,2024-02-10 03:22:07+00:00,8.69,125.55,24,5.8,007 km S 47° W of Las Nieves (Agusan Del Norte),Mw,TECTONIC
+920,2024-02-09 23:57:25+00:00,8.32,126.21,32,1.5,014 km S 70° W of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+921,2024-02-09 23:16:17+00:00,18.72,120.38,13,2.2,036 km N 51° W of Burgos (Ilocos Norte),Ms,TECTONIC
+922,2024-02-09 22:57:14+00:00,13.59,120.47,55,1.8,019 km N 01° E of Paluan (Occidental Mindoro),Ms,TECTONIC
+923,2024-02-09 22:29:06+00:00,5.93,125.73,182,2.6,009 km N 77° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+924,2024-02-09 22:27:57+00:00,8.65,126.64,24,1.8,041 km S 66° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+925,2024-02-09 22:23:18+00:00,10.35,126.0,19,2.0,038 km N 13° W of Burgos (Surigao Del Norte),Ms,TECTONIC
+926,2024-02-09 22:12:16+00:00,13.62,120.6,81,3.0,024 km N 36° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+927,2024-02-09 21:16:49+00:00,15.57,119.72,33,1.5,024 km S 74° W of Candelaria (Zambales),Ms,TECTONIC
+928,2024-02-09 21:12:30+00:00,15.75,119.91,47,1.5,001 km S 19° W of Santa Cruz (Zambales),Ms,TECTONIC
+929,2024-02-09 21:11:50+00:00,8.56,127.2,1,2.8,097 km N 78° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+930,2024-02-09 21:03:16+00:00,4.79,126.19,13,2.9,110 km S 51° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+931,2024-02-09 20:57:46+00:00,14.19,119.23,30,2.4,104 km N 69° W of Lubang (Occidental Mindoro),Ms,TECTONIC
+932,2024-02-09 20:33:44+00:00,8.55,126.59,8,1.7,034 km N 53° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+933,2024-02-09 20:27:01+00:00,9.08,126.42,21,1.5,020 km N 47° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+934,2024-02-09 20:25:14+00:00,9.82,126.21,19,1.6,007 km N 51° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+935,2024-02-09 20:08:14+00:00,8.31,126.54,23,1.8,023 km S 74° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+936,2024-02-09 19:28:10+00:00,8.82,126.56,22,2.1,029 km N 85° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+937,2024-02-09 19:21:00+00:00,18.76,120.89,8,2.0,025 km N 26° E of Pagudpud (Ilocos Norte),Ms,TECTONIC
+938,2024-02-09 19:09:50+00:00,5.14,125.95,89,2.9,064 km S 55° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+939,2024-02-09 18:48:36+00:00,8.72,126.49,30,1.9,023 km S 67° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+940,2024-02-09 18:35:46+00:00,8.55,126.68,12,3.4,043 km N 62° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+941,2024-02-09 18:25:58+00:00,8.34,126.5,27,1.8,018 km S 82° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+942,2024-02-09 18:08:15+00:00,8.27,126.68,33,2.0,039 km S 74° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+943,2024-02-09 18:03:54+00:00,12.56,123.52,1,2.8,010 km N 12° E of Baleno (Masbate),Ms,TECTONIC
+944,2024-02-09 17:58:15+00:00,18.43,120.68,29,1.8,009 km S 21° E of Burgos (Ilocos Norte),Ms,TECTONIC
+945,2024-02-09 17:38:52+00:00,16.15,121.47,6,1.8,017 km S 61° W of Nagtipunan (Quirino),Ms,TECTONIC
+946,2024-02-09 17:23:38+00:00,13.74,120.58,92,1.6,012 km S 28° W of Calatagan (Batangas),Ms,TECTONIC
+947,2024-02-09 17:09:40+00:00,8.66,126.67,27,2.1,044 km S 69° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+948,2024-02-09 16:48:57+00:00,8.87,127.22,1,3.6,102 km N 86° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+949,2024-02-09 16:44:09+00:00,7.75,122.19,17,1.6,007 km S 37° E of Baliguian (Zamboanga Del Norte),Ms,TECTONIC
+950,2024-02-09 16:28:57+00:00,8.66,127.04,1,2.2,083 km N 67° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+951,2024-02-09 15:31:10+00:00,8.72,126.32,42,2.0,009 km S 15° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+952,2024-02-09 15:30:22+00:00,8.74,126.73,9,2.7,048 km S 82° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+953,2024-02-09 15:18:50+00:00,17.95,119.98,25,2.3,051 km N 80° W of Sinait (Ilocos Sur),Ms,TECTONIC
+954,2024-02-09 15:02:53+00:00,5.93,124.41,33,1.5,017 km S 32° W of Maitum (Sarangani),Ms,TECTONIC
+955,2024-02-09 14:40:17+00:00,8.84,126.89,18,2.3,065 km S 82° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+956,2024-02-09 14:27:30+00:00,8.81,127.16,34,2.3,095 km N 90° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+957,2024-02-09 14:04:30+00:00,8.16,127.19,21,2.6,087 km N 81° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+958,2024-02-09 13:58:25+00:00,18.3,120.77,6,3.5,017 km S 75° E of Pasuquin (Ilocos Norte),Ms,TECTONIC
+959,2024-02-09 13:49:52+00:00,5.64,126.35,90,3.1,084 km S 69° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+960,2024-02-09 13:21:09+00:00,5.84,126.21,113,2.5,063 km S 83° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+961,2024-02-09 13:12:01+00:00,18.09,121.25,34,1.5,010 km N 42° E of Kabugao (Apayao),Ms,TECTONIC
+962,2024-02-09 12:56:00+00:00,7.88,125.33,16,1.7,004 km S 04° E of San Fernando (Bukidnon),Ms,TECTONIC
+963,2024-02-09 12:47:11+00:00,8.13,125.35,16,2.2,008 km N 42° E of Cabanglasan (Bukidnon),Ms,TECTONIC
+964,2024-02-09 11:38:55+00:00,9.77,126.14,74,2.0,003 km S 55° W of General Luna (Surigao Del Norte),Ms,TECTONIC
+965,2024-02-09 11:36:18+00:00,8.49,126.59,19,2.2,030 km N 64° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+966,2024-02-09 11:21:59+00:00,8.62,126.28,34,1.6,015 km S 23° E of San Agustin (Surigao Del Sur),Ms,TECTONIC
+967,2024-02-09 11:08:38+00:00,9.32,125.89,12,2.6,008 km S 50° W of Carrascal (Surigao Del Sur),Ms,TECTONIC
+968,2024-02-09 11:04:21+00:00,9.95,126.36,2,3.2,029 km N 50° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+969,2024-02-09 11:02:25+00:00,8.64,126.26,29,1.5,013 km S 19° E of San Agustin (Surigao Del Sur),Ms,TECTONIC
+970,2024-02-09 10:50:47+00:00,13.96,123.58,2,2.1,016 km N 58° W of Garchitorena (Camarines Sur),Ms,TECTONIC
+971,2024-02-09 10:41:59+00:00,9.75,125.34,5,3.6,010 km S 70° W of San Francisco (Surigao Del Norte),Ms,TECTONIC
+972,2024-02-09 10:14:00+00:00,8.35,126.34,33,1.6,002 km S 12° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+973,2024-02-09 09:47:17+00:00,7.39,124.96,8,2.3,011 km S 14° E of Damulog (Bukidnon),Ms,TECTONIC
+974,2024-02-09 09:09:14+00:00,16.0,119.82,17,2.1,006 km N 85° W of Dasol (Pangasinan),Ms,TECTONIC
+975,2024-02-09 08:59:34+00:00,8.5,126.63,12,2.7,036 km N 64° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+976,2024-02-09 08:54:21+00:00,5.82,123.97,543,3.4,049 km S 30° W of Palimbang (Sultan Kudarat),Ms,TECTONIC
+977,2024-02-09 08:24:34+00:00,9.95,126.37,5,3.5,031 km N 88° E of San Isidro (Surigao Del Norte),Ms,TECTONIC
+978,2024-02-09 06:49:18+00:00,14.32,123.09,1,2.5,025 km N 20° E of Mercedes (Camarines Norte),Ms,TECTONIC
+979,2024-02-09 06:33:26+00:00,11.56,124.42,6,2.4,002 km S 69° E of Naval (Biliran),Ms,TECTONIC
+980,2024-02-09 06:25:04+00:00,7.96,125.28,3,2.3,008 km N 47° W of San Fernando (Bukidnon),Ms,TECTONIC
+981,2024-02-09 05:43:48+00:00,7.63,124.43,2,2.2,014 km N 25° E of Buldon (Maguindanao Del Norte),Ms,TECTONIC
+982,2024-02-09 05:18:44+00:00,13.85,120.38,48,2.2,020 km N 45° E of Looc (Occidental Mindoro),Ms,TECTONIC
+983,2024-02-09 05:03:33+00:00,6.58,126.45,28,2.5,042 km S 80° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+984,2024-02-09 04:19:28+00:00,8.07,127.07,2,4.0,072 km N 87° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+985,2024-02-09 03:55:32+00:00,8.1,127.17,3,2.5,084 km N 85° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+986,2024-02-09 02:39:34+00:00,5.62,125.71,33,2.4,033 km S 13° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+987,2024-02-09 01:27:11+00:00,8.09,125.39,1,3.1,010 km N 81° E of Cabanglasan (Bukidnon),Ms,TECTONIC
+988,2024-02-09 00:57:17+00:00,7.5,124.12,7,2.7,002 km S 50° W of Balabagan (Lanao Del Sur),Ms,TECTONIC
+989,2024-02-09 00:49:52+00:00,19.17,121.11,20,2.6,012 km N 57° W of Dalupiri Island (Calayan) (Cagayan),Ms,TECTONIC
+990,2024-02-09 00:35:33+00:00,8.73,127.07,1,2.7,085 km S 84° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+991,2024-02-08 23:02:24+00:00,8.34,126.64,29,2.6,033 km S 84° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+992,2024-02-08 22:36:32+00:00,6.52,125.97,27,3.1,019 km S 38° W of Governor Generoso (Davao Oriental),Ms,TECTONIC
+993,2024-02-08 21:57:27+00:00,9.04,126.11,1,2.2,008 km S 59° W of City Of Tandag (Surigao Del Sur),Ms,TECTONIC
+994,2024-02-08 21:53:38+00:00,1.93,127.88,96,4.6,472 km S 35° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+995,2024-02-08 21:27:10+00:00,8.32,126.61,30,2.0,031 km S 80° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+996,2024-02-08 20:44:09+00:00,18.62,120.84,27,2.3,009 km N 36° E of Pagudpud (Ilocos Norte),Ms,TECTONIC
+997,2024-02-08 20:28:46+00:00,7.36,124.92,5,3.0,014 km S 10° W of Damulog (Bukidnon),Ms,TECTONIC
+998,2024-02-08 20:23:25+00:00,14.76,121.86,22,2.0,010 km N 59° W of Polillo (Quezon),Ms,TECTONIC
+999,2024-02-08 17:50:26+00:00,13.68,120.64,90,1.6,016 km S 03° E of Calatagan (Batangas),Ms,TECTONIC
+1000,2024-02-08 17:20:15+00:00,15.25,119.9,32,1.6,012 km S 43° W of Iba (Zambales),Ms,TECTONIC
+1001,2024-02-08 17:05:32+00:00,18.62,120.77,26,2.7,007 km N 18° W of Pagudpud (Ilocos Norte),Ms,TECTONIC
+1002,2024-02-08 17:02:18+00:00,4.2,126.36,97,3.5,170 km S 38° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1003,2024-02-08 16:50:32+00:00,9.79,126.29,25,2.0,014 km N 86° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+1004,2024-02-08 16:49:45+00:00,4.39,124.8,305,3.3,132 km S 32° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1005,2024-02-08 16:17:55+00:00,8.99,126.29,11,2.6,008 km N 07° W of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1006,2024-02-08 16:16:48+00:00,8.85,126.41,37,3.7,014 km S 56° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1007,2024-02-08 15:39:23+00:00,8.52,127.18,1,3.0,095 km N 80° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1008,2024-02-08 15:08:46+00:00,6.01,126.1,118,2.2,050 km S 65° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+1009,2024-02-08 14:51:38+00:00,8.41,126.56,22,3.0,025 km N 78° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1010,2024-02-08 14:12:08+00:00,6.04,126.38,96,1.5,076 km S 26° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+1011,2024-02-08 13:06:36+00:00,8.71,126.63,33,3.0,050 km N 40° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1012,2024-02-08 12:48:55+00:00,9.06,125.67,9,2.0,010 km N 83° E of Remedios T. Romualdez (Agusan Del Norte),Ms,TECTONIC
+1013,2024-02-08 12:40:02+00:00,8.76,127.29,1,3.2,109 km S 88° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1014,2024-02-08 12:29:19+00:00,8.38,126.71,8,2.1,041 km N 88° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1015,2024-02-08 12:09:53+00:00,6.88,126.91,22,3.2,055 km S 48° E of Manay (Davao Oriental),Ms,TECTONIC
+1016,2024-02-08 12:01:04+00:00,8.43,126.36,29,2.2,008 km N 16° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1017,2024-02-08 11:58:37+00:00,15.21,119.99,33,2.1,009 km S 21° W of Botolan (Zambales),Ms,TECTONIC
+1018,2024-02-08 11:43:56+00:00,18.68,121.1,59,1.9,009 km N 11° E of Claveria (Cagayan),Ms,TECTONIC
+1019,2024-02-08 11:41:32+00:00,9.59,126.22,21,1.4,022 km S 18° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+1020,2024-02-08 09:31:29+00:00,8.64,127.06,20,2.3,086 km S 78° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1021,2024-02-08 09:30:04+00:00,17.54,122.35,18,3.4,020 km N 35° E of Maconacon (Isabela),Ms,TECTONIC
+1022,2024-02-08 09:27:30+00:00,6.16,125.75,128,2.0,032 km S 30° E of Malita (Davao Occidental),Ms,TECTONIC
+1023,2024-02-08 08:47:20+00:00,8.4,126.49,28,3.0,017 km N 79° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1024,2024-02-08 08:38:18+00:00,13.76,120.82,12,3.2,013 km N 83° W of Mabini (Batangas),ML,VOLCANO-TECTONIC
+1025,2024-02-08 07:27:36+00:00,8.87,127.17,6,3.0,096 km S 86° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1026,2024-02-08 06:50:25+00:00,8.66,126.25,28,1.7,010 km S 16° E of San Agustin (Surigao Del Sur),Ms,TECTONIC
+1027,2024-02-08 06:40:22+00:00,8.01,126.64,17,3.0,025 km S 84° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1028,2024-02-08 06:38:35+00:00,8.69,125.96,99,1.6,011 km N 22° E of Prosperidad (Agusan Del Sur),Ms,TECTONIC
+1029,2024-02-08 06:33:38+00:00,11.32,125.6,11,2.4,003 km S 35° W of Hernani (Eastern Samar),Ms,TECTONIC
+1030,2024-02-08 06:28:49+00:00,9.54,126.84,6,3.9,077 km N 68° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+1031,2024-02-08 05:40:02+00:00,18.13,120.67,47,2.5,005 km S 40° E of Sarrat (Ilocos Norte),Ms,TECTONIC
+1032,2024-02-08 05:10:04+00:00,12.39,123.71,12,2.5,008 km S 69° W of Batuan (Masbate),Ms,TECTONIC
+1033,2024-02-08 04:38:21+00:00,8.77,126.96,5,2.3,072 km S 87° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1034,2024-02-08 04:15:35+00:00,8.72,127.52,26,2.5,135 km S 86° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1035,2024-02-08 04:12:26+00:00,8.01,126.36,26,2.0,007 km S 56° W of Lingig (Surigao Del Sur),Ms,TECTONIC
+1036,2024-02-08 01:26:26+00:00,9.55,126.57,13,4.4,052 km S 61° E of General Luna (Surigao Del Norte),Mw,TECTONIC
+1037,2024-02-08 00:24:57+00:00,9.57,126.72,10,2.9,066 km S 69° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+1038,2024-02-08 00:05:32+00:00,9.49,126.63,4,1.7,053 km N 64° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+1039,2024-02-07 22:14:51+00:00,9.31,126.64,1,2.0,049 km N 86° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+1040,2024-02-07 22:06:18+00:00,8.82,126.97,1,2.4,074 km S 82° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1041,2024-02-07 21:54:42+00:00,8.27,126.58,30,2.0,028 km S 68° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1042,2024-02-07 21:50:53+00:00,2.84,126.35,54,4.3,303 km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1043,2024-02-07 21:08:00+00:00,10.28,125.13,21,2.6,001 km S 84° W of Saint Bernard (Southern Leyte),Ms,TECTONIC
+1044,2024-02-07 20:33:07+00:00,4.24,125.84,124,2.9,137 km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1045,2024-02-07 20:14:47+00:00,17.9,120.59,17,2.1,013 km S 77° E of Badoc (Ilocos Norte),Ms,TECTONIC
+1046,2024-02-07 20:09:42+00:00,9.53,126.45,7,4.0,040 km N 44° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+1047,2024-02-07 20:08:28+00:00,9.58,126.72,10,2.4,067 km N 60° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+1048,2024-02-07 19:55:57+00:00,10.04,125.85,28,2.0,020 km N 63° W of San Benito (Surigao Del Norte),Ms,TECTONIC
+1049,2024-02-07 19:49:36+00:00,6.49,126.04,48,4.2,019 km S 11° W of Governor Generoso (Davao Oriental),Ms,TECTONIC
+1050,2024-02-07 19:43:25+00:00,9.19,126.03,23,1.8,004 km S 16° E of Carmen (Surigao Del Sur),Ms,TECTONIC
+1051,2024-02-07 19:28:03+00:00,8.83,126.43,31,2.2,017 km S 57° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1052,2024-02-07 19:08:21+00:00,8.2,126.58,17,2.7,025 km N 45° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1053,2024-02-07 18:17:05+00:00,8.99,127.04,5,2.5,082 km N 85° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1054,2024-02-07 17:49:25+00:00,10.54,126.65,22,3.1,086 km N 48° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+1055,2024-02-07 17:47:33+00:00,8.83,126.48,27,2.4,022 km S 63° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1056,2024-02-07 17:39:57+00:00,9.38,126.65,11,2.4,052 km N 77° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+1057,2024-02-07 17:31:16+00:00,8.54,126.78,1,2.3,052 km N 69° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1058,2024-02-07 17:20:26+00:00,8.73,126.92,1,3.3,068 km S 84° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1059,2024-02-07 17:14:00+00:00,6.34,125.37,27,2.3,011 km S 68° E of Malungon (Sarangani),Ms,TECTONIC
+1060,2024-02-07 16:29:59+00:00,10.57,126.04,16,2.7,040 km S 61° E of Homonhon Island (Guiuan) (Eastern Samar),Ms,TECTONIC
+1061,2024-02-07 15:22:20+00:00,8.73,126.66,20,2.5,040 km S 79° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1062,2024-02-07 14:47:23+00:00,13.54,120.68,4,2.9,012 km N 26° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+1063,2024-02-07 13:59:51+00:00,14.66,122.16,33,1.9,012 km S 31° W of Patnanungan (Quezon),Ms,TECTONIC
+1064,2024-02-07 13:58:40+00:00,9.18,125.64,8,2.6,012 km N 57° E of City Of Cabadbaran (Agusan Del Norte),Ms,TECTONIC
+1065,2024-02-07 13:08:28+00:00,8.94,127.0,16,3.5,077 km N 88° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1066,2024-02-07 12:10:52+00:00,8.8,126.48,25,2.0,020 km S 90° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1067,2024-02-07 12:04:08+00:00,15.61,122.85,24,2.6,108 km S 46° E of Casiguran (Aurora),Ms,TECTONIC
+1068,2024-02-07 11:45:38+00:00,16.23,119.74,21,3.5,015 km N 27° W of Agno (Pangasinan),Ms,TECTONIC
+1069,2024-02-07 11:41:41+00:00,18.6,121.06,8,1.6,002 km S 62° W of Claveria (Cagayan),Ms,TECTONIC
+1070,2024-02-07 11:21:45+00:00,8.47,126.6,27,2.0,031 km N 68° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1071,2024-02-07 11:19:39+00:00,9.64,125.66,33,1.4,005 km N 33° E of Bacuag (Surigao Del Norte),Ms,TECTONIC
+1072,2024-02-07 11:18:31+00:00,6.08,125.98,147,3.3,035 km S 68° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+1073,2024-02-07 10:44:24+00:00,8.07,126.72,20,2.5,034 km N 85° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1074,2024-02-07 10:36:19+00:00,8.91,126.83,25,2.4,058 km S 89° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1075,2024-02-07 10:08:41+00:00,12.96,121.36,12,2.8,011 km S 27° W of Socorro (Oriental Mindoro),Ms,TECTONIC
+1076,2024-02-07 09:20:43+00:00,8.31,126.82,10,2.6,053 km S 83° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1077,2024-02-07 09:00:43+00:00,7.99,127.04,9,2.2,068 km N 71° E of Cateel (Davao Oriental),Ms,TECTONIC
+1078,2024-02-07 08:01:02+00:00,8.41,126.21,10,3.0,007 km S 45° E of Tagbina (Surigao Del Sur),Ms,TECTONIC
+1079,2024-02-07 06:53:37+00:00,7.8,127.92,1,2.2,152 km N 80° E of Baganga (Davao Oriental),Ms,TECTONIC
+1080,2024-02-07 06:52:08+00:00,6.99,124.46,4,2.6,003 km N 47° W of Datu Salibo (Maguindanao Del Sur),Ms,TECTONIC
+1081,2024-02-07 06:25:02+00:00,18.54,120.86,22,2.7,007 km S 75° E of Pagudpud (Ilocos Norte),Ms,TECTONIC
+1082,2024-02-07 06:01:54+00:00,9.93,124.12,4,2.7,003 km N 57° E of Sagbayan (Bohol),Ms,TECTONIC
+1083,2024-02-07 05:46:53+00:00,9.02,127.1,14,4.7,089 km N 83° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1084,2024-02-07 05:37:49+00:00,8.41,126.33,21,2.7,005 km N 05° W of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1085,2024-02-07 05:30:00+00:00,8.42,126.41,23,1.9,010 km N 55° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1086,2024-02-07 05:06:46+00:00,7.9,126.46,18,1.9,010 km N 70° E of Boston (Davao Oriental),Ms,TECTONIC
+1087,2024-02-07 04:50:06+00:00,8.27,126.86,3,2.5,056 km N 62° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1088,2024-02-07 04:31:03+00:00,18.62,120.79,29,1.5,007 km N 01° E of Pagudpud (Ilocos Norte),Ms,TECTONIC
+1089,2024-02-07 04:05:04+00:00,18.7,120.73,31,5.4,010 km N 14° E of Pagudpud (Ilocos Norte),Mw,TECTONIC
+1090,2024-02-07 03:31:16+00:00,8.2,125.95,7,3.8,005 km N 67° W of Bunawan (Agusan Del Sur),Ms,TECTONIC
+1091,2024-02-07 02:56:53+00:00,8.86,127.16,1,5.1,094 km S 86° E of Cagwait (Surigao Del Sur),Mw,TECTONIC
+1092,2024-02-07 02:52:48+00:00,8.39,126.97,1,3.5,069 km N 88° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1093,2024-02-07 02:44:48+00:00,8.83,127.19,3,5.0,098 km S 84° E of Cagwait (Surigao Del Sur),Mw,TECTONIC
+1094,2024-02-07 00:38:44+00:00,14.6,122.19,1,2.1,017 km S 11° W of Patnanungan (Quezon),Ms,TECTONIC
+1095,2024-02-07 00:37:10+00:00,7.67,126.99,10,1.9,049 km N 77° E of Baganga (Davao Oriental),Ms,TECTONIC
+1096,2024-02-07 00:09:39+00:00,8.06,127.14,1,4.3,081 km N 88° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1097,2024-02-06 22:33:24+00:00,13.74,124.07,23,2.0,016 km N 13° W of San Andres (Catanduanes),Ms,TECTONIC
+1098,2024-02-06 22:28:54+00:00,8.49,126.31,47,1.9,014 km N 14° W of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1099,2024-02-06 21:59:01+00:00,6.1,125.72,152,2.2,012 km S 15° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+1100,2024-02-06 21:24:24+00:00,8.85,126.41,24,2.1,014 km S 59° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1101,2024-02-06 20:20:19+00:00,8.48,126.3,32,1.8,013 km N 18° W of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1102,2024-02-06 20:16:18+00:00,6.56,125.97,26,3.2,016 km S 48° W of Governor Generoso (Davao Oriental),Ms,TECTONIC
+1103,2024-02-06 20:08:51+00:00,6.51,124.54,33,2.0,004 km S 49° W of Bagumbayan (Sultan Kudarat),Ms,TECTONIC
+1104,2024-02-06 20:07:40+00:00,14.65,122.2,12,2.2,014 km S 71° W of Jomalig (Quezon),Ms,TECTONIC
+1105,2024-02-06 20:03:33+00:00,8.87,126.63,34,1.7,036 km S 81° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1106,2024-02-06 19:19:56+00:00,8.1,127.0,9,2.6,069 km N 60° E of Cateel (Davao Oriental),Ms,TECTONIC
+1107,2024-02-06 19:06:22+00:00,8.84,126.99,22,2.0,076 km S 83° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1108,2024-02-06 19:04:07+00:00,5.31,126.87,15,2.7,151 km S 64° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+1109,2024-02-06 19:01:38+00:00,8.85,127.01,20,2.0,078 km S 85° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1110,2024-02-06 18:53:19+00:00,12.71,123.54,8,2.1,015 km N 62° W of Monreal (Masbate),Ms,TECTONIC
+1111,2024-02-06 18:48:04+00:00,7.23,126.62,27,1.5,009 km N 76° E of Manay (Davao Oriental),Ms,TECTONIC
+1112,2024-02-06 18:33:15+00:00,9.9,126.18,20,2.1,010 km S 69° E of San Isidro (Surigao Del Norte),Ms,TECTONIC
+1113,2024-02-06 18:28:36+00:00,9.3,123.18,4,2.1,007 km N 74° W of Valencia (Negros Oriental),Ms,TECTONIC
+1114,2024-02-06 18:22:06+00:00,6.33,126.31,31,2.5,044 km S 37° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+1115,2024-02-06 18:18:40+00:00,6.7,124.98,5,2.8,003 km N 53° E of Columbio (Sultan Kudarat),Ms,TECTONIC
+1116,2024-02-06 18:12:05+00:00,8.87,126.49,30,2.6,022 km S 75° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1117,2024-02-06 18:11:45+00:00,9.75,124.68,12,1.7,012 km N 88° E of Anda (Bohol),Ms,TECTONIC
+1118,2024-02-06 17:49:29+00:00,9.28,123.18,5,2.0,007 km S 87° W of Valencia (Negros Oriental),Ms,TECTONIC
+1119,2024-02-06 17:38:49+00:00,8.41,126.61,24,2.0,030 km N 82° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1120,2024-02-06 17:36:49+00:00,9.3,123.19,2,3.6,007 km N 74° W of Valencia (Negros Oriental),Ms,TECTONIC
+1121,2024-02-06 17:32:19+00:00,6.35,126.12,135,2.4,034 km S 08° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+1122,2024-02-06 16:58:20+00:00,9.19,125.95,23,1.4,008 km S 09° W of Madrid (Surigao Del Sur),Ms,TECTONIC
+1123,2024-02-06 15:54:46+00:00,15.57,121.61,27,2.0,020 km S 30° E of San Luis (Aurora),Ms,TECTONIC
+1124,2024-02-06 15:36:54+00:00,5.61,127.09,75,3.1,162 km S 44° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+1125,2024-02-06 15:21:27+00:00,8.2,126.31,20,1.5,001 km S 26° W of City Of Bislig (Surigao Del Sur),Ms,TECTONIC
+1126,2024-02-06 15:16:39+00:00,10.26,125.91,34,1.9,030 km N 28° W of Santa Monica (Surigao Del Norte),Ms,TECTONIC
+1127,2024-02-06 15:09:55+00:00,4.97,125.3,183,3.6,051 km S 16° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1128,2024-02-06 14:54:47+00:00,8.87,126.49,26,1.9,021 km S 76° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1129,2024-02-06 14:45:48+00:00,8.87,126.26,26,1.9,009 km N 29° W of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1130,2024-02-06 14:37:56+00:00,8.89,126.47,36,5.2,018 km S 80° E of Cagwait (Surigao Del Sur),Mw,TECTONIC
+1131,2024-02-06 14:31:04+00:00,4.2,126.09,101,3.1,154 km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1132,2024-02-06 14:03:24+00:00,8.42,126.61,30,2.5,031 km N 79° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1133,2024-02-06 13:47:39+00:00,6.21,126.71,70,3.1,086 km S 56° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+1134,2024-02-06 13:17:32+00:00,13.78,120.59,102,2.0,007 km S 39° W of Calatagan (Batangas),Ms,TECTONIC
+1135,2024-02-06 13:17:23+00:00,5.55,126.01,78,3.8,057 km S 46° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+1136,2024-02-06 13:10:38+00:00,8.07,126.38,26,1.7,005 km N 50° W of Lingig (Surigao Del Sur),Ms,TECTONIC
+1137,2024-02-06 13:06:46+00:00,10.45,123.13,1,2.4,020 km S 31° E of Murcia (Negros Occidental),ML,VOLCANO-TECTONIC
+1138,2024-02-06 13:04:16+00:00,8.35,126.33,30,1.5,002 km S 30° W of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1139,2024-02-06 11:52:09+00:00,8.26,127.41,23,1.8,112 km N 77° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1140,2024-02-06 11:37:29+00:00,13.85,120.53,59,1.9,011 km N 83° W of Calatagan (Batangas),Ms,TECTONIC
+1141,2024-02-06 10:59:11+00:00,18.66,121.0,38,1.8,010 km N 56° W of Claveria (Cagayan),Ms,TECTONIC
+1142,2024-02-06 10:05:56+00:00,8.73,126.24,23,1.7,003 km S 38° E of San Agustin (Surigao Del Sur),Ms,TECTONIC
+1143,2024-02-06 10:05:01+00:00,7.48,121.97,4,1.6,023 km N 28° W of Sibuco (Zamboanga Del Norte),Ms,TECTONIC
+1144,2024-02-06 09:42:45+00:00,8.68,126.79,1,1.5,056 km S 77° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1145,2024-02-06 09:28:19+00:00,9.51,124.19,31,2.2,011 km S 15° E of Dimiao (Bohol),Ms,TECTONIC
+1146,2024-02-06 09:16:45+00:00,9.46,125.92,11,3.3,010 km N 19° W of Carrascal (Surigao Del Sur),Ms,TECTONIC
+1147,2024-02-06 08:53:32+00:00,8.0,126.66,31,1.9,028 km S 80° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1148,2024-02-06 07:47:18+00:00,13.5,120.71,89,2.1,007 km N 18° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+1149,2024-02-06 07:46:06+00:00,7.41,124.74,35,2.1,012 km S 22° E of Banisilan (Cotabato),Ms,TECTONIC
+1150,2024-02-06 07:32:37+00:00,8.91,126.33,28,2.3,004 km S 69° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1151,2024-02-06 07:00:48+00:00,3.63,126.28,1,3.7,219 km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1152,2024-02-06 06:35:22+00:00,8.27,126.68,26,2.1,039 km S 75° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1153,2024-02-06 04:20:53+00:00,17.0,120.77,2,4.7,004 km N 73° E of Cervantes (Ilocos Sur),Mw,TECTONIC
+1154,2024-02-06 04:04:46+00:00,13.75,120.52,87,2.3,015 km S 54° W of Calatagan (Batangas),Ms,TECTONIC
+1155,2024-02-06 03:53:21+00:00,13.77,120.21,13,2.7,007 km N 38° W of Looc (Occidental Mindoro),Ms,TECTONIC
+1156,2024-02-06 03:05:09+00:00,8.65,126.46,11,3.1,025 km S 47° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1157,2024-02-05 23:24:00+00:00,8.89,127.11,16,2.5,089 km S 88° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1158,2024-02-05 23:15:13+00:00,18.35,120.96,12,3.2,013 km N 40° W of Calanasan (Apayao),Ms,TECTONIC
+1159,2024-02-05 22:12:22+00:00,8.82,126.25,33,2.0,005 km N 69° W of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1160,2024-02-05 21:58:25+00:00,7.44,124.73,7,2.6,009 km S 26° E of Banisilan (Cotabato),Ms,TECTONIC
+1161,2024-02-05 21:53:04+00:00,8.2,126.91,12,2.7,057 km N 72° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1162,2024-02-05 21:49:25+00:00,8.46,127.02,12,2.6,076 km N 82° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1163,2024-02-05 21:04:13+00:00,8.75,126.82,1,2.0,057 km S 85° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1164,2024-02-05 20:20:13+00:00,8.85,126.92,19,2.5,069 km S 84° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1165,2024-02-05 20:08:20+00:00,7.07,125.84,21,2.4,009 km S 44° W of Pantukan (Davao De Oro),Ms,TECTONIC
+1166,2024-02-05 20:07:06+00:00,9.81,125.99,28,3.0,007 km S 20° E of Del Carmen (Surigao Del Norte),Ms,TECTONIC
+1167,2024-02-05 20:04:23+00:00,3.11,126.62,42,4.3,287 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1168,2024-02-05 19:51:41+00:00,13.33,120.31,13,2.3,020 km S 60° W of Paluan (Occidental Mindoro),Ms,TECTONIC
+1169,2024-02-05 19:41:14+00:00,7.08,125.82,16,2.4,007 km N 63° W of Pantukan (Davao De Oro),Ms,TECTONIC
+1170,2024-02-05 18:46:49+00:00,13.76,120.31,30,1.5,023 km S 63° E of Lubang (Occidental Mindoro),Ms,TECTONIC
+1171,2024-02-05 18:36:31+00:00,10.07,126.2,31,1.4,015 km N 68° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+1172,2024-02-05 18:24:56+00:00,10.28,126.31,31,1.8,039 km N 42° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+1173,2024-02-05 18:07:36+00:00,9.33,125.94,80,2.3,004 km S 73° W of Cantilan (Surigao Del Sur),Ms,TECTONIC
+1174,2024-02-05 17:15:51+00:00,8.23,126.94,2,2.2,062 km N 70° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1175,2024-02-05 17:10:50+00:00,18.6,120.83,33,1.6,006 km N 46° E of Pagudpud (Ilocos Norte),Ms,TECTONIC
+1176,2024-02-05 17:08:36+00:00,5.74,124.97,20,2.3,014 km S 13° W of Maasim (Sarangani),Ms,TECTONIC
+1177,2024-02-05 16:35:40+00:00,8.01,126.27,24,1.8,016 km S 79° W of Lingig (Surigao Del Sur),Ms,TECTONIC
+1178,2024-02-05 16:29:22+00:00,20.22,120.66,35,3.1,128 km S 84° W of Sabtang (Batanes),Ms,TECTONIC
+1179,2024-02-05 16:04:54+00:00,8.86,126.81,35,1.8,056 km S 84° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1180,2024-02-05 16:00:49+00:00,8.53,126.71,33,2.3,045 km N 67° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1181,2024-02-05 15:18:08+00:00,6.21,125.77,142,2.7,009 km N 82° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+1182,2024-02-05 15:12:03+00:00,10.08,123.31,27,2.2,006 km S 43° E of City Of Guihulngan (Negros Oriental),Ms,TECTONIC
+1183,2024-02-05 13:54:14+00:00,8.78,126.62,25,1.7,035 km S 86° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1184,2024-02-05 13:21:59+00:00,6.78,125.0,7,1.7,011 km N 22° E of Columbio (Sultan Kudarat),Ms,TECTONIC
+1185,2024-02-05 11:43:32+00:00,10.23,125.76,55,1.8,024 km S 54° E of Loreto (Dinagat Islands),Ms,TECTONIC
+1186,2024-02-05 11:06:11+00:00,6.74,124.29,2,2.3,020 km S 49° W of Datu Hoffer Ampatuan (Maguindanao Del Sur),Ms,TECTONIC
+1187,2024-02-05 10:20:22+00:00,6.63,125.16,9,2.2,011 km N 88° W of Kiblawan (Davao Del Sur),Ms,TECTONIC
+1188,2024-02-05 09:55:19+00:00,8.78,126.47,18,2.6,018 km S 84° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1189,2024-02-05 09:24:55+00:00,8.31,126.99,2,2.4,070 km N 65° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1190,2024-02-05 08:17:52+00:00,8.36,126.23,28,1.5,012 km S 88° W of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1191,2024-02-05 08:09:06+00:00,7.89,126.07,34,1.4,008 km N 17° E of Monkayo (Davao De Oro),Ms,TECTONIC
+1192,2024-02-05 07:51:55+00:00,2.44,126.43,46,4.1,347 km S 19° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1193,2024-02-05 07:37:32+00:00,8.28,126.19,26,1.5,016 km N 62° W of City Of Bislig (Surigao Del Sur),Ms,TECTONIC
+1194,2024-02-05 07:23:37+00:00,8.8,126.51,18,1.9,023 km S 89° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1195,2024-02-05 06:45:38+00:00,8.77,126.63,25,2.3,037 km S 85° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1196,2024-02-05 06:39:21+00:00,8.82,126.62,13,3.2,035 km N 86° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1197,2024-02-05 06:29:16+00:00,8.95,126.21,17,1.6,009 km S 77° W of Bayabas (Surigao Del Sur),Ms,TECTONIC
+1198,2024-02-05 06:27:51+00:00,8.78,126.52,21,2.4,025 km S 86° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1199,2024-02-05 03:43:53+00:00,8.55,127.04,6,3.4,079 km N 76° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1200,2024-02-05 03:41:41+00:00,15.42,121.38,14,1.8,003 km N 17° W of Dingalan (Aurora),Ms,TECTONIC
+1201,2024-02-05 03:22:33+00:00,8.74,126.7,25,1.6,045 km S 82° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1202,2024-02-05 02:46:43+00:00,10.29,126.11,17,1.6,031 km N 07° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+1203,2024-02-05 01:33:02+00:00,9.94,124.16,9,2.4,008 km N 68° E of Sagbayan (Bohol),Ms,TECTONIC
+1204,2024-02-05 00:51:20+00:00,9.12,126.85,7,2.3,064 km N 75° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+1205,2024-02-05 00:44:57+00:00,8.94,126.25,64,2.5,004 km S 50° W of Bayabas (Surigao Del Sur),Ms,TECTONIC
+1206,2024-02-05 00:36:31+00:00,9.93,124.15,8,2.4,007 km N 74° E of Sagbayan (Bohol),Ms,TECTONIC
+1207,2024-02-04 23:25:26+00:00,18.13,120.26,33,1.9,027 km N 63° W of Currimao (Ilocos Norte),Ms,TECTONIC
+1208,2024-02-04 22:37:39+00:00,8.47,126.65,24,1.8,035 km N 71° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1209,2024-02-04 21:56:52+00:00,7.74,126.12,3,2.1,009 km N 24° E of Compostela (Davao De Oro),Ms,TECTONIC
+1210,2024-02-04 21:36:36+00:00,8.09,126.92,12,2.7,056 km N 84° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1211,2024-02-04 21:23:37+00:00,15.26,119.78,16,2.2,022 km S 69° W of Iba (Zambales),Ms,TECTONIC
+1212,2024-02-04 21:16:53+00:00,6.46,125.89,157,3.0,032 km N 81° E of Malita (Davao Occidental),Ms,TECTONIC
+1213,2024-02-04 21:12:59+00:00,20.8,120.61,17,2.7,128 km N 89° W of Itbayat (Batanes),Ms,TECTONIC
+1214,2024-02-04 19:51:46+00:00,9.34,126.58,6,2.8,043 km N 81° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+1215,2024-02-04 19:46:54+00:00,9.34,126.53,5,2.5,037 km N 79° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+1216,2024-02-04 19:29:21+00:00,8.08,126.99,8,2.7,064 km N 86° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1217,2024-02-04 19:21:19+00:00,7.7,126.05,17,3.4,005 km N 47° W of Compostela (Davao De Oro),Ms,TECTONIC
+1218,2024-02-04 18:41:05+00:00,15.26,119.67,25,1.7,032 km S 54° W of Palauig (Zambales),Ms,TECTONIC
+1219,2024-02-04 18:40:36+00:00,6.06,126.34,124,2.4,072 km S 25° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+1220,2024-02-04 18:35:37+00:00,8.49,126.88,1,3.7,061 km N 78° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1221,2024-02-04 18:11:32+00:00,7.99,126.34,77,3.8,010 km S 57° W of Lingig (Surigao Del Sur),Ms,TECTONIC
+1222,2024-02-04 17:56:23+00:00,8.62,127.02,1,2.7,080 km N 70° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1223,2024-02-04 17:41:30+00:00,19.93,121.28,9,3.1,077 km N 16° W of Calayan (Cagayan),Ms,TECTONIC
+1224,2024-02-04 17:35:20+00:00,18.56,120.86,8,2.3,011 km N 21° W of Adams (Ilocos Norte),Ms,TECTONIC
+1225,2024-02-04 17:12:11+00:00,9.94,126.15,33,1.4,010 km N 67° E of San Isidro (Surigao Del Norte),Ms,TECTONIC
+1226,2024-02-04 17:02:23+00:00,8.24,127.44,17,3.7,116 km N 79° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1227,2024-02-04 16:42:02+00:00,19.12,121.22,13,2.5,002 km N 29° E of Dalupiri Island (Calayan) (Cagayan),Ms,TECTONIC
+1228,2024-02-04 16:16:31+00:00,8.88,127.05,1,2.7,082 km S 87° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1229,2024-02-04 16:14:25+00:00,8.88,127.04,1,3.1,081 km S 87° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1230,2024-02-04 16:06:41+00:00,6.08,125.4,17,2.5,016 km S 85° E of Malapatan (Sarangani),Ms,TECTONIC
+1231,2024-02-04 15:58:05+00:00,8.98,126.93,15,3.1,070 km N 84° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1232,2024-02-04 15:40:34+00:00,8.85,127.17,1,2.9,096 km S 86° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1233,2024-02-04 15:39:10+00:00,8.88,127.2,1,3.1,099 km S 87° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1234,2024-02-04 14:22:00+00:00,17.65,120.7,12,3.4,001 km N 48° W of Dolores (Abra),Ms,TECTONIC
+1235,2024-02-04 11:25:31+00:00,20.15,121.11,24,3.2,083 km S 76° W of Sabtang (Batanes),Ms,TECTONIC
+1236,2024-02-04 09:16:52+00:00,8.18,126.47,70,2.1,018 km S 77° E of City Of Bislig (Surigao Del Sur),Ms,TECTONIC
+1237,2024-02-04 08:43:11+00:00,13.91,120.54,108,1.7,013 km N 49° W of Calatagan (Batangas),Ms,TECTONIC
+1238,2024-02-04 08:42:58+00:00,5.69,126.4,134,3.2,087 km S 73° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+1239,2024-02-04 08:30:48+00:00,9.15,126.07,17,1.8,009 km S 09° E of Lanuza (Surigao Del Sur),Ms,TECTONIC
+1240,2024-02-04 08:27:07+00:00,8.28,126.88,8,2.0,058 km N 63° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1241,2024-02-04 08:14:51+00:00,7.65,126.95,28,1.8,044 km N 79° E of Baganga (Davao Oriental),Ms,TECTONIC
+1242,2024-02-04 07:56:20+00:00,5.64,125.75,142,2.5,035 km N 58° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1243,2024-02-04 07:27:27+00:00,13.66,120.57,127,2.0,020 km S 18° W of Calatagan (Batangas),Ms,TECTONIC
+1244,2024-02-04 07:02:25+00:00,8.62,127.35,13,1.8,115 km N 76° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1245,2024-02-04 06:04:49+00:00,8.67,126.48,31,2.4,025 km S 54° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1246,2024-02-04 05:10:16+00:00,8.32,126.24,27,1.9,012 km S 62° W of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1247,2024-02-04 03:51:47+00:00,7.84,126.47,23,1.7,006 km N 13° E of Cateel (Davao Oriental),Ms,TECTONIC
+1248,2024-02-04 03:37:57+00:00,8.01,126.43,33,1.4,004 km S 34° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1249,2024-02-04 03:33:55+00:00,8.36,126.65,29,1.9,034 km S 88° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1250,2024-02-04 03:12:26+00:00,14.74,119.73,35,1.4,045 km S 59° W of San Antonio (Zambales),Ms,TECTONIC
+1251,2024-02-04 02:30:03+00:00,8.43,126.2,33,1.6,005 km S 54° E of Tagbina (Surigao Del Sur),Ms,TECTONIC
+1252,2024-02-04 02:25:22+00:00,19.3,121.21,30,2.2,022 km N 01° E of Dalupiri Island (Calayan) (Cagayan),Ms,TECTONIC
+1253,2024-02-04 01:33:27+00:00,6.59,126.47,41,3.4,044 km S 81° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+1254,2024-02-04 01:19:40+00:00,6.7,125.1,22,4.3,009 km S 43° W of Magsaysay (Davao Del Sur),Ms,TECTONIC
+1255,2024-02-04 00:48:49+00:00,13.48,120.65,3,1.9,009 km N 68° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+1256,2024-02-04 00:15:47+00:00,14.22,120.39,118,2.0,027 km S 25° W of Mariveles (Bataan),Ms,TECTONIC
+1257,2024-02-03 22:43:57+00:00,13.53,120.66,6,2.5,012 km N 39° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+1258,2024-02-03 22:37:43+00:00,8.7,126.49,42,4.1,022 km S 47° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1259,2024-02-03 21:54:59+00:00,17.65,120.73,18,2.4,003 km S 83° E of Dolores (Abra),Ms,TECTONIC
+1260,2024-02-03 21:54:19+00:00,13.09,124.3,6,1.9,013 km N 67° E of Prieto Diaz (Sorsogon),Ms,TECTONIC
+1261,2024-02-03 20:59:04+00:00,14.58,122.13,34,1.7,021 km S 27° W of Patnanungan (Quezon),Ms,TECTONIC
+1262,2024-02-03 19:46:39+00:00,6.33,124.83,33,1.8,009 km S 21° E of Surallah (South Cotabato),Ms,TECTONIC
+1263,2024-02-03 19:44:37+00:00,9.75,126.23,31,2.3,009 km S 63° E of General Luna (Surigao Del Norte),Ms,TECTONIC
+1264,2024-02-03 19:26:09+00:00,8.38,127.5,5,2.2,125 km N 72° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1265,2024-02-03 19:06:28+00:00,6.35,125.82,23,1.7,022 km N 40° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+1266,2024-02-03 18:55:40+00:00,6.55,125.97,29,2.3,017 km S 44° W of Governor Generoso (Davao Oriental),Ms,TECTONIC
+1267,2024-02-03 18:43:52+00:00,6.54,125.98,25,4.2,016 km S 37° W of Governor Generoso (Davao Oriental),Ms,TECTONIC
+1268,2024-02-03 18:38:59+00:00,8.03,127.04,11,3.6,070 km N 68° E of Cateel (Davao Oriental),Ms,TECTONIC
+1269,2024-02-03 18:36:17+00:00,6.82,126.63,1,2.1,033 km S 38° E of Tarragona (Davao Oriental),Ms,TECTONIC
+1270,2024-02-03 18:31:15+00:00,13.91,120.71,32,1.8,004 km S 29° W of Balayan (Batangas),Ms,TECTONIC
+1271,2024-02-03 18:15:10+00:00,6.56,125.99,32,2.2,014 km S 40° W of Governor Generoso (Davao Oriental),Ms,TECTONIC
+1272,2024-02-03 17:48:56+00:00,16.31,122.21,15,2.1,009 km S 03° W of Dilasag (Aurora),Ms,TECTONIC
+1273,2024-02-03 17:34:56+00:00,9.29,123.14,10,2.2,011 km N 87° W of Valencia (Negros Oriental),Ms,TECTONIC
+1274,2024-02-03 17:07:19+00:00,17.99,120.42,13,1.7,008 km S 65° W of Currimao (Ilocos Norte),Ms,TECTONIC
+1275,2024-02-03 17:06:39+00:00,13.55,120.35,33,1.6,019 km N 40° W of Paluan (Occidental Mindoro),Ms,TECTONIC
+1276,2024-02-03 16:27:39+00:00,13.15,123.79,35,1.5,006 km N 75° E of City Of Legazpi (Albay),Ms,TECTONIC
+1277,2024-02-03 16:27:05+00:00,8.54,126.66,28,2.1,040 km N 61° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1278,2024-02-03 16:21:01+00:00,17.9,120.65,24,2.5,003 km S 42° W of Nueva Era (Ilocos Norte),Ms,TECTONIC
+1279,2024-02-03 15:21:28+00:00,9.76,123.86,30,1.5,003 km N 54° E of Maribojoc (Bohol),Ms,TECTONIC
+1280,2024-02-03 15:05:33+00:00,6.13,125.82,105,1.8,016 km S 61° E of Don Marcelino (Davao Occidental),Ms,TECTONIC
+1281,2024-02-03 14:57:56+00:00,8.47,126.66,14,1.9,037 km N 72° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1282,2024-02-03 14:47:21+00:00,13.51,120.21,12,2.4,023 km S 12° W of Looc (Occidental Mindoro),Ms,TECTONIC
+1283,2024-02-03 14:42:36+00:00,8.9,127.01,6,2.7,078 km S 89° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1284,2024-02-03 14:39:31+00:00,8.88,127.13,14,3.0,087 km S 87° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1285,2024-02-03 14:34:24+00:00,9.15,122.32,35,2.2,045 km S 51° W of Basay (Negros Oriental),Ms,TECTONIC
+1286,2024-02-03 12:49:28+00:00,13.94,120.54,182,2.6,016 km N 38° W of Calatagan (Batangas),Ms,TECTONIC
+1287,2024-02-03 12:39:13+00:00,8.91,127.01,6,2.9,078 km S 89° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1288,2024-02-03 12:11:07+00:00,6.55,123.88,16,1.7,019 km S 88° W of Kalamansig (Sultan Kudarat),Ms,TECTONIC
+1289,2024-02-03 12:09:31+00:00,18.35,121.01,6,1.4,011 km N 19° W of Calanasan (Apayao),Ms,TECTONIC
+1290,2024-02-03 12:07:51+00:00,5.96,126.13,115,1.6,054 km N 84° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+1291,2024-02-03 12:00:33+00:00,9.05,126.26,27,1.6,005 km N 42° E of Tago (Surigao Del Sur),Ms,TECTONIC
+1292,2024-02-03 11:38:01+00:00,8.08,127.16,2,3.2,082 km N 87° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1293,2024-02-03 11:29:58+00:00,8.87,126.93,20,2.1,069 km S 85° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1294,2024-02-03 10:43:01+00:00,8.97,126.04,23,1.5,002 km N 05° W of San Miguel (Surigao Del Sur),Ms,TECTONIC
+1295,2024-02-03 10:38:09+00:00,8.01,127.16,27,2.6,083 km S 88° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1296,2024-02-03 10:26:37+00:00,7.78,126.4,3,2.5,007 km S 82° W of Cateel (Davao Oriental),Ms,TECTONIC
+1297,2024-02-03 10:17:02+00:00,8.37,126.61,31,2.0,030 km S 90° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1298,2024-02-03 10:10:54+00:00,9.02,126.34,29,1.7,008 km N 48° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+1299,2024-02-03 10:01:13+00:00,16.73,120.96,37,1.6,007 km N 20° E of Tinoc (Ifugao),Ms,TECTONIC
+1300,2024-02-03 09:47:23+00:00,8.14,126.98,10,2.9,064 km N 80° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1301,2024-02-03 08:32:43+00:00,8.19,126.96,3,3.2,062 km N 75° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1302,2024-02-03 08:25:07+00:00,2.2,127.2,98,5.3,407 km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1303,2024-02-03 08:14:15+00:00,10.29,123.11,17,2.9,004 km N 59° E of Moises Padilla (Negros Occidental),ML,VOLCANO-TECTONIC
+1304,2024-02-03 07:13:16+00:00,18.13,121.93,17,2.5,013 km S 10° E of Santa Teresita (Cagayan),Ms,TECTONIC
+1305,2024-02-03 06:53:33+00:00,8.77,126.54,16,3.1,027 km S 84° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1306,2024-02-03 06:24:07+00:00,8.76,126.55,11,2.0,028 km S 82° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1307,2024-02-03 06:22:11+00:00,8.8,126.6,12,2.2,033 km S 90° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1308,2024-02-03 06:06:39+00:00,9.02,126.62,17,2.3,037 km N 72° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1309,2024-02-03 06:01:46+00:00,9.0,126.58,11,3.7,032 km N 74° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1310,2024-02-03 05:57:15+00:00,8.7,126.66,63,1.8,042 km S 75° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1311,2024-02-03 05:47:19+00:00,8.8,126.54,19,2.8,027 km S 89° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1312,2024-02-03 05:44:10+00:00,8.85,126.58,12,2.8,032 km S 75° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1313,2024-02-03 05:28:48+00:00,9.05,126.96,1,3.6,075 km N 83° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+1314,2024-02-03 05:18:59+00:00,8.7,126.24,29,2.0,005 km S 23° E of San Agustin (Surigao Del Sur),Ms,TECTONIC
+1315,2024-02-03 05:05:56+00:00,8.8,126.52,15,4.0,025 km S 89° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1316,2024-02-03 04:53:26+00:00,18.58,120.92,8,1.9,008 km N 80° W of Santa Praxedes (Cagayan),Ms,TECTONIC
+1317,2024-02-03 04:12:47+00:00,8.44,127.04,6,2.7,077 km N 84° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1318,2024-02-03 03:51:46+00:00,7.65,126.52,69,3.8,010 km N 25° W of Baganga (Davao Oriental),Ms,TECTONIC
+1319,2024-02-03 03:00:19+00:00,8.47,126.65,20,2.9,037 km N 73° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1320,2024-02-03 00:59:04+00:00,7.91,127.11,6,4.1,071 km N 59° E of Baganga (Davao Oriental),Ms,TECTONIC
+1321,2024-02-03 00:50:00+00:00,9.58,126.12,21,2.3,017 km S 76° E of Socorro (Surigao Del Norte),Ms,TECTONIC
+1322,2024-02-02 23:54:38+00:00,5.86,125.26,14,1.4,008 km N 55° E of Glan (Sarangani),Ms,TECTONIC
+1323,2024-02-02 23:24:25+00:00,8.75,126.87,1,1.7,063 km S 85° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1324,2024-02-02 23:09:22+00:00,8.33,127.01,21,2.2,073 km N 64° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1325,2024-02-02 22:53:25+00:00,14.27,120.09,31,1.6,047 km S 66° W of Mariveles (Bataan),Ms,TECTONIC
+1326,2024-02-02 22:47:23+00:00,8.38,127.05,18,2.0,079 km N 89° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1327,2024-02-02 22:45:45+00:00,9.39,126.58,5,1.7,044 km N 74° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+1328,2024-02-02 22:40:41+00:00,8.41,127.07,1,3.3,080 km N 87° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1329,2024-02-02 21:43:26+00:00,13.6,120.66,90,2.4,018 km N 23° W of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+1330,2024-02-02 21:38:46+00:00,8.52,126.53,13,2.3,027 km N 50° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1331,2024-02-02 21:32:34+00:00,8.09,127.05,6,3.4,070 km N 86° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1332,2024-02-02 21:14:15+00:00,8.12,127.03,1,3.5,069 km N 82° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1333,2024-02-02 21:06:22+00:00,6.8,125.03,1,2.2,014 km N 71° W of Magsaysay (Davao Del Sur),Ms,TECTONIC
+1334,2024-02-02 21:04:42+00:00,13.14,121.16,63,1.8,013 km S 75° W of Victoria (Oriental Mindoro),Ms,TECTONIC
+1335,2024-02-02 21:04:15+00:00,9.57,122.04,12,2.2,047 km S 85° W of Hinoba-an (Negros Occidental),Ms,TECTONIC
+1336,2024-02-02 20:49:13+00:00,8.1,127.13,2,3.7,080 km N 85° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1337,2024-02-02 20:45:50+00:00,8.05,126.88,11,2.7,052 km N 89° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1338,2024-02-02 20:31:52+00:00,8.14,127.07,3,2.7,073 km N 81° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1339,2024-02-02 20:27:21+00:00,8.02,126.51,32,2.7,011 km S 77° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1340,2024-02-02 20:19:34+00:00,8.11,127.08,3,4.0,074 km N 84° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1341,2024-02-02 20:12:45+00:00,8.08,127.2,1,3.5,087 km N 87° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1342,2024-02-02 20:12:22+00:00,19.99,121.73,19,1.9,041 km S 22° W of Sabtang (Batanes),Ms,TECTONIC
+1343,2024-02-02 20:12:16+00:00,10.26,124.83,1,2.4,005 km S 64° E of Matalom (Leyte),Ms,TECTONIC
+1344,2024-02-02 19:51:22+00:00,18.67,121.05,43,2.1,008 km N 30° W of Claveria (Cagayan),Ms,TECTONIC
+1345,2024-02-02 19:24:14+00:00,7.55,122.82,29,1.8,004 km S 20° E of Payao (Zamboanga Sibugay),Ms,TECTONIC
+1346,2024-02-02 18:47:05+00:00,13.85,120.51,55,1.5,014 km N 81° W of Calatagan (Batangas),Ms,TECTONIC
+1347,2024-02-02 18:14:25+00:00,15.67,121.7,12,1.8,018 km S 58° E of Baler (Aurora),Ms,TECTONIC
+1348,2024-02-02 18:12:58+00:00,6.87,126.91,58,2.4,054 km S 69° E of Tarragona (Davao Oriental),Ms,TECTONIC
+1349,2024-02-02 17:54:49+00:00,8.29,126.71,15,2.8,042 km S 78° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1350,2024-02-02 17:29:59+00:00,17.21,120.23,15,2.2,023 km N 79° W of City Of Candon (Ilocos Sur),Ms,TECTONIC
+1351,2024-02-02 17:20:45+00:00,8.58,126.48,15,2.0,028 km N 32° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1352,2024-02-02 17:12:35+00:00,3.0,126.1,101,3.5,277 km S 16° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1353,2024-02-02 17:10:51+00:00,18.05,121.27,35,2.2,010 km N 70° E of Kabugao (Apayao),Ms,TECTONIC
+1354,2024-02-02 17:01:45+00:00,16.56,121.34,17,3.7,011 km N 44° E of Quezon (Nueva Vizcaya),Ms,TECTONIC
+1355,2024-02-02 17:01:19+00:00,17.95,121.33,35,1.8,011 km N 09° W of Rizal (Cagayan),Ms,TECTONIC
+1356,2024-02-02 16:41:36+00:00,9.84,125.98,34,1.5,004 km S 16° E of Del Carmen (Surigao Del Norte),Ms,TECTONIC
+1357,2024-02-02 16:38:44+00:00,8.83,126.38,25,4.5,010 km N 68° E of Marihatag (Surigao Del Sur),Mw,TECTONIC
+1358,2024-02-02 15:54:10+00:00,8.18,126.94,1,2.6,060 km N 75° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1359,2024-02-02 15:24:51+00:00,8.77,126.51,27,2.4,024 km S 81° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1360,2024-02-02 14:54:24+00:00,15.59,119.84,39,1.5,010 km S 64° W of Candelaria (Zambales),Ms,TECTONIC
+1361,2024-02-02 14:52:04+00:00,10.28,125.94,35,1.4,031 km N 20° W of Santa Monica (Surigao Del Norte),Ms,TECTONIC
+1362,2024-02-02 14:46:05+00:00,8.38,126.66,4,2.2,036 km N 88° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1363,2024-02-02 14:42:56+00:00,6.37,124.85,33,2.0,010 km S 55° E of Banga (South Cotabato),Ms,TECTONIC
+1364,2024-02-02 14:25:52+00:00,8.59,126.4,32,3.1,025 km S 26° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1365,2024-02-02 13:49:37+00:00,7.89,126.07,1,2.3,008 km N 10° E of Monkayo (Davao De Oro),Ms,TECTONIC
+1366,2024-02-02 13:32:51+00:00,5.94,126.6,110,2.5,098 km S 36° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
+1367,2024-02-02 12:47:29+00:00,8.19,126.76,18,2.2,042 km N 68° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1368,2024-02-02 12:42:56+00:00,15.06,122.12,10,2.1,030 km N 34° E of Burdeos (Quezon),Ms,TECTONIC
+1369,2024-02-02 12:10:20+00:00,8.09,126.98,3,2.9,063 km N 85° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1370,2024-02-02 12:09:17+00:00,8.07,126.99,9,3.0,063 km N 87° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1371,2024-02-02 11:59:45+00:00,8.06,126.04,5,3.3,004 km N 54° W of Trento (Agusan Del Sur),Ms,TECTONIC
+1372,2024-02-02 09:14:54+00:00,8.53,126.98,9,2.5,073 km N 76° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1373,2024-02-02 08:34:20+00:00,18.43,120.78,38,1.9,011 km S 18° W of Dumalneg (Ilocos Norte),Ms,TECTONIC
+1374,2024-02-02 07:12:10+00:00,8.08,127.07,3,3.5,073 km N 86° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1375,2024-02-02 05:35:08+00:00,7.85,125.98,20,2.0,009 km N 69° W of Monkayo (Davao De Oro),Ms,TECTONIC
+1376,2024-02-02 05:22:08+00:00,10.39,126.26,7,2.2,046 km N 27° E of Burgos (Surigao Del Norte),Ms,TECTONIC
+1377,2024-02-02 05:04:08+00:00,8.72,127.08,19,2.7,087 km S 84° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1378,2024-02-02 05:01:47+00:00,8.05,126.95,19,2.4,059 km N 89° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1379,2024-02-02 05:00:14+00:00,8.07,126.95,21,2.4,059 km N 87° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1380,2024-02-02 04:45:00+00:00,8.13,126.9,11,2.3,055 km N 79° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1381,2024-02-02 04:27:57+00:00,18.21,120.55,24,2.4,005 km N 69° W of City Of Laoag (Ilocos Norte),Ms,TECTONIC
+1382,2024-02-02 03:59:06+00:00,8.27,126.53,35,1.8,024 km S 63° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1383,2024-02-02 02:59:46+00:00,8.1,126.88,9,2.0,052 km N 82° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1384,2024-02-02 02:03:31+00:00,8.27,126.89,3,2.6,058 km N 64° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1385,2024-02-02 00:28:44+00:00,8.88,125.48,26,1.5,013 km S 37° E of Buenavista (Agusan Del Norte),Ms,TECTONIC
+1386,2024-02-02 00:18:45+00:00,8.5,126.27,30,1.6,012 km N 69° E of Tagbina (Surigao Del Sur),Ms,TECTONIC
+1387,2024-02-01 23:30:10+00:00,9.72,121.98,8,3.4,049 km S 84° W of City Of Sipalay (Negros Occidental),Ms,TECTONIC
+1388,2024-02-01 22:32:49+00:00,8.09,126.84,6,2.2,048 km N 84° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1389,2024-02-01 22:28:39+00:00,8.14,126.91,12,1.8,056 km N 78° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1390,2024-02-01 22:25:57+00:00,13.52,120.76,7,2.4,009 km N 27° E of Abra De Ilog (Occidental Mindoro),Ms,TECTONIC
+1391,2024-02-01 22:17:04+00:00,8.12,126.74,10,2.1,037 km N 76° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1392,2024-02-01 22:16:17+00:00,8.26,126.78,1,1.4,047 km N 58° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1393,2024-02-01 22:15:33+00:00,8.74,126.31,26,1.9,006 km S 16° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1394,2024-02-01 22:07:58+00:00,8.74,126.66,10,2.3,041 km S 81° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1395,2024-02-01 21:58:51+00:00,8.12,127.04,12,2.3,070 km N 83° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1396,2024-02-01 21:54:50+00:00,8.33,126.42,32,2.0,010 km S 64° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1397,2024-02-01 21:54:15+00:00,8.07,127.08,10,1.4,073 km N 87° E of Lingig (Surigao Del Sur),Ms,TECTONIC
+1398,2024-02-01 21:35:33+00:00,8.18,127.18,1,5.3,086 km N 79° E of Lingig (Surigao Del Sur),Mw,TECTONIC
+1399,2024-02-01 21:03:23+00:00,7.78,124.06,12,2.2,003 km N 66° W of Pagayawan (Lanao Del Sur),Ms,TECTONIC
+1400,2024-02-01 20:51:33+00:00,8.28,126.49,29,1.8,020 km S 60° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1401,2024-02-01 20:27:58+00:00,8.46,126.46,23,2.0,017 km N 53° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1402,2024-02-01 19:35:24+00:00,10.41,121.91,29,2.8,003 km S 45° W of Anini-y (Antique),Ms,TECTONIC
+1403,2024-02-01 19:33:17+00:00,8.48,126.88,1,3.3,062 km N 77° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1404,2024-02-01 19:12:39+00:00,9.23,125.96,1,1.5,003 km S 14° W of Madrid (Surigao Del Sur),Ms,TECTONIC
+1405,2024-02-01 19:09:38+00:00,5.82,125.46,15,1.4,023 km S 64° W of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+1406,2024-02-01 18:48:39+00:00,8.66,127.29,20,2.8,110 km N 73° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1407,2024-02-01 18:46:43+00:00,8.15,127.01,3,3.2,073 km N 57° E of Cateel (Davao Oriental),Ms,TECTONIC
+1408,2024-02-01 18:12:08+00:00,15.06,119.71,38,1.7,038 km S 73° W of Cabangan (Zambales),Ms,TECTONIC
+1409,2024-02-01 17:45:42+00:00,5.25,126.21,131,3.0,086 km S 73° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1410,2024-02-01 17:08:21+00:00,10.57,122.44,11,2.7,013 km S 33° E of Tigbauan (Iloilo),Ms,TECTONIC
+1411,2024-02-01 17:04:33+00:00,10.55,122.43,16,2.8,012 km N 77° W of Nueva Valencia (Guimaras),Ms,TECTONIC
+1412,2024-02-01 16:14:24+00:00,10.18,124.93,2,2.4,009 km N 75° W of Malitbog (Southern Leyte),Ms,TECTONIC
+1413,2024-02-01 14:39:12+00:00,8.73,126.62,9,3.4,036 km S 78° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1414,2024-02-01 14:35:11+00:00,18.3,120.53,34,1.6,010 km N 55° W of Bacarra (Ilocos Norte),Ms,TECTONIC
+1415,2024-02-01 13:39:49+00:00,12.32,126.25,17,2.4,083 km N 79° E of San Policarpo (Eastern Samar),Ms,TECTONIC
+1416,2024-02-01 13:29:34+00:00,8.37,123.39,10,2.4,015 km N 59° W of Sergio Osmeña Sr. (Zamboanga Del Norte),Ms,TECTONIC
+1417,2024-02-01 13:24:38+00:00,4.59,126.21,96,4.0,126 km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1418,2024-02-01 12:32:04+00:00,13.4,121.75,8,2.3,012 km S 63° W of Boac (Marinduque),Ms,TECTONIC
+1419,2024-02-01 12:31:34+00:00,18.76,120.41,62,1.4,037 km N 42° W of Burgos (Ilocos Norte),Ms,TECTONIC
+1420,2024-02-01 12:23:21+00:00,13.41,121.78,18,2.0,007 km S 61° W of Boac (Marinduque),Ms,TECTONIC
+1421,2024-02-01 12:19:06+00:00,18.76,120.73,13,2.0,023 km N 14° W of Pagudpud (Ilocos Norte),Ms,TECTONIC
+1422,2024-02-01 12:03:54+00:00,8.37,126.61,16,2.5,030 km N 89° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1423,2024-02-01 11:46:22+00:00,9.04,126.47,2,2.6,023 km N 55° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1424,2024-02-01 11:41:12+00:00,8.75,126.83,3,2.2,059 km S 85° E of Marihatag (Surigao Del Sur),Ms,TECTONIC
+1425,2024-02-01 11:23:17+00:00,9.79,125.67,18,3.0,013 km N 43° E of Taganaan (Surigao Del Norte),Ms,TECTONIC
+1426,2024-02-01 10:27:07+00:00,8.24,126.48,32,2.2,021 km S 47° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1427,2024-02-01 08:56:10+00:00,8.63,126.83,1,1.8,061 km N 62° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1428,2024-02-01 06:15:33+00:00,10.16,125.24,31,1.6,012 km S 07° W of Anahawan (Southern Leyte),Ms,TECTONIC
+1429,2024-02-01 06:07:50+00:00,17.86,120.81,3,2.3,016 km N 03° W of Tineg (Abra),Ms,TECTONIC
+1430,2024-02-01 06:03:34+00:00,7.98,126.34,24,1.8,010 km S 50° W of Lingig (Surigao Del Sur),Ms,TECTONIC
+1431,2024-02-01 03:32:30+00:00,13.9,120.5,61,1.5,016 km N 61° W of Calatagan (Batangas),Ms,TECTONIC
+1432,2024-02-01 03:29:20+00:00,14.47,122.17,1,2.3,016 km N 69° E of Balesin Island (Polillo) (Quezon),Ms,TECTONIC
+1433,2024-02-01 01:02:30+00:00,9.53,126.02,33,1.4,012 km S 31° E of Socorro (Surigao Del Norte),Ms,TECTONIC
+1434,2024-02-01 00:43:48+00:00,8.77,126.63,6,2.3,040 km S 66° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1435,2024-01-31 22:17:28+00:00,8.47,126.85,1,2.9,057 km N 79° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1436,2024-01-31 22:00:01+00:00,18.52,120.83,3,2.3,002 km N 83° E of Dumalneg (Ilocos Norte),Ms,TECTONIC
+1437,2024-01-31 21:58:38+00:00,8.4,126.47,20,2.8,015 km N 75° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1438,2024-01-31 21:51:44+00:00,13.49,120.43,48,1.9,009 km N 24° W of Paluan (Occidental Mindoro),Ms,TECTONIC
+1439,2024-01-31 21:35:27+00:00,9.04,126.17,34,1.6,004 km S 10° W of City Of Tandag (Surigao Del Sur),Ms,TECTONIC
+1440,2024-01-31 21:34:27+00:00,8.85,127.29,19,1.5,109 km S 86° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1441,2024-01-31 21:32:50+00:00,9.18,126.22,14,1.6,011 km S 17° E of Cortes (Surigao Del Sur),Ms,TECTONIC
+1442,2024-01-31 21:29:22+00:00,8.87,127.15,2,3.7,093 km S 87° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+1443,2024-01-31 21:12:32+00:00,8.69,125.93,11,2.3,011 km N 08° E of Prosperidad (Agusan Del Sur),Ms,TECTONIC
+1444,2024-01-31 20:46:40+00:00,13.54,120.64,7,4.9,014 km N 42° W of Abra De Ilog (Occidental Mindoro),Mw,TECTONIC
+1445,2024-01-31 20:34:18+00:00,7.85,124.68,1,2.7,015 km N 32° W of Kalilangan (Bukidnon),Ms,TECTONIC
+1446,2024-01-31 20:29:58+00:00,9.06,126.49,5,1.6,025 km N 66° E of Bayabas (Surigao Del Sur),Ms,TECTONIC
+1447,2024-01-31 20:16:30+00:00,3.77,125.96,7,2.8,191 km S 18° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1448,2024-01-31 19:18:19+00:00,14.75,119.98,31,2.0,024 km S 28° W of San Antonio (Zambales),Ms,TECTONIC
+1449,2024-01-31 19:14:50+00:00,6.83,127.4,28,2.9,104 km S 66° E of Manay (Davao Oriental),Ms,TECTONIC
+1450,2024-01-31 19:08:50+00:00,16.34,120.88,11,2.5,002 km S 19° W of Kayapa (Nueva Vizcaya),Ms,TECTONIC
+1451,2024-01-31 18:41:38+00:00,4.49,126.11,9,2.5,127 km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1452,2024-01-31 18:31:26+00:00,3.58,126.34,37,4.0,226 km S 27° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+1453,2024-01-31 18:13:19+00:00,8.61,127.01,2,2.7,079 km N 70° E of Hinatuan (Surigao Del Sur),Ms,TECTONIC
+1454,2024-01-31 18:00:43+00:00,16.38,120.89,3,3.7,003 km N 13° E of Kayapa (Nueva Vizcaya),Ms,TECTONIC
+1455,2024-01-31 17:51:35+00:00,16.33,120.86,14,2.6,004 km S 37° W of Kayapa (Nueva Vizcaya),Ms,TECTONIC
+1456,2024-01-31 16:13:52+00:00,5.08,126.99,2,3.9,175 km S 59° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC

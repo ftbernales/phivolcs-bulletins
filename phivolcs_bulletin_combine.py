@@ -3,7 +3,7 @@ import sys, os
 from glob import glob
 
 
-def combine_from_csv(csv_files=None, csv_dir=None):
+def combine_from_csv(csv_files=None, csv_dir=None, hmtk_output=True):
     """
     Returns combined dataframe from csv file/s or directory of csv file/s
     """
@@ -24,11 +24,29 @@ def combine_from_csv(csv_files=None, csv_dir=None):
                         if is_valid_year(os.path.basename(f).split('_')[0])]
         
         df_phivolcs = _df_concat_from_csv_list(monthly_data)
-        
+
+    df_phivolcs.sort_values(by=['datetime'], inplace=True)    
     df_phivolcs.to_csv('combined.csv', encoding='windows-1252')
+    # add eventID column for ISC-like counter
+    df_phivolcs.insert(0, 'eventID', 
+                       range(61200000, 61200000 + len(df_phivolcs)))
 
     df_filtered = filter_df_phivolcs(df_phivolcs)
-    df_filtered.to_csv('combined_minM4pt5.csv', encoding='windows-1252')
+    df_filtered.to_csv('combined_minM4pt5.csv', encoding='windows-1252', 
+                       index=False)
+
+    if hmtk_output:
+        df_dt = pd.to_datetime(df_filtered.pop('datetime'))
+        df_filtered.insert(1, 'year', df_dt.dt.year)
+        df_filtered.insert(2, 'month', df_dt.dt.month)
+        df_filtered.insert(3, 'day', df_dt.dt.day)
+        df_filtered.insert(4, 'hour', df_dt.dt.hour)
+        df_filtered.insert(5, 'minute', df_dt.dt.minute)
+        df_filtered.insert(6, 'second', df_dt.dt.second)
+
+        df_filtered.to_csv('combined_hmtk_minM4pt5.csv', 
+                           encoding='windows-1252', index=False)
+
     return df_phivolcs
     
 
@@ -66,7 +84,7 @@ def _df_concat_from_csv_list(csv_list: list):
     for f in csv_list:
         df = pd.read_csv(f, header=0, index_col=0, encoding='windows-1252')
         df_comb = pd.concat([df_comb, df], ignore_index=True)
-
+    
     return df_comb
 
 
