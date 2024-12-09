@@ -1,0 +1,5 @@
+CRITICAL (2024-12-09 16:34:46,607): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2024/2024_December.html
+CRITICAL (2024-12-09 16:34:46,611): <class 'OSError'>
+No content found in https://earthquake.phivolcs.dost.gov.ph/EQLatest-Monthly/2024/2024_December.html
+['  File "C:\\Users\\AMH-L198\\documents\\projects\\phivolcs-bulletins\\phivolcs_bulletin.py", line 147, in <module>\n    df_phv = get_page(sys.argv[1])\n', '  File "C:\\Users\\AMH-L198\\documents\\projects\\phivolcs-bulletins\\phivolcs_bulletin.py", line 38, in get_page\n    raise IOError(f"No content found in {page_url}")\n']
