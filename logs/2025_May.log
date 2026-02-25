@@ -1,0 +1,9 @@
+WARNING (2025-10-13 13:37:31,921): Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='earthquake.phivolcs.dost.gov.ph', port=443): Read timed out. (read timeout=9)")': /2025_Earthquake_Information/May/2025_0531_1146_B1.html
+WARNING (2025-10-13 13:37:43,072): Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='earthquake.phivolcs.dost.gov.ph', port=443): Read timed out. (read timeout=9)")': /2025_Earthquake_Information/May/2025_0531_1146_B1.html
+WARNING (2025-10-13 13:38:02,912): Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='earthquake.phivolcs.dost.gov.ph', port=443): Read timed out. (read timeout=9)")': /2025_Earthquake_Information/May/2025_0531_1146_B1.html
+CRITICAL (2025-10-13 13:38:40,199): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/May/2025_0528_1925_b2.html
+CRITICAL (2025-10-13 13:38:40,374): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/May/2025_0528_1914_b3.html
+CRITICAL (2025-10-13 13:38:40,643): 
+404 Client Error: Not Found for url: https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/May/2025_0528_1855_b2.html
