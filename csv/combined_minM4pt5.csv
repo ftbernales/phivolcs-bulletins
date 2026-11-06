@@ -147,16 +147,16 @@ eventID,datetime,lat,lon,depth_km,mag,location,mag_type,event_type
 61203018,2016-07-06 21:00:48+00:00,6.74,126.25,54.0,4.9,021 km N 62° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
 61203029,2016-07-08 23:16:50+00:00,8.49,125.69,57.0,5.3,009 km N 80° W of Talacogon (Agusan Del Sur),Ms,TECTONIC
 61203042,2016-07-10 05:37:39+00:00,8.47,125.8,60.0,4.7,003km N 39° E of Talacogon (Agusan Del Sur),Ms,TECTONIC
-61203126,2016-07-19 15:01:08+00:00,19.23,121.21,20.0,4.8,071km N 11° E of Claveria (Cagayan),Ms,TECTONIC
+61203127,2016-07-19 15:01:08+00:00,19.23,121.21,20.0,4.8,071km N 11° E of Claveria (Cagayan),Ms,TECTONIC
 61203172,2016-07-24 01:45:09+00:00,20.65,121.11,9.0,4.7,079 km S 78° W of Itbayat (Batanes),Ms,TECTONIC
 61203173,2016-07-24 04:22:16+00:00,11.95,121.55,21.0,4.5,002 km N of Caluya (Antique),Ms,TECTONIC
 61203195,2016-07-25 15:05:33+00:00,7.55,121.79,43.0,4.8,041 km S 65° W of Siocon (Zamboanga Del Norte),Ms,TECTONIC
 61203204,2016-07-26 14:29:07+00:00,9.63,125.47,9.0,5.2,007 km S 61° W of Sison (Surigao Del Norte),Ms,TECTONIC
 61203209,2016-07-27 11:56:10+00:00,11.0,124.62,5.0,5.2,002 km N 79° E of Ormoc City (Leyte),Ms,TECTONIC
 61203316,2016-08-06 09:08:22+00:00,6.18,125.29,72.0,5.4,015 km N 62° E of General Santos City,Ms,TECTONIC
-61203359,2016-08-09 10:56:57+00:00,10.01,123.12,13.0,4.5,009 km N 69° W of Jimalalud (Negros Oriental),Ms,TECTONIC
-61203374,2016-08-09 10:56:57+00:00,5.31,125.62,139.0,5.4,022 km S 51° E of Sarangani (Davao Occidental),Ms,TECTONIC
-61203378,2016-08-09 10:56:57+00:00,5.53,125.3,51.0,5.3,022 km N 59° W of Sarangani (Davao Occidental),Ms,TECTONIC
+61203350,2016-08-09 10:56:57+00:00,10.01,123.12,13.0,4.5,009 km N 69° W of Jimalalud (Negros Oriental),Ms,TECTONIC
+61203354,2016-08-09 10:56:57+00:00,5.31,125.62,139.0,5.4,022 km S 51° E of Sarangani (Davao Occidental),Ms,TECTONIC
+61203366,2016-08-09 10:56:57+00:00,5.53,125.3,51.0,5.3,022 km N 59° W of Sarangani (Davao Occidental),Ms,TECTONIC
 61203389,2016-08-13 14:04:59+00:00,11.59,124.34,5.0,5.0,007 km N 62° W of Naval (Biliran),Ms,TECTONIC
 61203399,2016-08-15 05:28:12+00:00,5.72,126.21,97.0,4.7,068 km S 75° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
 61203400,2016-08-15 11:32:01+00:00,10.93,122.12,29.0,5.3,008 km S 09° W of Valderrama (Antique),Ms,TECTONIC
@@ -260,9 +260,9 @@ eventID,datetime,lat,lon,depth_km,mag,location,mag_type,event_type
 61206928,2017-04-20 04:38:36+00:00,5.68,127.11,135.0,4.5,157 km S 47° E of Governor Generoso (Davao Oriental),Ms,TECTONIC
 61206981,2017-04-23 01:19:45+00:00,9.18,126.36,20.0,5.1,021 km N 60° E of Tandag (Surigao Del Sur),Ms,TECTONIC
 61207064,2017-04-28 20:23:14+00:00,5.05,125.28,57.0,7.2,047 km S 26° W of Sarangani (Davao Occidental),Ms,TECTONIC
-61207151,2017-04-30 13:35:17+00:00,10.72,126.15,23.0,4.8,059 km S 53° E of Guiuan (Eastern Samar),Ms,TECTONIC
+61207146,2017-04-30 13:35:17+00:00,10.72,126.15,23.0,4.8,059 km S 53° E of Guiuan (Eastern Samar),Ms,TECTONIC
 61207331,2017-05-08 08:33:05+00:00,3.15,124.96,287.0,4.5,259 km S 13° W of Sarangani (Davao Occidental),Ms,TECTONIC
-61207340,2017-05-08 11:55:57+00:00,20.4,121.42,64.0,4.6,055 km N 85° W of Uyugan (Batanes),Ms,TECTONIC
+61207336,2017-05-08 11:55:57+00:00,20.4,121.42,64.0,4.6,055 km N 85° W of Uyugan (Batanes),Ms,TECTONIC
 61207445,2017-05-15 17:41:12+00:00,3.82,126.49,33.0,4.8,211 km S 32° E of Sarangani (Davao Occidental),Ms,TECTONIC
 61207527,2017-05-20 01:06:12+00:00,9.4,124.18,565.0,5.6,023 km S 22° E of Lila (Bohol),Ms,TECTONIC
 61207530,2017-05-20 05:17:27+00:00,6.42,127.03,94.0,4.7,094 km S 43° E of Tarragona (Davao Oriental),Ms,TECTONIC
@@ -356,7 +356,7 @@ eventID,datetime,lat,lon,depth_km,mag,location,mag_type,event_type
 61212384,2018-05-16 05:05:00+00:00,6.46,124.02,8.0,4.5,026 km S 61° W of Kalamansig (Sultan Kudarat),Ms,TECTONIC
 61212657,2018-05-31 15:44:23+00:00,4.02,126.5,39.0,4.7,194 km S 36° E of Sarangani (Davao Occidental),Ms,TECTONIC
 61212666,2018-06-01 10:21:38+00:00,7.32,123.9,588.0,5.0,033 km S 45° W of Balabagan (Lanao del Sur),Ms,TECTONIC
-61212696,2018-06-02 16:29:17+00:00,4.55,126.36,86.0,4.9,139 km S 45° E of Sarangani (Davao Occidental),Ms,TECTONIC
+61212695,2018-06-02 16:29:17+00:00,4.55,126.36,86.0,4.9,139 km S 45° E of Sarangani (Davao Occidental),Ms,TECTONIC
 61212697,2018-06-02 17:11:39+00:00,4.56,126.34,3.0,4.5,136 km S 45° E of Sarangani (Davao Occidental),Ms,TECTONIC
 61212706,2018-06-03 06:26:41+00:00,5.29,126.21,1.0,4.5,083 km S 79° E of Sarangani (Davao Occidental),Ms,TECTONIC
 61212764,2018-06-06 09:12:09+00:00,18.12,120.54,25.0,4.5,017 km N 64° W of Marcos (Ilocos Norte),Ms,TECTONIC
@@ -1847,7 +1847,7 @@ eventID,datetime,lat,lon,depth_km,mag,location,mag_type,event_type
 61304261,2024-12-10 21:26:40+00:00,5.54,127.1,43.0,4.5,166 km S 76° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
 61304268,2024-12-11 03:27:54+00:00,5.45,126.3,81.0,4.8,091 km S 89° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
 61304461,2024-12-17 07:37:39+00:00,9.61,122.47,34.0,4.8,001 km N 20° E of Hinoba-an (Negros Occidental),Mw,TECTONIC
-61304471,2024-12-17 11:05:34+00:00,5.19,127.54,128.0,4.8,225 km S 69° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+61304470,2024-12-17 11:05:34+00:00,5.19,127.54,128.0,4.8,225 km S 69° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
 61304495,2024-12-18 01:34:33+00:00,13.79,120.55,191.0,4.6,010 km S 64° W of Calatagan (Batangas),Mw,TECTONIC
 61304540,2024-12-19 01:09:52+00:00,17.66,119.42,27.0,5.0,100 km N 85° W of Santa Catalina (Ilocos Sur),Mw,TECTONIC
 61304551,2024-12-19 06:42:28+00:00,17.66,119.59,19.0,4.6,083 km N 85° W of Santa Catalina (Ilocos Sur),Mw,TECTONIC
@@ -2153,3 +2153,227 @@ eventID,datetime,lat,lon,depth_km,mag,location,mag_type,event_type
 61328890,2026-01-29 23:05:16+00:00,6.51,123.63,6.0,4.7,047 km S 84° W of Kalamansig (Sultan Kudarat),Mw,TECTONIC
 61328899,2026-01-30 00:49:15+00:00,6.44,123.73,2.0,4.7,037 km S 71° W of Kalamansig (Sultan Kudarat),Mw,TECTONIC
 61329020,2026-01-31 07:23:13+00:00,6.1,123.66,11.0,4.7,066 km S 40° W of Kalamansig (Sultan Kudarat),Mw,TECTONIC
+61329309,2026-02-04 07:11:27+00:00,9.3,126.52,7.0,4.6,036 km N 86° E of Cortes (Surigao Del Sur),Mw,TECTONIC
+61329324,2026-02-04 13:14:47+00:00,12.1,123.92,5.0,4.5,014 km N 35° W of Cataingan (Masbate),Mw,TECTONIC
+61329364,2026-02-04 21:34:23+00:00,6.28,123.77,3.0,4.6,043 km S 46° W of Kalamansig (Sultan Kudarat),Mw,TECTONIC
+61329674,2026-02-11 22:27:56+00:00,20.6,119.99,32.0,5.3,194 km S 83° W of Itbayat (Batanes),Mw,TECTONIC
+61329696,2026-02-12 14:02:15+00:00,19.91,121.49,28.0,4.6,062 km S 41° W of Sabtang (Batanes),Ms,TECTONIC
+61329726,2026-02-13 10:26:02+00:00,2.42,128.43,36.0,4.6,472 km S 46° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61329733,2026-02-13 13:12:10+00:00,2.55,127.93,19.0,4.5,422 km S 41° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61329738,2026-02-13 14:56:56+00:00,3.95,128.62,53.0,5.6,387 km S 64° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61329739,2026-02-13 15:09:20+00:00,3.37,128.27,15.0,4.5,388 km S 53° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61329740,2026-02-13 15:55:16+00:00,4.22,127.84,62.0,5.1,298 km S 62° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61329744,2026-02-13 18:56:47+00:00,3.48,127.77,9.0,4.7,337 km S 50° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61329748,2026-02-13 20:28:17+00:00,4.92,126.33,28.0,4.6,113 km S 57° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61329755,2026-02-14 01:02:13+00:00,3.83,126.64,56.0,4.7,221 km S 37° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61329780,2026-02-14 17:22:54+00:00,5.31,127.44,18.0,5.3,209 km S 71° E of Jose Abad Santos (Davao Occidental),Mw,TECTONIC
+61329815,2026-02-15 07:21:03+00:00,2.86,126.86,30.0,4.5,324 km S 29° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61329841,2026-02-16 01:36:09+00:00,17.22,120.0,6.0,4.8,049 km S 76° W of San Esteban (Ilocos Sur),Mw,TECTONIC
+61329950,2026-02-19 14:43:08+00:00,9.74,126.34,9.0,4.7,022 km S 78° E of General Luna (Surigao Del Norte),Mw,TECTONIC
+61330045,2026-02-22 10:40:41+00:00,19.31,121.1,9.0,4.8,025 km N 27° W of Dalupiri Island (Calayan) (Cagayan),Mw,TECTONIC
+61330260,2026-02-27 16:23:46+00:00,8.97,126.48,21.0,4.5,021 km N 74° E of Cagwait (Surigao Del Sur),Mw,TECTONIC
+61330280,2026-02-28 04:15:56+00:00,3.51,124.85,361.0,4.5,220 km S 17° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61330306,2026-02-28 17:22:17+00:00,4.75,126.18,101.0,5.4,112 km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61330339,2026-03-01 18:33:18+00:00,2.62,128.56,164.0,4.6,466 km S 48° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61330363,2026-03-02 10:13:25+00:00,10.65,122.28,11.0,4.8,005 km S 71° W of Guimbal (Iloilo),Mw,TECTONIC
+61330565,2026-03-07 05:57:57+00:00,6.99,126.68,54.0,4.8,029 km S 32° E of Manay (Davao Oriental),Mw,TECTONIC
+61330583,2026-03-07 15:53:38+00:00,12.96,124.71,14.0,4.9,049 km N 51° E of Biri (Northern Samar),Mw,TECTONIC
+61330584,2026-03-07 16:04:53+00:00,13.88,120.48,141.0,5.0,017 km N 74° W of Calatagan (Batangas),Mw,TECTONIC
+61330645,2026-03-09 10:52:42+00:00,12.1,125.7,13.0,4.6,022 km S 68° E of San Policarpo (Eastern Samar),Mw,TECTONIC
+61330740,2026-03-12 00:06:27+00:00,8.83,126.68,15.0,4.6,042 km N 85° E of Marihatag (Surigao Del Sur),Mw,TECTONIC
+61331374,2026-03-28 03:33:57+00:00,5.62,125.67,189.0,4.9,028 km N 53° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61331614,2026-04-01 22:48:00+00:00,,,35.0,7.4,524 km S 16° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61331748,2026-04-04 10:34:23+00:00,4.46,126.39,54.0,6.0,152 km S 42° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61331885,2026-04-06 07:22:42+00:00,10.97,124.03,7.0,5.1,010 km S 35° E of City Of Bogo (Cebu),Mw,TECTONIC
+61332052,2026-04-09 15:07:30+00:00,6.18,126.0,79.0,4.5,034 km S 88° E of Don Marcelino (Davao Occidental),Mw,TECTONIC
+61332352,2026-04-15 10:40:05+00:00,15.05,122.09,2.0,4.5,026 km N 29° E of Burdeos (Quezon),Mw,TECTONIC
+61332448,2026-04-17 06:47:16+00:00,9.67,125.79,116.0,4.7,013 km N 29° E of Claver (Surigao Del Norte),Mw,TECTONIC
+61332558,2026-04-19 18:35:44+00:00,3.51,126.72,26.0,4.6,255 km S 34° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61332607,2026-04-20 21:16:05+00:00,2.38,122.82,523.0,4.9,405 km S 40° E of South Ubian (Tawi-tawi),Ms,TECTONIC
+61333002,2026-04-28 22:58:19+00:00,12.36,125.57,12.0,4.8,021 km N 19° E of San Policarpo (Eastern Samar),Mw,TECTONIC
+61333062,2026-04-29 22:04:40+00:00,8.93,126.57,18.0,4.6,029 km N 88° E of Cagwait (Surigao Del Sur),Ms,TECTONIC
+61333089,2026-04-30 15:01:35+00:00,7.56,126.64,29.0,4.5,009 km S 79° E of Baganga (Davao Oriental),Mw,TECTONIC
+61333249,2026-05-04 06:09:46+00:00,11.84,125.58,52.0,6.0,017 km N 56° E of San Julian (Eastern Samar),Mw,TECTONIC
+61333393,2026-05-06 15:35:52+00:00,7.45,126.72,28.0,5.6,022 km S 52° E of Baganga (Davao Oriental),Mw,TECTONIC
+61333679,2026-05-12 08:53:52+00:00,4.65,127.63,111.0,4.7,260 km S 58° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+61333692,2026-05-12 18:10:22+00:00,2.29,128.32,34.0,4.6,472 km S 43° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61333744,2026-05-13 22:01:03+00:00,19.4,121.1,30.0,5.3,034 km N 19° W of Dalupiri Island (Calayan) (Cagayan),Mw,TECTONIC
+61333745,2026-05-13 22:10:15+00:00,19.37,121.16,40.0,4.6,029 km N 10° W of Dalupiri Island (Calayan) (Cagayan),Ms,TECTONIC
+61333903,2026-05-16 11:25:44+00:00,6.85,124.7,11.0,5.0,006 km N 69° W of General Salipada K. Pendatun (Maguindanao Del Sur),Mw,TECTONIC
+61334124,2026-05-20 02:26:46+00:00,10.0,126.15,21.0,4.6,008 km S 79° E of Burgos (Surigao Del Norte),Mw,TECTONIC
+61334207,2026-05-21 16:45:49+00:00,5.43,127.12,118.0,4.6,172 km S 72° E of Jose Abad Santos (Davao Occidental),Ms,TECTONIC
+61334382,2026-05-24 13:19:01+00:00,9.2,126.74,18.0,5.0,057 km N 64° E of Bayabas (Surigao Del Sur),Mw,TECTONIC
+61334398,2026-05-24 16:48:41+00:00,9.18,126.41,23.0,5.5,027 km N 30° E of Bayabas (Surigao Del Sur),Mw,TECTONIC
+61334434,2026-05-25 02:32:35+00:00,7.95,126.99,7.0,5.0,062 km N 49° E of Baganga (Davao Oriental),Mw,TECTONIC
+61334791,2026-05-30 13:15:08+00:00,5.82,126.7,16.0,4.6,116 km S 37° E of Governor Generoso (Davao Oriental),Mw,TECTONIC
+61334893,2026-06-01 10:43:05+00:00,12.14,123.87,5.0,4.5,005 km S 13° E of Dimasalang (Masbate),Mw,TECTONIC
+61335136,2026-06-05 13:57:58+00:00,13.21,123.92,9.0,5.3,015 km S 80° E of Santo Domingo (Albay),Mw,TECTONIC
+61335176,2026-06-06 09:07:22+00:00,10.19,121.57,3.0,4.5,048 km S 55° W of Anini-y (Antique),Mw,TECTONIC
+61335186,2026-06-06 12:38:46+00:00,4.67,126.18,33.0,4.5,118 km S 46° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61335333,2026-06-07 23:37:41+00:00,5.57,124.98,33.0,7.8,032 km S 04° W of Maasim (Sarangani),Mw,TECTONIC
+61335347,2026-06-08 00:55:09+00:00,5.24,125.16,34.0,6.4,035 km S 55° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61335415,2026-06-08 05:11:56+00:00,4.75,125.5,68.0,4.9,074 km S 07° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61335442,2026-06-08 06:59:58+00:00,4.81,124.99,22.0,4.7,082 km S 36° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61335494,2026-06-08 11:22:26+00:00,5.26,125.21,49.0,5.1,029 km S 53° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61335553,2026-06-08 14:52:57+00:00,5.55,124.75,2.0,5.5,044 km S 38° W of Maasim (Sarangani),Mw,TECTONIC
+61335700,2026-06-08 23:38:03+00:00,5.24,125.39,17.0,5.2,020 km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61335713,2026-06-09 01:18:53+00:00,5.24,125.28,25.0,4.9,024 km S 39° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61335765,2026-06-09 06:15:13+00:00,5.2,125.1,33.0,5.1,043 km S 57° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61335793,2026-06-09 08:15:31+00:00,5.45,125.82,10.0,5.0,038 km S 86° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),M,TECTONIC
+61335800,2026-06-09 08:51:25+00:00,5.17,125.25,38.0,4.9,033 km S 35° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61335806,2026-06-09 09:25:03+00:00,8.63,125.63,29.0,5.0,006 km S 24° W of Esperanza (Agusan Del Sur),Mw,TECTONIC
+61335816,2026-06-09 10:07:23+00:00,5.59,124.79,2.0,5.3,038 km S 38° W of Maasim (Sarangani),Ms,TECTONIC
+61335890,2026-06-09 16:49:16+00:00,5.04,125.43,21.0,5.0,041 km S 01° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61335902,2026-06-09 17:40:34+00:00,4.83,125.02,7.0,5.0,078 km S 34° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61335910,2026-06-09 18:09:48+00:00,5.52,125.4,13.0,5.1,009 km N 58° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61335954,2026-06-09 23:14:36+00:00,4.96,125.43,19.0,4.5,050 km S 01° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61335981,2026-06-10 01:54:20+00:00,5.56,125.09,31.0,4.9,032 km S 24° W of Glan (Sarangani),Mw,TECTONIC
+61336098,2026-06-10 09:13:41+00:00,5.8,125.12,17.0,4.9,009 km S 74° W of Glan (Sarangani),Mw,TECTONIC
+61336111,2026-06-10 11:07:48+00:00,5.34,125.43,2.0,4.9,008 km S 04° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61336266,2026-06-11 01:56:07+00:00,4.63,125.22,33.0,5.4,089 km S 14° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61336285,2026-06-11 03:14:29+00:00,5.24,126.05,18.0,4.5,069 km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61336319,2026-06-11 05:38:46+00:00,5.15,124.92,3.0,4.6,062 km S 63° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61336329,2026-06-11 07:33:12+00:00,4.42,125.3,21.0,5.3,111 km S 07° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61336364,2026-06-11 11:46:54+00:00,4.64,125.28,16.0,4.6,087 km S 11° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61336557,2026-06-12 05:14:36+00:00,5.24,124.62,2.0,4.8,080 km S 31° W of Maasim (Sarangani),Mw,TECTONIC
+61336725,2026-06-12 17:58:31+00:00,5.23,124.7,13.0,4.8,077 km S 25° W of Maasim (Sarangani),Mw,TECTONIC
+61336747,2026-06-12 19:09:59+00:00,4.59,125.26,2.0,4.9,092 km S 11° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61336756,2026-06-12 19:33:54+00:00,3.56,128.25,25.0,4.7,374 km S 55° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61336836,2026-06-13 02:05:46+00:00,5.44,125.13,17.0,5.3,032 km N 85° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61336953,2026-06-13 20:51:58+00:00,5.85,125.22,16.0,4.7,003 km N 38° E of Glan (Sarangani),Ms,TECTONIC
+61336968,2026-06-13 23:28:39+00:00,5.32,125.39,24.0,4.9,011 km S 19° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61337130,2026-06-14 14:08:51+00:00,8.62,126.71,8.0,4.7,050 km N 56° E of Hinatuan (Surigao Del Sur),Mw,TECTONIC
+61337139,2026-06-14 15:34:40+00:00,10.2,122.2,3.0,4.8,039 km S 49° E of Anini-y (Antique),Mw,TECTONIC
+61337286,2026-06-15 09:18:36+00:00,6.13,126.93,112.0,6.2,111 km S 58° E of Governor Generoso (Davao Oriental),Mw,TECTONIC
+61337327,2026-06-15 14:49:10+00:00,5.37,125.23,13.0,4.5,022 km S 77° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61337329,2026-06-15 15:30:22+00:00,5.63,125.23,44.0,5.5,021 km S 07° E of Glan (Sarangani),Mw,TECTONIC
+61337368,2026-06-15 20:16:12+00:00,5.54,125.19,5.0,4.9,030 km N 59° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61337654,2026-06-17 08:03:23+00:00,5.18,124.86,16.0,4.6,067 km S 68° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61337803,2026-06-17 21:49:27+00:00,6.46,126.65,58.0,4.9,067 km S 71° E of Governor Generoso (Davao Oriental),Mw,TECTONIC
+61337888,2026-06-18 06:57:33+00:00,5.65,125.07,40.0,5.2,025 km S 38° W of Glan (Sarangani),Mw,TECTONIC
+61337954,2026-06-18 16:21:09+00:00,5.09,125.04,20.0,4.7,056 km S 49° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61337955,2026-06-18 16:34:02+00:00,6.52,126.66,21.0,5.3,063 km S 22° E of Tarragona (Davao Oriental),Mw,TECTONIC
+61338219,2026-06-19 18:38:22+00:00,5.0,125.09,12.0,4.8,058 km S 39° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61338353,2026-06-20 13:45:53+00:00,5.33,125.26,38.0,4.7,019 km S 66° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61338590,2026-06-22 02:17:48+00:00,5.65,125.29,14.0,4.8,021 km S 25° E of Glan (Sarangani),Mw,TECTONIC
+61338742,2026-06-23 15:19:38+00:00,5.5,125.02,33.0,4.7,040 km S 04° E of Maasim (Sarangani),Ms,TECTONIC
+61338795,2026-06-23 23:55:16+00:00,16.57,119.02,15.0,4.5,095 km N 78° W of Bolinao (Pangasinan),Mw,TECTONIC
+61338812,2026-06-24 01:34:17+00:00,16.56,118.97,11.0,4.7,101 km N 61° W of Agno (Pangasinan),Mw,TECTONIC
+61338818,2026-06-24 02:04:48+00:00,16.58,118.94,14.0,5.1,104 km N 78° W of Bolinao (Pangasinan),Mw,TECTONIC
+61338825,2026-06-24 03:32:05+00:00,5.12,125.14,32.0,4.8,045 km S 44° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61338986,2026-06-25 04:03:37+00:00,5.21,125.08,27.0,4.9,044 km S 60° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61339072,2026-06-25 21:17:49+00:00,9.87,127.01,19.0,5.1,094 km N 84° E of General Luna (Surigao Del Norte),Mw,TECTONIC
+61339109,2026-06-26 11:34:35+00:00,4.82,125.21,38.0,6.5,070 km S 20° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61339186,2026-06-26 20:07:56+00:00,5.26,125.39,21.0,4.6,017 km S 13° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61339402,2026-06-28 17:57:10+00:00,5.36,125.35,15.0,4.5,010 km S 52° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61339411,2026-06-28 19:09:04+00:00,16.64,119.06,21.0,5.0,094 km N 73° W of Bolinao (Pangasinan),Mw,TECTONIC
+61339468,2026-06-29 04:14:31+00:00,4.58,125.05,32.0,4.8,101 km S 24° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61339685,2026-06-30 21:34:00+00:00,5.31,125.37,27.0,4.9,012 km S 28° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61340024,2026-07-03 02:31:00+00:00,1.92,127.3,,6.3,439 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61340044,2026-07-03 08:11:41+00:00,2.17,127.17,135.0,4.5,407 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61340150,2026-07-03 19:09:15+00:00,5.36,125.03,49.0,4.7,043 km S 82° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61340196,2026-07-04 02:21:19+00:00,5.27,125.36,1.0,5.1,017 km S 24° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61340223,2026-07-04 04:26:23+00:00,5.24,125.36,3.0,4.8,020 km S 21° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61340266,2026-07-04 08:53:19+00:00,4.94,125.06,18.0,4.9,066 km S 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61340553,2026-07-06 08:11:09+00:00,5.01,125.3,18.0,6.0,047 km S 16° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61340555,2026-07-06 08:41:36+00:00,4.9,125.32,22.0,5.3,057 km S 11° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61340650,2026-07-07 07:16:26+00:00,2.98,127.44,96.0,5.5,351 km S 40° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61340705,2026-07-07 20:37:35+00:00,13.72,120.51,101.0,4.7,028 km N 90° E of Looc (Occidental Mindoro),Mw,TECTONIC
+61340786,2026-07-08 20:32:04+00:00,11.45,126.53,24.0,4.8,098 km N 67° E of Mercedes (Eastern Samar),Mw,TECTONIC
+61340803,2026-07-09 06:33:45+00:00,16.34,120.51,10.0,4.6,005 km N 58° E of Pugo (La Union),Mw,TECTONIC
+61340834,2026-07-09 16:46:50+00:00,10.81,125.38,92.0,4.9,033 km S 01° W of Balangiga (Eastern Samar),Mw,TECTONIC
+61340907,2026-07-11 00:47:39+00:00,7.8,126.12,11.0,4.5,008 km S 72° E of Monkayo (Davao De Oro),Mw,TECTONIC
+61340926,2026-07-11 10:51:05+00:00,4.69,125.55,24.0,5.0,081 km S 10° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61340950,2026-07-11 17:49:23+00:00,4.55,125.35,30.0,4.7,096 km S 05° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61340984,2026-07-12 00:43:24+00:00,3.13,126.96,84.0,4.8,305 km S 34° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61341062,2026-07-13 00:54:01+00:00,12.77,123.04,5.0,5.4,027 km S 58° W of Claveria (Masbate),Mw,TECTONIC
+61341170,2026-07-14 01:38:21+00:00,5.05,125.4,20.0,4.6,040 km S 04° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61341189,2026-07-14 07:04:53+00:00,12.8,123.03,5.0,5.2,025 km S 66° W of Claveria (Masbate),Ms,TECTONIC
+61341190,2026-07-14 07:18:47+00:00,12.78,123.0,3.0,4.7,030 km S 64° W of Claveria (Masbate),Mw,TECTONIC
+61341221,2026-07-14 13:15:05+00:00,5.49,125.46,15.0,4.7,002 km N 21° W of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61341243,2026-07-14 15:49:36+00:00,5.04,125.14,37.0,6.3,051 km S 37° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61341514,2026-07-17 16:12:48+00:00,5.37,125.35,17.0,5.5,010 km S 58° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61341563,2026-07-18 02:23:39+00:00,4.46,124.75,5.0,5.6,129 km S 35° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61341704,2026-07-19 08:19:46+00:00,5.19,125.38,25.0,4.5,025 km S 10° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61341805,2026-07-20 09:40:52+00:00,1.99,127.11,177.0,5.1,422 km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61341928,2026-07-21 18:33:20+00:00,5.41,125.42,16.0,4.8,000 km S 27° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61341973,2026-07-22 09:47:13+00:00,5.38,125.45,19.0,5.1,005 km S 42° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61342153,2026-07-24 19:06:28+00:00,4.71,125.28,30.0,4.9,079 km S 12° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61342209,2026-07-25 06:45:58+00:00,4.63,125.31,7.0,4.5,087 km S 08° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61342234,2026-07-25 13:04:23+00:00,5.78,124.34,11.0,4.5,036 km S 29° W of Maitum (Sarangani),Ms,TECTONIC
+61342457,2026-07-27 23:06:32+00:00,7.54,126.71,30.0,5.1,016 km S 77° E of Baganga (Davao Oriental),Mw,TECTONIC
+61342520,2026-07-29 00:39:33+00:00,10.23,126.23,13.0,4.6,029 km N 36° E of Burgos (Surigao Del Norte),Mw,TECTONIC
+61342557,2026-07-29 13:16:54+00:00,5.36,125.34,33.0,4.8,011 km S 57° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61342558,2026-07-29 13:23:52+00:00,5.12,124.98,27.0,4.9,059 km S 56° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61342563,2026-07-29 14:11:06+00:00,15.38,122.82,33.0,5.0,093 km N 35° E of Jomalig (Quezon),Mw,TECTONIC
+61342566,2026-07-29 15:10:00+00:00,13.33,124.83,22.0,5.3,061 km S 53° E of Baras (Catanduanes),Mw,TECTONIC
+61342751,2026-08-01 02:42:37+00:00,4.94,125.42,55.0,4.5,046 km S 04° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61342844,2026-08-02 16:26:59+00:00,3.94,126.14,126.0,4.9,181 km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61342874,2026-08-02 22:48:33+00:00,5.14,125.38,33.0,4.7,031 km S 09° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61343017,2026-08-05 04:14:05+00:00,5.17,125.08,6.0,6.4,047 km S 55° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61343147,2026-08-05 16:50:21+00:00,2.16,127.16,183.0,5.3,408 km S 28° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61343167,2026-08-05 19:32:22+00:00,4.77,125.31,2.0,4.5,072 km S 10° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61343184,2026-08-05 21:41:26+00:00,4.81,125.31,13.0,5.6,068 km S 11° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61343290,2026-08-07 02:38:03+00:00,13.18,120.48,18.0,5.3,013 km S 65° W of Mamburao (Occidental Mindoro),Mw,TECTONIC
+61343462,2026-08-09 13:47:05+00:00,4.96,125.65,151.0,4.5,056 km S 26° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61343481,2026-08-09 17:05:36+00:00,11.49,125.5,35.0,4.6,001 km S 13° E of Maydolong (Eastern Samar),Ms,TECTONIC
+61343489,2026-08-09 21:42:25+00:00,3.39,127.3,3.0,4.6,306 km S 43° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61343491,2026-08-09 22:17:19+00:00,3.29,126.95,32.0,5.1,289 km S 36° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61343507,2026-08-10 05:35:43+00:00,8.91,126.55,19.0,4.5,028 km S 88° E of Cagwait (Surigao Del Sur),Mw,TECTONIC
+61343697,2026-08-12 21:25:23+00:00,20.4,121.78,13.0,4.6,013 km N 54° W of Sabtang (Batanes),Mw,TECTONIC
+61343709,2026-08-13 09:22:56+00:00,6.15,125.93,103.0,5.3,027 km S 77° E of Don Marcelino (Davao Occidental),Mw,TECTONIC
+61343742,2026-08-13 18:39:25+00:00,5.04,125.56,81.0,5.4,044 km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61343763,2026-08-14 01:14:46+00:00,5.13,125.13,33.0,4.8,044 km S 46° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61343809,2026-08-14 18:03:52+00:00,3.65,128.08,15.0,4.7,353 km S 55° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61343894,2026-08-15 22:10:00+00:00,5.0,126.06,101.0,4.5,084 km S 58° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61344078,2026-08-19 04:22:57+00:00,19.28,121.12,23.0,4.8,021 km N 26° W of Dalupiri Island (Calayan) (Cagayan),Mw,TECTONIC
+61344105,2026-08-19 11:01:31+00:00,5.21,125.32,67.0,5.4,024 km S 26° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61344243,2026-08-21 09:12:19+00:00,9.32,125.46,6.0,5.1,007 km S 67° W of Jabonga (Agusan Del Norte),Mw,TECTONIC
+61344244,2026-08-21 09:22:36+00:00,9.37,125.47,6.0,4.9,006 km N 61° W of Jabonga (Agusan Del Norte),Mw,TECTONIC
+61344307,2026-08-22 04:44:09+00:00,9.26,125.47,10.0,4.6,010 km S 27° W of Jabonga (Agusan Del Norte),Mw,TECTONIC
+61344313,2026-08-22 06:43:38+00:00,6.74,126.77,71.0,5.0,050 km S 46° E of Tarragona (Davao Oriental),Mw,TECTONIC
+61344466,2026-08-24 03:59:29+00:00,5.3,125.15,22.0,4.6,032 km S 67° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61344584,2026-08-26 09:51:23+00:00,21.58,122.1,33.0,4.5,092 km N 17° E of Itbayat (Batanes),Mw,TECTONIC
+61344628,2026-08-27 18:43:40+00:00,5.68,125.88,34.0,4.6,036 km S 46° E of Jose Abad Santos (Davao Occidental),Mw,TECTONIC
+61344697,2026-08-29 06:32:48+00:00,9.99,126.54,16.0,4.8,048 km N 62° E of General Luna (Surigao Del Norte),Mw,TECTONIC
+61344784,2026-08-30 12:08:24+00:00,5.56,125.02,37.0,4.5,033 km S 04° E of Maasim (Sarangani),Mw,TECTONIC
+61344820,2026-08-31 04:04:27+00:00,9.76,126.43,17.0,4.8,030 km S 85° E of General Luna (Surigao Del Norte),Mw,TECTONIC
+61344906,2026-09-01 13:22:28+00:00,5.01,125.84,113.0,5.4,064 km S 46° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61345334,2026-09-09 07:07:06+00:00,4.48,125.13,11.0,4.6,108 km S 17° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61345518,2026-09-12 03:37:06+00:00,3.42,127.33,154.0,4.8,306 km S 44° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61345520,2026-09-12 04:10:14+00:00,18.84,121.04,8.0,4.5,026 km N 09° W of Claveria (Cagayan),Ms,TECTONIC
+61345756,2026-09-15 02:03:51+00:00,9.41,126.19,22.0,4.7,015 km N 03° W of Cortes (Surigao Del Sur),Ms,TECTONIC
+61345816,2026-09-16 11:50:15+00:00,7.63,127.32,5.0,4.9,083 km N 87° E of Baganga (Davao Oriental),Ms,TECTONIC
+61346201,2026-09-21 23:48:12+00:00,4.53,125.15,5.0,4.9,102 km S 17° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61346271,2026-09-23 04:33:28+00:00,19.72,121.58,4.0,4.5,052 km N 12° E of Calayan (Cagayan),Ms,TECTONIC
+61346661,2026-09-28 15:01:36+00:00,5.48,127.1,55.0,4.7,168 km S 73° E of Jose Abad Santos (Davao Occidental),Mw,TECTONIC
+61346781,2026-09-30 01:34:08+00:00,13.16,120.43,24.0,4.8,019 km S 67° W of Mamburao (Occidental Mindoro),Mw,TECTONIC
+61346837,2026-10-01 05:34:12+00:00,6.06,123.75,41.0,4.9,051 km S 71° W of Palimbang (Sultan Kudarat),Ms,TECTONIC
+61346929,2026-10-02 15:10:17+00:00,14.56,119.12,17.0,4.5,113 km S 67° W of San Antonio (Zambales),Mw,TECTONIC
+61347063,2026-10-03 23:14:31+00:00,3.32,122.92,571.0,4.6,329 km S 22° E of Tongkil (Sulu),Ms,TECTONIC
+61347136,2026-10-05 06:14:17+00:00,4.29,126.88,128.0,4.5,203 km S 50° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61347205,2026-10-06 13:11:25+00:00,5.01,118.92,13.0,5.0,062 km N 73° W of Sibutu (Tawi-tawi),Mw,TECTONIC
+61347271,2026-10-07 16:42:45+00:00,5.09,125.93,122.0,4.6,066 km S 57° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61347307,2026-10-08 08:07:56+00:00,5.54,125.28,25.0,5.6,021 km N 49° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61347311,2026-10-08 08:35:03+00:00,5.65,125.27,27.0,4.5,020 km S 21° E of Glan (Sarangani),Ms,TECTONIC
+61347510,2026-10-11 02:35:30+00:00,5.03,126.56,80.0,4.5,131 km S 68° E of Sarangani Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61347613,2026-10-13 06:01:22+00:00,19.3,121.16,18.0,4.9,021 km N 13° W of Dalupiri Island (Calayan) (Cagayan),Mw,TECTONIC
+61347644,2026-10-13 15:21:40+00:00,5.17,125.32,52.0,4.7,029 km S 23° W of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61347732,2026-10-15 04:41:19+00:00,19.14,121.34,26.0,4.5,015 km N 75° E of Dalupiri Island (Calayan) (Cagayan),Mw,TECTONIC
+61347779,2026-10-16 09:13:36+00:00,7.92,127.13,2.0,5.1,073 km N 59° E of Baganga (Davao Oriental),Mw,TECTONIC
+61347787,2026-10-16 12:18:27+00:00,6.16,126.13,39.0,4.5,048 km S 85° E of Don Marcelino (Davao Occidental),Mw,TECTONIC
+61347972,2026-10-19 09:00:43+00:00,2.64,126.44,87.0,4.7,327 km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61348080,2026-10-21 08:37:40+00:00,13.22,125.91,57.0,4.8,108 km N 41° E of Mapanas (Northern Samar),Mw,TECTONIC
+61348154,2026-10-23 09:09:00+00:00,6.56,124.01,608.0,4.7,004 km West of Kalamansig (Sultan Kudarat),Ms,TECTONIC
+61348200,2026-10-23 21:41:07+00:00,7.78,126.81,5.0,4.5,036 km N 51° E of Baganga (Davao Oriental),Ms,TECTONIC
+61348219,2026-10-24 11:48:10+00:00,19.83,121.95,4.0,4.7,080 km N 39° E of Calayan (Cagayan),Ms,TECTONIC
+61348362,2026-10-26 20:41:19+00:00,5.6,126.89,16.0,4.6,142 km S 76° E of Jose Abad Santos (Davao Occidental),Mw,TECTONIC
+61348433,2026-10-27 23:43:49+00:00,5.66,125.25,15.0,5.1,019 km S 16° E of Glan (Sarangani),Mw,TECTONIC
+61348441,2026-10-28 01:11:53+00:00,5.64,125.3,18.0,5.0,023 km S 29° E of Glan (Sarangani),Mw,TECTONIC
+61348451,2026-10-28 09:32:50+00:00,5.07,125.43,38.0,4.7,038 km S 01° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Mw,TECTONIC
+61348461,2026-10-28 12:14:52+00:00,5.71,125.38,7.0,4.5,023 km S 57° E of Glan (Sarangani),Ms,TECTONIC
+61348488,2026-10-28 19:56:50+00:00,2.52,126.48,27.0,5.0,341 km S 20° E of Balut Island (Municipality Of Sarangani) (Davao Occidental),Ms,TECTONIC
+61348498,2026-10-29 03:17:56+00:00,8.48,127.46,33.0,5.7,126 km N 67° E of Lingig (Surigao Del Sur),M,TECTONIC
+61348499,2026-10-29 03:19:06+00:00,8.42,127.4,16.0,5.9,116 km N 69° E of Lingig (Surigao Del Sur),Mw,TECTONIC
+61348516,2026-10-29 07:31:32+00:00,8.56,127.45,32.0,5.5,128 km N 63° E of Lingig (Surigao Del Sur),Mw,TECTONIC
+61348589,2026-10-30 17:06:33+00:00,9.03,126.15,36.0,4.5,005 km S 22° W of City Of Tandag (Surigao Del Sur),Mw,TECTONIC
